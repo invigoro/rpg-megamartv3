@@ -1,0 +1,59 @@
+data = [
+    {
+        "title": "Eldritch Spinner",
+        "cost": 200,
+        "quantity": 2,
+        "overview": "An arcane artifact to keep you focused.",
+        "description": "When you spin the Eldritch Spinner as a bonus action, you can continue to concentrate on a spell for an additional turn when your concentration would have otherwise ended. It can be used a number of times equal to your spellcasting ability modifier, with its uses restoring during a long rest.</p><p>The Eldritch Spinner also serves as an arcane focus.<br>",
+        "img": "./images/spinner.jpg"
+    },
+    {
+        "title": "Parental Lock",
+        "cost": 100,
+        "quantity": 1,
+        "overview": "An arcane padlock.",
+        "description": "A large padlock that, once secured, can only be unlocked by one of the parents of the person who locked it.<br>",
+        "img": "./images/padlock.jpg"
+    },
+    {
+        "title": "Horse Hat",
+        "cost": 500,
+        "quantity": 1,
+        "overview": "The easiest way to transport your horse.",
+        "description": "This item allows you to store your horse on top of your head without having to make a strength roll. It doesn't conceal the horse; you can still see it if you squint.",
+        "img": "./images/horsehat.png"
+    },
+    {
+        "title": "Horn of Resounding Triumph",
+        "cost": 200,
+        "quantity": 2,
+        "overview": "A battle horn of victory.",
+        "description": "When you sound the Horn of Resounding Triumph as an action in battle, you fill your companions with inspiration. Each of your allies within 100 ft. of you gain a bardic inspiration die (<b>1d6</b>) for the duration of combat.</p><p>If you sound the horn in a confined space, every creature in a 100 ft. radius must make a <b>DC 14 </b>Constitution saving throw, taking <b>2d6</b>&nbsp;thunder damage and being deafened on a failed save, and half as much damage (and not deafened) on a successful save. This item can be used once per long rest.",
+        "img": "./images/horn.jpeg"
+    },
+    {
+        "title": "Ring of Sobriety",
+        "cost": 50,
+        "quantity": 1,
+        "overview": "A ring that keeps you clear-headed.",
+        "description": "When wearing this ring, you are immune to the hazy, clumsy, and sluggish side effects from partaking in alcohol or drugs. However, the moment the ring is removed from your finger, all of the combined effects that were held off by the ring come crashing down on you at once.",
+        "img": "./images/ring1.webp"
+    },
+    {
+        "title": "Spectacles of Truthsight",
+        "cost": 200,
+        "quantity": 2,
+        "overview": "The easiest way to see through the bullshit.",
+        "description": "When wearing these dichromatic spectacles, you can visually separate the truth or falsehood of anyone's speech by color. Truth appears to you as green; lies appear to you as red, and partial truths appear somewhere in between. They can be used for up to 10 minutes; afterwards, roll 1d6. On a 1, the glasses fracture beyond repair.",
+        "img": "./images/spectaclesrg.gif"
+    },
+    {
+        "title": "Hammer of Surmise Sturdiness",
+        "cost": 150,
+        "quantity": 1,
+        "overview": "A hammer to help you find what's hidden.",
+        "description": "This magic hammer, when lightly struck against a surface, will produce a soft&nbsp;<i>tap</i>&nbsp;sound that rings differently depending on the material it's being struck against and the thickness of the material. For the first 3 feet of the material, the user can infer the material type, including open air if the surface being struck is less than 3 feet. For each additional foot after that, the bearer of the hammer must make an Intelligence (Arcana) check of DC 10 + the number of feet greater than 3 to determine what material is there and whether there is an opening. For example, 4 feet would have a DC of 11, 5 feet a DC of 12, and so on. Until they fail this check, they can continue trying to discern the material farther and farther, one foot at a time.</p><p>This hammer has a limited number of uses equal to 1d4 per day.",
+        "img": "./images/hammer.jpg"
+    }
+    
+]
