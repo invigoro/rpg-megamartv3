@@ -36,7 +36,7 @@ data = [
         "cost": 50,
         "quantity": 1,
         "overview": "A ring that keeps you clear-headed.",
-        "description": "When wearing this ring, you are immune to the hazy, clumsy, and sluggish side effects from partaking in alcohol or drugs. However, the moment the ring is removed from your finger, all of the combined effects that were held off by the ring come crashing down on you at once.",
+        "description": "When wearing this ring, you are immune to the hazy, clumsy, and sluggish side effects from partaking in alcohol or drugs. However, the moment the ring is removed from your finger, all of the cumulative effects that were held off by the ring come crashing down on you at once.",
         "img": "./images/ring1.webp"
     },
     {
@@ -54,6 +54,13 @@ data = [
         "overview": "A hammer to help you find what's hidden.",
         "description": "This magic hammer, when lightly struck against a surface, will produce a soft&nbsp;<i>tap</i>&nbsp;sound that rings differently depending on the material it's being struck against and the thickness of the material. For the first 3 feet of the material, the user can infer the material type, including open air if the surface being struck is less than 3 feet. For each additional foot after that, the bearer of the hammer must make an Intelligence (Arcana) check of DC 10 + the number of feet greater than 3 to determine what material is there and whether there is an opening. For example, 4 feet would have a DC of 11, 5 feet a DC of 12, and so on. Until they fail this check, they can continue trying to discern the material farther and farther, one foot at a time.</p><p>This hammer has a limited number of uses equal to 1d4 per day.",
         "img": "./images/hammer.jpg"
-    }
-    
+    },
+    {
+        "title": "Shield of Faith",
+        "cost": 100,
+        "quantity": 1,
+        "overview": "A shield that only works if you beleive",
+        "description": "Whenever you take the <b>Dodge</b>&nbsp;action, you can choose to make a <b>DC 15 Religion (WIS)</b>&nbsp;check in order to believe this shield will protect you. On a success, your <b>AC</b>&nbsp;is increased by 5 until the start of your next turn.",
+        "img": "./images/shieldoffaith.jpeg"
+    }    
 ]
