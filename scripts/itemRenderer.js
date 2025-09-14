@@ -1,5 +1,6 @@
 function renderItems(data) {
-        data.sort(compareItemCost)
+        data.sort(compareItemCost);
+        data = data.filter(item => item.quantity > 0);
         for (i = 0; i < data.length; i++) {
             let item = data[i];
             console.log(item);
