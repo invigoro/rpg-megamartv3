@@ -59,7 +59,7 @@ data = [
         "title": "Shield of Faith",
         "cost": 100,
         "quantity": 1,
-        "overview": "A shield that only works if you beleive",
+        "overview": "A shield that only works if you believe",
         "description": "Whenever you take the <b>Dodge</b>&nbsp;action, you can choose to make a <b>DC 15 Religion (WIS)</b>&nbsp;check in order to believe this shield will protect you. On a success, your <b>AC</b>&nbsp;is increased by 5 until the start of your next turn.",
         "img": "./images/shieldoffaith.jpeg"
     },

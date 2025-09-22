@@ -8,7 +8,8 @@ function renderItems(data) {
                 <div class='h-100 py-3 px-1'>
                     <div class='h-100 py-2 px-3 border border-info rounded bg-light'>
                 <p class='h3 text-muted'>${item.title}</p>
-                <div class=text-secondary>
+                <div class='text-secondary'>
+                <p style='font-weight: 100; font-style: italic;'>${item.overview}</p>
                 <div class='row'>
                 <div class='col'><p class='text-start'>Cost: ${item.cost} gp</p></div>
                 <div class='col'><p class='text-end'>${item.quantity > 0 ? "Available: " + item.quantity : "<span color='red'>Out of stock!</span>"}</p></div>
