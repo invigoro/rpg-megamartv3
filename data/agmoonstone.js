@@ -62,5 +62,29 @@ data = [
         "overview": "A shield that only works if you beleive",
         "description": "Whenever you take the <b>Dodge</b>&nbsp;action, you can choose to make a <b>DC 15 Religion (WIS)</b>&nbsp;check in order to believe this shield will protect you. On a success, your <b>AC</b>&nbsp;is increased by 5 until the start of your next turn.",
         "img": "./images/shieldoffaith.jpeg"
-    }    
+    },
+    {
+        "title": "Book of Forgetfulness",
+        "cost": 200,
+        "quantity": 0,
+        "overview": "What?",
+        "description": "Whenever you open this book, you forget everything you've done for the last 60 seconds (including opening the book).",
+        "img": "./images/bookblank.jpg"
+    },
+    {
+        "title": "Bocce Ball Set",
+        "cost": 125,
+        "quantity": 0,
+        "overview": "For the Italian in all of us",
+        "description": "A bag containing 4 sets of 2 heavy balls of varying colors. To activate, throw the first ball of a set to a desired location. From there, two effects will be available to the thrower.</p><p><br></p><p>1. The exact distance between the 2 balls is known to the thrower.</p><p>2. The holder of the second ball has the option to teleport to the thrown ball. However, teleporting from one ball to the other expends that set of bocce balls.",
+        "img": "./images/bocceballs.jpg"
+    },
+    {
+        "title": "Mirror of Scrying",
+        "cost": 250,
+        "quantity": 0,
+        "overview": "Get a sneak peak",
+        "description": "This handheld mirror lets you see things that would otherwise not be possible to see. Once per day, you may attempt to use this mirror by rolling 1d6. The outcome is based on the result of the roll:<ol><li>The mirror cannot show you what you seek because the knowledge is forbidden. It shatters and cannot be repaired.</li><li>The mirror cannot find what you seek. You may try again tomorrow.</li><li>The mirror shows you something from the past.</li><li>The mirror shows you something from the present.</li><li>The mirror shows you something from the future.</li><li>You choose to see something from the past, present, or future.</li></ol>Glimpses of the future may not be set in stone.",
+        "img": "./images/mirrorscrying.jpg"
+    }                
 ]
