@@ -26,7 +26,7 @@ data = [
     {
         "title": "Horn of Resounding Triumph",
         "cost": 200,
-        "quantity": 2,
+        "quantity": 1,
         "overview": "A battle horn of victory.",
         "description": "When you sound the Horn of Resounding Triumph as an action in battle, you fill your companions with inspiration. Each of your allies within 100 ft. of you gain a bardic inspiration die (<b>1d6</b>) for the duration of combat.</p><p>If you sound the horn in a confined space, every creature in a 100 ft. radius must make a <b>DC 14 </b>Constitution saving throw, taking <b>2d6</b>&nbsp;thunder damage and being deafened on a failed save, and half as much damage (and not deafened) on a successful save. This item can be used once per long rest.",
         "img": "./images/horn.jpeg"
@@ -42,7 +42,7 @@ data = [
     {
         "title": "Spectacles of Truthsight",
         "cost": 200,
-        "quantity": 2,
+        "quantity": 0,
         "overview": "The easiest way to see through the bullshit.",
         "description": "When wearing these dichromatic spectacles, you can visually separate the truth or falsehood of anyone's speech by color. Truth appears to you as green; lies appear to you as red, and partial truths appear somewhere in between. They can be used for up to 10 minutes; afterwards, roll 1d6. On a 1, the glasses fracture beyond repair.",
         "img": "./images/spectaclesrg.gif"
@@ -65,16 +65,16 @@ data = [
     },
     {
         "title": "Book of Forgetfulness",
-        "cost": 200,
-        "quantity": 0,
+        "cost": 300,
+        "quantity": 1,
         "overview": "What?",
-        "description": "Whenever you open this book, you forget everything you've done for the last 60 seconds (including opening the book).",
+        "description": "Whenenever you open this book, make a DC 15 Intelligence save. On a failure, you forget everything you've done for the last 1d8 minutes (including opening the book).",
         "img": "./images/bookblank.jpg"
     },
     {
         "title": "Bocce Ball Set",
         "cost": 125,
-        "quantity": 0,
+        "quantity": 1,
         "overview": "For the Italian in all of us",
         "description": "A bag containing 4 sets of 2 heavy balls of varying colors. To activate, throw the first ball of a set to a desired location. From there, two effects will be available to the thrower.</p><p><br></p><p>1. The exact distance between the 2 balls is known to the thrower.</p><p>2. The holder of the second ball has the option to teleport to the thrown ball. However, teleporting from one ball to the other expends that set of bocce balls.",
         "img": "./images/bocceballs.jpg"
