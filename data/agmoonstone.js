@@ -2,10 +2,11 @@ data = [
     {
         "title": "Eldritch Spinner",
         "cost": 200,
-        "quantity": 2,
+        "quantity": 0,
         "overview": "An arcane artifact to keep you focused.",
         "description": "When you spin the Eldritch Spinner as a bonus action, you can continue to concentrate on a spell for an additional turn when your concentration would have otherwise ended. It can be used a number of times equal to your spellcasting ability modifier, with its uses restoring during a long rest.</p><p>The Eldritch Spinner also serves as an arcane focus.<br>",
-        "img": "./images/spinner.jpg"
+        "img": "./images/spinner.jpg",
+        "visible": false
     },
     {
         "title": "Parental Lock",
@@ -13,7 +14,8 @@ data = [
         "quantity": 1,
         "overview": "An arcane padlock.",
         "description": "A large padlock that, once secured, can only be unlocked by one of the parents of the person who locked it.<br>",
-        "img": "./images/padlock.jpg"
+        "img": "./images/padlock.jpg",
+        "visible": false
     },
     {
         "title": "Horse Hat",
@@ -21,7 +23,8 @@ data = [
         "quantity": 1,
         "overview": "The easiest way to transport your horse.",
         "description": "This item allows you to store your horse on top of your head without having to make a strength roll. It doesn't conceal the horse; you can still see it if you squint.",
-        "img": "./images/horsehat.png"
+        "img": "./images/horsehat.png",
+        "visible": true
     },
     {
         "title": "Horn of Resounding Triumph",
@@ -29,7 +32,8 @@ data = [
         "quantity": 1,
         "overview": "A battle horn of victory.",
         "description": "When you sound the Horn of Resounding Triumph as an action in battle, you fill your companions with inspiration. Each of your allies within 100 ft. of you gain a bardic inspiration die (<b>1d6</b>) for the duration of combat.</p><p>If you sound the horn in a confined space, every creature in a 100 ft. radius must make a <b>DC 14 </b>Constitution saving throw, taking <b>2d6</b>&nbsp;thunder damage and being deafened on a failed save, and half as much damage (and not deafened) on a successful save. This item can be used once per long rest.",
-        "img": "./images/horn.jpeg"
+        "img": "./images/horn.jpeg",
+        "visible": true
     },
     {
         "title": "Ring of Sobriety",
@@ -37,7 +41,8 @@ data = [
         "quantity": 1,
         "overview": "A ring that keeps you clear-headed.",
         "description": "When wearing this ring, you are immune to the hazy, clumsy, and sluggish side effects from partaking in alcohol or drugs. However, the moment the ring is removed from your finger, all of the cumulative effects that were held off by the ring come crashing down on you at once.",
-        "img": "./images/ring1.webp"
+        "img": "./images/ring1.webp",
+        "visible": true
     },
     {
         "title": "Spectacles of Truthsight",
@@ -45,7 +50,8 @@ data = [
         "quantity": 0,
         "overview": "The easiest way to see through the bullshit.",
         "description": "When wearing these dichromatic spectacles, you can visually separate the truth or falsehood of anyone's speech by color. Truth appears to you as green; lies appear to you as red, and partial truths appear somewhere in between. They can be used for up to 10 minutes; afterwards, roll 1d6. On a 1, the glasses fracture beyond repair.",
-        "img": "./images/spectaclesrg.gif"
+        "img": "./images/spectaclesrg.gif",
+        "visible": false
     },
     {
         "title": "Hammer of Surmise Sturdiness",
@@ -53,38 +59,61 @@ data = [
         "quantity": 1,
         "overview": "A hammer to help you find what's hidden.",
         "description": "This magic hammer, when lightly struck against a surface, will produce a soft&nbsp;<i>tap</i>&nbsp;sound that rings differently depending on the material it's being struck against and the thickness of the material. For the first 3 feet of the material, the user can infer the material type, including open air if the surface being struck is less than 3 feet. For each additional foot after that, the bearer of the hammer must make an Intelligence (Arcana) check of DC 10 + the number of feet greater than 3 to determine what material is there and whether there is an opening. For example, 4 feet would have a DC of 11, 5 feet a DC of 12, and so on. Until they fail this check, they can continue trying to discern the material farther and farther, one foot at a time.</p><p>This hammer has a limited number of uses equal to 1d4 per day.",
-        "img": "./images/hammer.jpg"
+        "img": "./images/hammer.jpg",
+        "visible": true
     },
     {
         "title": "Shield of Faith",
         "cost": 100,
-        "quantity": 1,
+        "quantity": 0,
         "overview": "A shield that only works if you believe",
         "description": "Whenever you take the <b>Dodge</b>&nbsp;action, you can choose to make a <b>DC 15 Religion (WIS)</b>&nbsp;check in order to believe this shield will protect you. On a success, your <b>AC</b>&nbsp;is increased by 5 until the start of your next turn.",
-        "img": "./images/shieldoffaith.jpeg"
+        "img": "./images/shieldoffaith.jpeg",
+        "visible": true
     },
     {
         "title": "Book of Forgetfulness",
         "cost": 300,
-        "quantity": 1,
+        "quantity": 0,
         "overview": "What?",
         "description": "Whenenever you open this book, make a DC 15 Intelligence save. On a failure, you forget everything you've done for the last 1d8 minutes (including opening the book).",
-        "img": "./images/bookblank.jpg"
+        "img": "./images/bookblank.jpg",
+        "visible": true
     },
     {
         "title": "Bocce Ball Set",
         "cost": 125,
-        "quantity": 1,
+        "quantity": 0,
         "overview": "For the Italian in all of us",
         "description": "A bag containing 4 sets of 2 heavy balls of varying colors. To activate, throw the first ball of a set to a desired location. From there, two effects will be available to the thrower.</p><p><br></p><p>1. The exact distance between the 2 balls is known to the thrower.</p><p>2. The holder of the second ball has the option to teleport to the thrown ball. However, teleporting from one ball to the other expends that set of bocce balls.",
-        "img": "./images/bocceballs.jpg"
+        "img": "./images/bocceballs.jpg",
+        "visible": true
     },
     {
         "title": "Mirror of Scrying",
-        "cost": 250,
-        "quantity": 0,
+        "cost": 500,
+        "quantity": 1,
         "overview": "Get a sneak peak",
         "description": "This handheld mirror lets you see things that would otherwise not be possible to see. Once per day, you may attempt to use this mirror by rolling 1d6. The outcome is based on the result of the roll:<ol><li>The mirror cannot show you what you seek because the knowledge is forbidden. It shatters and cannot be repaired.</li><li>The mirror cannot find what you seek. You may try again tomorrow.</li><li>The mirror shows you something from the past.</li><li>The mirror shows you something from the present.</li><li>The mirror shows you something from the future.</li><li>You choose to see something from the past, present, or future.</li></ol>Glimpses of the future may not be set in stone.",
-        "img": "./images/mirrorscrying.jpg"
+        "img": "./images/mirrorscrying.jpg",
+        "visible": true
+    },
+    {
+        "title": "Silly String",
+        "cost": 200,
+        "quantity": 1,
+        "overview": "A nice little halloween item",
+        "description": "Once per day, you can use this can to make a ranged attack against a creature (if you're proficient with any crossbow, you're proficient with this can). On a hit, the target is blinded. The range for this weapon is 15/60.<br>Alternatively, you can spend one minute spraying a 15 ft. radius circle using this can. This area becomes difficult terrain for up to 8 hours.",
+        "img": "./images/silly-string.jpg",
+        "visible": true
+    },
+    {
+        "title": "Tarantula Bracelet",
+        "cost": 800,
+        "quantity": 1,
+        "overview": "Become a spider-man",
+        "description": "Once per day, the bracelet bestows <i><a href='https://dnd5e.wikidot.com/spell:spider-climb'>Spider Climb</a></i> on the wearer for ten minutes. Additionally, the wearer's movement while climbing is completely silent and gives them advantage on stealth checks while the effect is active.",
+        "img": "./images/tarantulabracelet.jpg",
+        "visible": true
     }                
 ]
