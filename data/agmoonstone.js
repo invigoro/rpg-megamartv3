@@ -118,11 +118,29 @@ data = [
     },
     {
         "title": "Grammarian's Ring",
-        "cost": 600,
+        "cost": 400,
         "quantity": 0,
         "overview": "A ring to correct your spellings",
         "description": "Once per adventure, you can alter one letter in a spell title and cast it, altering the effect to match its new title. For example, Cause Fear could become Cause Bear. <br>After using this ring, roll a d20. On a 1, the ring loses its charges, but can be recharged by a skilled mage for half of the ring's cost in gold.",
         "img": "./images/rubyring.jpg",
+        "visible": false
+    },
+    {
+        "title": "Ring of Misty Step",
+        "cost": 550,
+        "quantity": 0,
+        "overview": "",
+        "description": "<i>Requires Attunement</i><br>Once per day, the wearer of this ring can cast <i><a href='https://dnd5e.wikidot.com/spell:misty-step'>Misty Step</a></i>.",
+        "img": "./images/silver-ring.avif",
+        "visible": false
+    },
+    {
+        "title": "Ring of Movement",
+        "cost": 600,
+        "quantity": 0,
+        "overview": "",
+        "description": "<i>Requires Attunement</i><br>The wearer's movement is increased by 10 ft.",
+        "img": "./images/ring-green.jpg",
         "visible": false
     },
     {
