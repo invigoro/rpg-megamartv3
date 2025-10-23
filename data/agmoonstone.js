@@ -119,7 +119,7 @@ data = [
     {
         "title": "Grammarian's Ring",
         "cost": 400,
-        "quantity": 0,
+        "quantity": 1,
         "overview": "A ring to correct your spellings",
         "description": "Once per adventure, you can alter one letter in a spell title and cast it, altering the effect to match its new title. For example, Cause Fear could become Cause Bear. <br>After using this ring, roll a d20. On a 1, the ring loses its charges, but can be recharged by a skilled mage for half of the ring's cost in gold.",
         "img": "./images/rubyring.jpg",
@@ -128,7 +128,7 @@ data = [
     {
         "title": "Ring of Misty Step",
         "cost": 550,
-        "quantity": 0,
+        "quantity": 1,
         "overview": "",
         "description": "<i>Requires Attunement</i><br>Once per day, the wearer of this ring can cast <i><a href='https://dnd5e.wikidot.com/spell:misty-step'>Misty Step</a></i>.",
         "img": "./images/silver-ring.avif",
@@ -137,10 +137,28 @@ data = [
     {
         "title": "Ring of Movement",
         "cost": 600,
-        "quantity": 0,
+        "quantity": 1,
         "overview": "",
         "description": "<i>Requires Attunement</i><br>The wearer's movement is increased by 10 ft.",
         "img": "./images/ring-green.jpg",
+        "visible": false
+    },
+    {
+        "title": "Haunted Doll",
+        "cost": 100,
+        "quantity": 1,
+        "overview": "A very creepy doll",
+        "description": "If the owner of this doll ever fails a third death save, the doll will take the hit, and will die in place of its owner.",
+        "img": "https://images.squarespace-cdn.com/content/v1/59b4328f49fc2b50d08701fb/1542239970729-KL7M3DYIICCCYSM0UCCU/creepy_baby_dolls",
+        "visible": false
+    },
+    {
+        "title": "Fists of Fury",
+        "cost": 800,
+        "quantity": 1,
+        "overview": "Sick as hell knuckle gloves",
+        "description": "<i>Requires Attunement</i><br>These fingerless gloves have \"G4M3 0V3R\" written across the knuckles. When you make an unarmed strike, the damage is increased by 1d4. Additionally, the target must make a Strength saving throw or be pushed back 10 ft. The DC for this save is your passive Athletics score.",
+        "img": "https://www.meme-arsenal.com/memes/6131a796f6d21694af29ec89b1306fcb.jpg",
         "visible": false
     },
     {
