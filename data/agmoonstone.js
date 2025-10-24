@@ -109,7 +109,7 @@ data = [
     },
     {
         "title": "Tarantula Bracelet",
-        "cost": 800,
+        "cost": 500,
         "quantity": 1,
         "overview": "Become a spider-man",
         "description": "Once per day, the bracelet bestows <i><a href='https://dnd5e.wikidot.com/spell:spider-climb'>Spider Climb</a></i> on the wearer for ten minutes. Additionally, the wearer's movement while climbing is completely silent and gives them advantage on stealth checks while the effect is active.",
@@ -118,16 +118,16 @@ data = [
     },
     {
         "title": "Grammarian's Ring",
-        "cost": 400,
+        "cost": 200,
         "quantity": 1,
         "overview": "A ring to correct your spellings",
-        "description": "Once per adventure, you can alter one letter in a spell title and cast it, altering the effect to match its new title. For example, Cause Fear could become Cause Bear. <br>After using this ring, roll a d20. On a 1, the ring loses its charges, but can be recharged by a skilled mage for half of the ring's cost in gold.",
+        "description": "Once per adventure, you can alter one letter in a spell title and cast it, altering the effect to match its new title. For example, Cause Fear could become Cause Bear. However, the ring can never be used to alter the same spell in the same way twice.<br>After using this ring, roll a d20. On a 1, the ring loses its charges, but can be recharged by a skilled mage for half of the ring's cost in gold.",
         "img": "./images/rubyring.jpg",
         "visible": false
     },
     {
         "title": "Ring of Misty Step",
-        "cost": 550,
+        "cost": 425,
         "quantity": 1,
         "overview": "",
         "description": "<i>Requires Attunement</i><br>Once per day, the wearer of this ring can cast <i><a href='https://dnd5e.wikidot.com/spell:misty-step'>Misty Step</a></i>.",
@@ -136,7 +136,7 @@ data = [
     },
     {
         "title": "Ring of Movement",
-        "cost": 600,
+        "cost": 450,
         "quantity": 1,
         "overview": "",
         "description": "<i>Requires Attunement</i><br>The wearer's movement is increased by 10 ft.",
