@@ -9,6 +9,15 @@ data = [
         "visible": false
     },
     {
+        "title": "Gray Duck Vodka",
+        "cost": 450,
+        "quantity": 1,
+        "overview": "100 Ducks, That's Our Promise",
+        "description": "Each handcrafted, ornate, glass bottle of Gray Duck Vodka contains 100 ducks, that's our promise. <br> Do Not Ingest",
+        "img": "./images/Gray Duck.jpg",
+        "visible": true
+    },
+    {
         "title": "Parental Lock",
         "cost": 100,
         "quantity": 1,
