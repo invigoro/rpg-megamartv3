@@ -13,7 +13,7 @@ data = [
         "cost": 450,
         "quantity": 1,
         "overview": "100 Ducks, That's Our Promise",
-        "description": "Each handcrafted, ornate, glass bottle of Gray Duck Vodka contains 100 ducks, that's our promise. <br> <p style="text-align: center;">Do Not Ingest.</p>",
+        "description": "Each handcrafted, ornate, glass bottle of Gray Duck Vodka contains 100 ducks, that's our promise. <br> <p style='text-align: center;'>Do Not Ingest.</p>",
         "img": "./images/Gray Duck.jpg",
         "visible": true
     },
