@@ -33,7 +33,7 @@ data = [
         "overview": "A battle horn of victory.",
         "description": "When you sound the Horn of Resounding Triumph as an action in battle, you fill your companions with inspiration. Each of your allies within 100 ft. of you gain a bardic inspiration die (<b>1d6</b>) for the duration of combat.</p><p>If you sound the horn in a confined space, every creature in a 100 ft. radius must make a <b>DC 14 </b>Constitution saving throw, taking <b>2d6</b>&nbsp;thunder damage and being deafened on a failed save, and half as much damage (and not deafened) on a successful save. This item can be used once per long rest.",
         "img": "./images/horn.jpeg",
-        "visible": true
+        "visible": false
     },
     {
         "title": "Ring of Sobriety",
@@ -42,7 +42,7 @@ data = [
         "overview": "A ring that keeps you clear-headed.",
         "description": "When wearing this ring, you are immune to the hazy, clumsy, and sluggish side effects from partaking in alcohol or drugs. However, the moment the ring is removed from your finger, all of the cumulative effects that were held off by the ring come crashing down on you at once.",
         "img": "./images/ring1.webp",
-        "visible": true
+        "visible": false
     },
     {
         "title": "Spectacles of Truthsight",
@@ -121,9 +121,9 @@ data = [
         "cost": 200,
         "quantity": 1,
         "overview": "A ring to correct your spellings",
-        "description": "Once per adventure, you can alter one letter in a spell title and cast it, altering the effect to match its new title. For example, Cause Fear could become Cause Bear. However, the ring can never be used to alter the same spell in the same way twice.<br>After using this ring, roll a d20. On a 1, the ring loses its charges, but can be recharged by a skilled mage for half of the ring's cost in gold.",
+        "description": "Once per adventure, you can alter one letter in a spell title and cast it, altering the effect to match its new title. For example, <i>Cause Fear</i> could become <i>Cause Bear</i>, summoning a bear to the battlefield. However, the ring can never be used to alter the same spell in the same way twice.<br>After using this ring, roll a d20. On a 1, the ring loses its charges, but can be recharged by a skilled mage for half of the ring's cost in gold.",
         "img": "./images/rubyring.jpg",
-        "visible": false
+        "visible": true
     },
     {
         "title": "Ring of Misty Step",
@@ -150,16 +150,16 @@ data = [
         "overview": "A very creepy doll",
         "description": "If the owner of this doll ever fails a third death save, the doll will take the hit, and will die in place of its owner.",
         "img": "https://images.squarespace-cdn.com/content/v1/59b4328f49fc2b50d08701fb/1542239970729-KL7M3DYIICCCYSM0UCCU/creepy_baby_dolls",
-        "visible": false
+        "visible": true
     },
     {
         "title": "Fists of Fury",
-        "cost": 800,
+        "cost": 500,
         "quantity": 1,
         "overview": "Sick as hell knuckle gloves",
         "description": "<i>Requires Attunement</i><br>These fingerless gloves have \"G4M3 0V3R\" written across the knuckles. When you make an unarmed strike, the damage is increased by 1d4. Additionally, the target must make a Strength saving throw or be pushed back 10 ft. The DC for this save is your passive Athletics score.",
         "img": "https://www.meme-arsenal.com/memes/6131a796f6d21694af29ec89b1306fcb.jpg",
-        "visible": false
+        "visible": true
     },
     {
         "title": "Sample",
