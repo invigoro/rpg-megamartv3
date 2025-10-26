@@ -171,6 +171,15 @@ data = [
         "visible": false
     },
     {
+        "title": "Gauntlets of Healing",
+        "cost": 200,
+        "quantity": 1,
+        "overview": "Helps to give you a better rest",
+        "description": "<i>Requires Attunement</i><br>Enhances your healing factor. Whenever taking a short rest, you're able to heal an additional 1d6 health. Additionally, you can choose a nearby ally to heal an additional 1d4 health during the same rest.",
+        "img": "https://www.bandagesplus.com/pub/media/catalog/product/cache/2f5f8cbdb2dbaf6da38028b1b2cb1c0a/e/x/exostrong_gauntlet_black.jpg",
+        "visible": false
+    },
+    {
         "title": "Sample",
         "cost": 0,
         "quantity": 0,
