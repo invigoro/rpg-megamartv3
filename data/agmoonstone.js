@@ -60,7 +60,7 @@ data = [
         "overview": "A hammer to help you find what's hidden.",
         "description": "This magic hammer, when lightly struck against a surface, will produce a soft&nbsp;<i>tap</i>&nbsp;sound that rings differently depending on the material it's being struck against and the thickness of the material. For the first 3 feet of the material, the user can infer the material type, including open air if the surface being struck is less than 3 feet. For each additional foot after that, the bearer of the hammer must make an Intelligence (Arcana) check of DC 10 + the number of feet greater than 3 to determine what material is there and whether there is an opening. For example, 4 feet would have a DC of 11, 5 feet a DC of 12, and so on. Until they fail this check, they can continue trying to discern the material farther and farther, one foot at a time.</p><p>This hammer has a limited number of uses equal to 1d4 per day.",
         "img": "./images/hammer.jpg",
-        "visible": true
+        "visible": false
     },
     {
         "title": "Shield of Faith",
@@ -96,11 +96,11 @@ data = [
         "overview": "Get a sneak peak",
         "description": "This handheld mirror lets you see things that would otherwise not be possible to see. Once per day, you may attempt to use this mirror by rolling 1d6. The outcome is based on the result of the roll:<ol><li>The mirror cannot show you what you seek because the knowledge is forbidden. It shatters and cannot be repaired.</li><li>The mirror cannot find what you seek. You may try again tomorrow.</li><li>The mirror shows you something from the past.</li><li>The mirror shows you something from the present.</li><li>The mirror shows you something from the future.</li><li>You choose to see something from the past, present, or future.</li></ol>Glimpses of the future may not be set in stone.",
         "img": "./images/mirrorscrying.jpg",
-        "visible": true
+        "visible": false
     },
     {
         "title": "Silly String",
-        "cost": 200,
+        "cost": 150,
         "quantity": 1,
         "overview": "A nice little halloween item",
         "description": "Once per day, you can use this can to make a ranged attack against a creature (if you're proficient with any crossbow, you're proficient with this can). On a hit, the target is blinded. The range for this weapon is 15/60.<br>Alternatively, you can spend one minute spraying a 15 ft. radius circle using this can. This area becomes difficult terrain for up to 8 hours.",
@@ -119,7 +119,7 @@ data = [
     {
         "title": "Grammarian's Ring",
         "cost": 200,
-        "quantity": 1,
+        "quantity": 0,
         "overview": "A ring to correct your spellings",
         "description": "Once per adventure, you can alter one letter in a spell title and cast it, altering the effect to match its new title. For example, <i>Cause Fear</i> could become <i>Cause Bear</i>, summoning a bear to the battlefield. However, the ring can never be used to alter the same spell in the same way twice.<br>After using this ring, roll a d20. On a 1, the ring loses its charges, but can be recharged by a skilled mage for half of the ring's cost in gold.",
         "img": "./images/rubyring.jpg",
@@ -141,7 +141,7 @@ data = [
         "overview": "",
         "description": "<i>Requires Attunement</i><br>The wearer's movement is increased by 10 ft.",
         "img": "./images/ring-green.jpg",
-        "visible": false
+        "visible": true
     },
     {
         "title": "Haunted Doll",
@@ -163,21 +163,30 @@ data = [
     },
     {
         "title": "Wand of Switcheroo",
-        "cost": 650,
+        "cost": 625,
         "quantity": 1,
-        "overview": "Wanna trade?",
-        "description": "When pointed at a creature of similar size (no more than one size category smaller or larger than you) within 120 ft., the holder will switch places with that target, if the target is willing. If the target is unwilling, it must succeed a DC 17 Constitution save to resist. One charge per long rest.",
+        "overview": "",
+        "description": "When pointed at a creature of similar size (no more than one size category smaller or larger than you) within 120 ft., the holder will switch places with that target, if the target is willing. If the target is unwilling, it must succeed a DC 13 Constitution save to resist. One charge per long rest.",
         "img": "https://5e.tools/img/items/DMG/Wand%20of%20Polymorph.webp",
         "visible": false
     },
     {
         "title": "Gauntlets of Healing",
-        "cost": 200,
+        "cost": 150,
         "quantity": 1,
         "overview": "Helps to give you a better rest",
         "description": "<i>Requires Attunement</i><br>Enhances your healing factor. Whenever taking a short rest, you're able to heal an additional 1d6 health. Additionally, you can choose a nearby ally to heal an additional 1d4 health during the same rest.",
         "img": "https://www.bandagesplus.com/pub/media/catalog/product/cache/2f5f8cbdb2dbaf6da38028b1b2cb1c0a/e/x/exostrong_gauntlet_black.jpg",
-        "visible": false
+        "visible": true
+    },
+    {
+        "title": "Fizzy Lifting Drinks",
+        "cost": 250,
+        "quantity": 1,
+        "overview": "Do not steal.",
+        "description": "Drinking a bottle from this 4-pack gives you the ability to float around. For the next 1 minute, you have a flying speed of 10 ft.",
+        "img": "https://wicked-good.co/cdn/shop/products/FizzyLiftingDrink-WillyWonkaScent.png?v=1759356407&width=1080",
+        "visible": true
     },
     {
         "title": "Sample",
