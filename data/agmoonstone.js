@@ -112,7 +112,7 @@ data = [
         "cost": 500,
         "quantity": 1,
         "overview": "Become a spider-man",
-        "description": "Once per day, the bracelet bestows <i><a href='https://dnd5e.wikidot.com/spell:spider-climb'>Spider Climb</a></i> on the wearer for ten minutes. Additionally, the wearer's movement while climbing is completely silent and gives them advantage on stealth checks while the effect is active.",
+        "description": "<i>Requires Attunement</i><br>Once per day, the bracelet bestows <i><a href='https://dnd5e.wikidot.com/spell:spider-climb'>Spider Climb</a></i> on the wearer for ten minutes. Additionally, the wearer's movement while climbing is completely silent and gives them advantage on stealth checks while the effect is active.",
         "img": "./images/tarantulabracelet.jpg",
         "visible": true
     },
