@@ -189,6 +189,33 @@ data = [
         "visible": true
     },
     {
+        "title": "Anti-Gravity Sphere",
+        "cost": 500,
+        "quantity": 1,
+        "overview": "A fist-sized ball of glass.",
+        "description": "This small orb is filled with silvery smoke. When the orb is destroyed, it disables the effect of gravity for everything within a 30 ft. radius.",
+        "img": "https://www.shutterstock.com/shutterstock/videos/1070332816/thumb/1.jpg?ip=x480",
+        "visible": false
+    }, 
+    {
+        "title": "All-or-Nothing Coin",
+        "cost": 100,
+        "quantity": 1,
+        "overview": "Risk it for the biscuit",
+        "description": "Once per long rest, instead of rolling a d20 on an attack roll or skill check, you can flip a coin. A heads is a critical hit; a tails is a critical fail.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/ATTICA%2C_Athens._Circa_545-525-15_BC.jpg/250px-ATTICA%2C_Athens._Circa_545-525-15_BC.jpg",
+        "visible": false
+    },
+    {
+        "title": "Gray Duck Vodka",
+        "cost": 100,
+        "quantity": 1,
+        "overview": "100 Ducks, That's Our Promise",
+        "description": "Each handcrafted, ornate, glass bottle of Gray Duck Vodka contains 100 ducks, that's our promise. <br> <p style='text-align: center;'>Do Not Ingest.</p>",
+        "img": "https://tug-nut.github.io/OPEN-Enterprises/images/Gray%20Duck.jpg",
+        "visible": false
+    },
+    {
         "title": "Sample",
         "cost": 0,
         "quantity": 0,
