@@ -216,6 +216,24 @@ data = [
         "visible": false
     },
     {
+        "title": "Jester's Hat",
+        "cost": 475,
+        "quantity": 1,
+        "overview": "A silly cap",
+        "description": "<i>Requires Attunement</i><br>A bard wearing this hat has one additional use of bardic inspiration. Additionally, when giving bardic inspiration to an ally, as soon as that ally expends that inspiration, both the ally and the wearer are healed for 1d4 health.",
+        "img": "https://images.halloweencostumes.com/products/69125/2-1-161454/court-jester-multicolor-soft-hat-alt-1-update.jpg",
+        "visible": false
+    },
+    {
+        "title": "Mockingbird Gum",
+        "cost": 300,
+        "quantity": 2,
+        "overview": "Green-and-blue speckled minty sticks",
+        "description": "A five-pack of chewing gum. Upon chewing one of these sticks, you're able to perfectly emulate another person's voice for up to an hour.",
+        "img": "https://www.longmontcompletedentistry.com/blog/wp-content/uploads/2023/04/AdobeStock_43878704__1680914959_50471.jpg",
+        "visible": false
+    },
+    {
         "title": "Sample",
         "cost": 0,
         "quantity": 0,
