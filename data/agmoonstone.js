@@ -234,11 +234,44 @@ data = [
         "visible": false
     },
     {
+        "title": "Spellkeeper Cards",
+        "cost": 275,
+        "quantity": 1,
+        "overview": "A strange deck with no face cards",
+        "description": "This deck of cards has a magical enchantment that permits you to sometimes restore a spell slot. Once per day, as an action you may draw a card from this deck. Choose the level of spell slot you'd like to restore, then roll a d10 to determine the value of the card. If the spell slot's level is lower than the card value, the slot is restored.",
+        "img": "https://rareplayingcards.com/cdn/shop/products/ultimatedeck_a2071195-b8d5-4cf0-b11c-21643d0ae368.jpg?v=1675864853",
+        "visible": false
+    },
+    {
+        "title": "Vibe Check Glasses",
+        "cost": 250,
+        "quantity": 1,
+        "overview": "Lets you read the room",
+        "description": `<i>Requires attunement</i><br>These tinted glasses allow you insight into the current vibes. As an action, you can use them to ask the DM one of the following: 
+        <ul>
+        <li>Whether the vibes are off</li>
+        <li>What the vibe is from a particular person present</li>
+        <li>What the vibe is from a particular direction (such as northwest, uptairs, down a corridor, etc.)</li>
+        <li>The nearest source of good/bad vibes</li>
+        </ul>The glasses have up to four charges, and each question asked uses a charge. On a long rest, the glassess have a 50% chance of regaining a charge. If unused for four days, they regain all charges automatically.`,
+        "img": "https://store.lagunitas.com/cdn/shop/products/IPASunglasses_1200x600_crop_center.png?v=1668725556",
+        "visible": false
+    },
+    {
+        "title": "Plot Armor",
+        "cost": 150,
+        "quantity": 3,
+        "overview": `You should always wear protection`,
+        "description": `This thin, paper-light armor can be worn underneath any other standard set of armor. When you are hit for damage that would drop you to zero health, the armor absorbs the hit instead, nullifying the damage dealt. However, this cracks the armor, making it ineffective and unrepairable.`,
+        "img": "https://dl2.myminifactory.com/object-assets/644ff9f46b1e86.87395864/images/720X720-screenshot-1421.jpg",
+        "visible": false
+    },
+    {
         "title": "Sample",
         "cost": 0,
         "quantity": 0,
-        "overview": "",
-        "description": "",
+        "overview": ``,
+        "description": ``,
         "img": "./images/",
         "visible": false
     }            
