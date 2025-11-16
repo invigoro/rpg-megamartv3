@@ -171,6 +171,15 @@ data = [
         "visible": true
     },
     {
+          "title": "Reverse Bear Trap",
+        "cost": 600,
+        "quantity": 1,
+        "overview": "Hey, Bear!",
+        "description": "A tripwire trap that, when activated, spawns a bear",
+        "img": "./images/",
+        "visible": true
+    }            
+]
         "title": "Sample",
         "cost": 0,
         "quantity": 0,
