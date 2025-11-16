@@ -105,7 +105,7 @@ data = [
         "overview": "A nice little halloween item",
         "description": "Once per day, you can use this can to make a ranged attack against a creature (if you're proficient with any crossbow, you're proficient with this can). On a hit, the target is blinded. The range for this weapon is 15/60.<br>Alternatively, you can spend one minute spraying a 15 ft. radius circle using this can. This area becomes difficult terrain for up to 8 hours.",
         "img": "./images/silly-string.jpg",
-        "visible": true
+        "visible": false
     },
     {
         "title": "Tarantula Bracelet",
@@ -159,7 +159,7 @@ data = [
         "overview": "Sick as hell knuckle gloves",
         "description": "<i>Requires Attunement</i><br>These fingerless gloves have \"G4M3 0V3R\" written across the knuckles. When you make an unarmed strike, the damage is increased by 1d4. Additionally, the target must make a Strength saving throw or be pushed back 10 ft. The DC for this save is your passive Athletics score.",
         "img": "https://www.meme-arsenal.com/memes/6131a796f6d21694af29ec89b1306fcb.jpg",
-        "visible": true
+        "visible": false
     },
     {
         "title": "Wand of Switcheroo",
@@ -168,7 +168,7 @@ data = [
         "overview": "",
         "description": "When pointed at a creature of similar size (no more than one size category smaller or larger than you) within 120 ft., the holder will switch places with that target, if the target is willing. If the target is unwilling, it must succeed a DC 13 Constitution save to resist. One charge per long rest.",
         "img": "https://5e.tools/img/items/DMG/Wand%20of%20Polymorph.webp",
-        "visible": false
+        "visible": true
     },
     {
         "title": "Gauntlets of Healing",
@@ -204,7 +204,7 @@ data = [
         "overview": "Risk it for the biscuit",
         "description": "Once per long rest, instead of rolling a d20 on an attack roll or skill check, you can flip a coin. A heads is a critical hit; a tails is a critical fail.",
         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/ATTICA%2C_Athens._Circa_545-525-15_BC.jpg/250px-ATTICA%2C_Athens._Circa_545-525-15_BC.jpg",
-        "visible": false
+        "visible": true
     },
     {
         "title": "Gray Duck Vodka",
@@ -222,7 +222,7 @@ data = [
         "overview": "A silly cap",
         "description": "<i>Requires Attunement</i><br>A bard wearing this hat has one additional use of bardic inspiration. Additionally, when giving bardic inspiration to an ally, as soon as that ally expends that inspiration, both the ally and the wearer are healed for 1d4 health.",
         "img": "https://images.halloweencostumes.com/products/69125/2-1-161454/court-jester-multicolor-soft-hat-alt-1-update.jpg",
-        "visible": false
+        "visible": true
     },
     {
         "title": "Mockingbird Gum",
