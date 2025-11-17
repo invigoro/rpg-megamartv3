@@ -20,7 +20,7 @@ data = [
     {
         "title": "Horse Hat",
         "cost": 500,
-        "quantity": 1,
+        "quantity": 0,
         "overview": "The easiest way to transport your horse.",
         "description": "This item allows you to store your horse on top of your head without having to make a strength roll. It doesn't conceal the horse; you can still see it if you squint.",
         "img": "./images/horsehat.png",
@@ -137,7 +137,7 @@ data = [
     {
         "title": "Ring of Movement",
         "cost": 450,
-        "quantity": 1,
+        "quantity": 0,
         "overview": "",
         "description": "<i>Requires Attunement</i><br>The wearer's movement is increased by 10 ft.",
         "img": "./images/ring-green.jpg",
@@ -155,11 +155,11 @@ data = [
     {
         "title": "Fists of Fury",
         "cost": 500,
-        "quantity": 1,
+        "quantity": 0,
         "overview": "Sick as hell knuckle gloves",
         "description": "<i>Requires Attunement</i><br>These fingerless gloves have \"G4M3 0V3R\" written across the knuckles. When you make an unarmed strike, the damage is increased by 1d4. Additionally, the target must make a Strength saving throw or be pushed back 10 ft. The DC for this save is your passive Athletics score.",
         "img": "https://www.meme-arsenal.com/memes/6131a796f6d21694af29ec89b1306fcb.jpg",
-        "visible": false
+        "visible": true
     },
     {
         "title": "Wand of Switcheroo",
@@ -231,7 +231,7 @@ data = [
         "overview": "Green-and-blue speckled minty sticks",
         "description": "A five-pack of chewing gum. Upon chewing one of these sticks, you're able to perfectly emulate another person's voice for up to an hour.",
         "img": "https://www.longmontcompletedentistry.com/blog/wp-content/uploads/2023/04/AdobeStock_43878704__1680914959_50471.jpg",
-        "visible": false
+        "visible": true
     },
     {
         "title": "Spellkeeper Cards",
@@ -264,7 +264,7 @@ data = [
         "overview": `You should always wear protection`,
         "description": `This thin, paper-light armor can be worn underneath any other standard set of armor. When you are hit for damage that would drop you to zero health, the armor absorbs the hit instead, nullifying the damage dealt. However, this cracks the armor, making it ineffective and unrepairable.`,
         "img": "https://dl2.myminifactory.com/object-assets/644ff9f46b1e86.87395864/images/720X720-screenshot-1421.jpg",
-        "visible": false
+        "visible": true
     },
     {
         "title": "Sample",
