@@ -247,13 +247,14 @@ data = [
         "cost": 250,
         "quantity": 1,
         "overview": "Lets you read the room",
-        "description": `<i>Requires attunement</i><br>These tinted glasses allow you insight into the current vibes. As an action, you can use them to ask the DM one of the following: 
+        "description": `<i>Requires attunement</i><br>These tinted glasses allow you insight into the current vibes. As an action, you can use them to ask the DM one of the following, to which they will respond with a one-word answer (good, bad, strange, etc.): 
         <ul>
-        <li>Whether the vibes are off</li>
+        <li>What the current vibe in the room is</li>
         <li>What the vibe is from a particular person present</li>
         <li>What the vibe is from a particular direction (such as northwest, uptairs, down a corridor, etc.)</li>
-        <li>The nearest source of good/bad vibes</li>
-        </ul>The glasses have up to four charges, and each question asked uses a charge. On a long rest, the glassess have a 50% chance of regaining a charge. If unused for four days, they regain all charges automatically.`,
+        </ul>
+        Altnernatively, you can ask the DM what the nearest source of good/bad vibes is.
+        <br><br>The glasses have up to four charges, and each question asked uses a charge. On a long rest, the glassess have a 50% chance of regaining a charge. If unused for four days, they regain all charges automatically.`,
         "img": "https://store.lagunitas.com/cdn/shop/products/IPASunglasses_1200x600_crop_center.png?v=1668725556",
         "visible": false
     },
@@ -265,6 +266,24 @@ data = [
         "description": `This thin, paper-light armor can be worn underneath any other standard set of armor. When you are hit for damage that would drop you to zero health, the armor absorbs the hit instead, nullifying the damage dealt. However, this cracks the armor, making it ineffective and unrepairable.`,
         "img": "https://dl2.myminifactory.com/object-assets/644ff9f46b1e86.87395864/images/720X720-screenshot-1421.jpg",
         "visible": true
+    },
+    {
+        "title": "Sport Mode Crocs",
+        "cost": 325,
+        "quantity": 1,
+        "overview": `Strap in`,
+        "description": `Once per long rest, you can move the straps on these versatile footwear to behind your heels, setting them to sport mode. For the next 10 minutes, you can move across water surfaces without sinking. However, you must be running to gain this benefit. If you stop or slow to a walking pace, you sink into the water as normal.`,
+        "img": "https://m.media-amazon.com/images/I/715O-+0xHcL._AC_UY900_.jpg",
+        "visible": false
+    },
+    {
+        "title": "Assassin's Cloak",
+        "cost": 500,
+        "quantity": 1,
+        "overview": ``,
+        "description": `<i>Requires attunement</i><br>Once per short rest, when you kill a creature, you can choose to turn invisible. The invisibility has the same effect as the <a href='https://roll20.net/compendium/dnd5e/Invisibility#content'>Invisibility</a> spell.`,
+        "img": "https://m.media-amazon.com/images/I/31ytxnhsZeL._AC_UY1000_.jpg",
+        "visible": false
     },
     {
         "title": "Sample",
