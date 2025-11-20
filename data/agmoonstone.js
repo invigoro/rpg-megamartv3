@@ -178,8 +178,8 @@ data = [
         "description": "A tripwire trap that, when activated, spawns a bear",
         "img": "./images/",
         "visible": true
-    }            
-]
+    } ,
+    {
         "title": "Sample",
         "cost": 0,
         "quantity": 0,
