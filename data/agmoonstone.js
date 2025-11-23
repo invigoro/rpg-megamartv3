@@ -281,7 +281,7 @@ data = [
         "cost": 500,
         "quantity": 1,
         "overview": ``,
-        "description": `<i>Requires attunement</i><br>Once per short rest, when you kill a creature, you can choose to turn invisible. The invisibility has the same effect as the <a href='https://roll20.net/compendium/dnd5e/Invisibility#content'>Invisibility</a> spell.`,
+        "description": `<i>Requires attunement</i><br>Once per short rest, when you kill a creature, you can choose to cast <a href='https://roll20.net/compendium/dnd5e/Invisibility#content'>Invisibility</a> on yourself.`,
         "img": "https://m.media-amazon.com/images/I/31ytxnhsZeL._AC_UY1000_.jpg",
         "visible": false
     },
