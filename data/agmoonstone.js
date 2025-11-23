@@ -286,6 +286,15 @@ data = [
         "visible": false
     },
     {
+        "title": "Reverse Bear Trap",
+        "cost": 225,
+        "quantity": 1,
+        "overview": `Beware`,
+        "description": `A simple tripwire trap that, once activated, spawns a wild bear.`,
+        "img": "https://static.wikia.nocookie.net/base-raiders/images/f/f5/90.png/revision/latest?cb=20190615111049",
+        "visible": false
+    },
+    {
         "title": "Sample",
         "cost": 0,
         "quantity": 0,
