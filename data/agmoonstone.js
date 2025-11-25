@@ -83,7 +83,7 @@ data = [
     {
         "title": "Bocce Ball Set",
         "cost": 125,
-        "quantity": 0,
+        "quantity": 1,
         "overview": "For the Italian in all of us",
         "description": "A bag containing 4 sets of 2 heavy balls of varying colors. To activate, throw the first ball of a set to a desired location. From there, two effects will be available to the thrower.</p><p><br></p><p>1. The exact distance between the 2 balls is known to the thrower.</p><p>2. The holder of the second ball has the option to teleport to the thrown ball. However, teleporting from one ball to the other expends that set of bocce balls.",
         "img": "./images/bocceballs.jpg",
@@ -150,7 +150,7 @@ data = [
         "overview": "A very creepy doll",
         "description": "If the owner of this doll ever fails a third death save, the doll will take the hit, and will die in place of its owner.",
         "img": "https://images.squarespace-cdn.com/content/v1/59b4328f49fc2b50d08701fb/1542239970729-KL7M3DYIICCCYSM0UCCU/creepy_baby_dolls",
-        "visible": true
+        "visible": false
     },
     {
         "title": "Fists of Fury",
@@ -177,7 +177,7 @@ data = [
         "overview": "Helps to give you a better rest",
         "description": "<i>Requires Attunement</i><br>Enhances your healing factor. Whenever taking a short rest, you're able to heal an additional 1d6 health. Additionally, you can choose a nearby ally to heal an additional 1d4 health during the same rest.",
         "img": "https://www.bandagesplus.com/pub/media/catalog/product/cache/2f5f8cbdb2dbaf6da38028b1b2cb1c0a/e/x/exostrong_gauntlet_black.jpg",
-        "visible": true
+        "visible": false
     },
     {
         "title": "Fizzy Lifting Drinks",
@@ -240,7 +240,7 @@ data = [
         "overview": "A strange deck with no face cards",
         "description": "This deck of cards has a magical enchantment that permits you to sometimes restore a spell slot. Once per day, as an action you may draw a card from this deck. Choose the level of spell slot you'd like to restore, then roll a d10 to determine the value of the card. If the spell slot's level is lower than the card value, the slot is restored.",
         "img": "https://rareplayingcards.com/cdn/shop/products/ultimatedeck_a2071195-b8d5-4cf0-b11c-21643d0ae368.jpg?v=1675864853",
-        "visible": false
+        "visible": true
     },
     {
         "title": "Vibe Check Glasses",
@@ -253,10 +253,10 @@ data = [
         <li>What the vibe is from a particular person present</li>
         <li>What the vibe is from a particular direction (such as northwest, uptairs, down a corridor, etc.)</li>
         </ul>
-        Altnernatively, you can ask the DM what the nearest source of good/bad vibes is.
-        <br><br>The glasses have up to four charges, and each question asked uses a charge. On a long rest, the glassess have a 50% chance of regaining a charge. If unused for four days, they regain all charges automatically.`,
+        Alternatively, you can ask the DM what the nearest source of good/bad vibes is.
+        <br><br>The glasses have up to four charges, and each question asked uses a charge. On a long rest, the glassess have a 50% chance of regaining a charge. If unused for four consecutive days, they regain all charges automatically.`,
         "img": "https://store.lagunitas.com/cdn/shop/products/IPASunglasses_1200x600_crop_center.png?v=1668725556",
-        "visible": false
+        "visible": true
     },
     {
         "title": "Plot Armor",
@@ -269,7 +269,7 @@ data = [
     },
     {
         "title": "Sport Mode Crocs",
-        "cost": 325,
+        "cost": 275,
         "quantity": 1,
         "overview": `Strap in`,
         "description": `Once per long rest, you can move the straps on these versatile footwear to behind your heels, setting them to sport mode. For the next 10 minutes, you can move across water surfaces without sinking. However, you must be running to gain this benefit. If you stop or slow to a walking pace, you sink into the water as normal.`,
@@ -278,7 +278,7 @@ data = [
     },
     {
         "title": "Assassin's Cloak",
-        "cost": 500,
+        "cost": 600,
         "quantity": 1,
         "overview": ``,
         "description": `<i>Requires attunement</i><br>Once per short rest, when you kill a creature, you can choose to cast <a href='https://roll20.net/compendium/dnd5e/Invisibility#content'>Invisibility</a> on yourself.`,
