@@ -83,7 +83,7 @@ data = [
     {
         "title": "Bocce Ball Set",
         "cost": 125,
-        "quantity": 0,
+        "quantity": 1,
         "overview": "For the Italian in all of us",
         "description": "A bag containing 4 sets of 2 heavy balls of varying colors. To activate, throw the first ball of a set to a desired location. From there, two effects will be available to the thrower.</p><p><br></p><p>1. The exact distance between the 2 balls is known to the thrower.</p><p>2. The holder of the second ball has the option to teleport to the thrown ball. However, teleporting from one ball to the other expends that set of bocce balls.",
         "img": "./images/bocceballs.jpg",
@@ -200,7 +200,7 @@ data = [
     {
         "title": "All-or-Nothing Coin",
         "cost": 100,
-        "quantity": 0,
+        "quantity": 1,
         "overview": "Risk it for the biscuit",
         "description": "Once per long rest, instead of rolling a d20 on an attack roll or skill check, you can flip a coin. A heads is a critical hit; a tails is a critical fail.",
         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/ATTICA%2C_Athens._Circa_545-525-15_BC.jpg/250px-ATTICA%2C_Athens._Circa_545-525-15_BC.jpg",
@@ -218,7 +218,7 @@ data = [
     {
         "title": "Jester's Hat",
         "cost": 475,
-        "quantity": 0,
+        "quantity": 1,
         "overview": "A silly cap",
         "description": "<i>Requires Attunement</i><br>A bard wearing this hat has one additional use of bardic inspiration. Additionally, when giving bardic inspiration to an ally, as soon as that ally expends that inspiration, both the ally and the wearer are healed for 1d4 health.",
         "img": "https://images.halloweencostumes.com/products/69125/2-1-161454/court-jester-multicolor-soft-hat-alt-1-update.jpg",
@@ -245,7 +245,7 @@ data = [
     {
         "title": "Vibe Check Glasses",
         "cost": 250,
-        "quantity": 0,
+        "quantity": 1,
         "overview": "Lets you read the room",
         "description": `<i>Requires attunement</i><br>These tinted glasses allow you insight into the current vibes. As an action, you can use them to ask the DM one of the following, to which they will respond with a one-word answer (good, bad, strange, etc.): 
         <ul>
@@ -292,63 +292,6 @@ data = [
         "overview": `Beware`,
         "description": `A simple tripwire trap that, once activated, spawns a wild bear.`,
         "img": "https://static.wikia.nocookie.net/base-raiders/images/f/f5/90.png/revision/latest?cb=20190615111049",
-        "visible": false
-    },
-    {
-        "title": "Huntsman's Bow",
-        "cost": 150,
-        "quantity": 2,
-        "overview": ``,
-        "description": `This bow functions as a longbow, and counts as a magical weapon. Once per short rest, on a successful ranged attack, you may cast <a href='https://dnd5e.wikidot.com/spell:hunters-mark'>Hunter's Mark</a> on the target of the attack.`,
-        "img": "https://wiki.guildwars.com/images/5/54/Half_Moon.jpg",
-        "visible": false
-    },
-    {
-        "title": "Slippery Slippers",
-        "cost": 175,
-        "quantity": 1,
-        "overview": ``,
-        "description": `While wearing these silly slippers, you are immune to the effects of the <a href='https://dnd5e.wikidot.com/spell:grease'>Grease</a> spell. Additionally, once per day you can cast <i>Grease</i> centered on yourself.`,
-        "img": "https://m.media-amazon.com/images/I/51nsmaD0k+L._AC_UY1000_.jpg",
-        "visible": false
-    },
-    {
-        "title": "Communal Bag",
-        "cost": 300,
-        "quantity": 1,
-        "overview": `A strange bag to share your items`,
-        "description": `<i>Requires Attunement</i><br>
-        A modified bag of holding, which can be worn on your hip. This bag can store up to three items, each weighing less than 20 pounds. 
-        As a bonus action, anyone attuned to the bag within 500 feet can summon one of the items to appear in their hands.
-        Only 3 people can be attuned to this bag at a time.`,
-        "img": "https://m.media-amazon.com/images/I/71A--DHlcBL._AC_UY1000_.jpg",
-        "visible": false
-    },
-    {
-        "title": "Sample",
-        "cost": 0,
-        "quantity": 0,
-        "overview": ``,
-        "description": ``,
-        "img": "./images/",
-        "visible": false
-    },
-    {
-        "title": "Sample",
-        "cost": 0,
-        "quantity": 0,
-        "overview": ``,
-        "description": ``,
-        "img": "./images/",
-        "visible": false
-    },
-    {
-        "title": "Sample",
-        "cost": 0,
-        "quantity": 0,
-        "overview": ``,
-        "description": ``,
-        "img": "./images/",
         "visible": false
     },
     {
