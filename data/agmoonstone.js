@@ -318,7 +318,7 @@ data = [
         "quantity": 1,
         "overview": `A strange bag to share your items`,
         "description": `<i>Requires Attunement</i><br>
-        A modified bag of holding, which can be stowed on your hip. This bag can store up to three items, each weighing less than 20 pounds. 
+        A modified bag of holding, which can be worn on your hip. This bag can store up to three items, each weighing less than 20 pounds. 
         As a bonus action, anyone attuned to the bag within 500 feet can summon one of the items to appear in their hands.
         Only 3 people can be attuned to this bag at a time.`,
         "img": "https://m.media-amazon.com/images/I/71A--DHlcBL._AC_UY1000_.jpg",
