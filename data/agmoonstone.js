@@ -295,6 +295,63 @@ data = [
         "visible": false
     },
     {
+        "title": "Huntsman's Bow",
+        "cost": 150,
+        "quantity": 2,
+        "overview": ``,
+        "description": `This bow functions as a longbow, and counts as a magical weapon. Once per short rest, on a successful ranged attack, you may cast <a href='https://dnd5e.wikidot.com/spell:hunters-mark'>Hunter's Mark</a> on the target of the attack.`,
+        "img": "https://wiki.guildwars.com/images/5/54/Half_Moon.jpg",
+        "visible": false
+    },
+    {
+        "title": "Slippery Slippers",
+        "cost": 175,
+        "quantity": 1,
+        "overview": ``,
+        "description": `While wearing these silly slippers, you are immune to the effects of the <a href='https://dnd5e.wikidot.com/spell:grease'>Grease</a> spell. Additionally, once per day you can cast <i>Grease</i> centered on yourself.`,
+        "img": "https://m.media-amazon.com/images/I/51nsmaD0k+L._AC_UY1000_.jpg",
+        "visible": false
+    },
+    {
+        "title": "Communal Bag",
+        "cost": 300,
+        "quantity": 1,
+        "overview": `A strange bag to share your items`,
+        "description": `<i>Requires Attunement</i><br>
+        A modified bag of holding, which can be stowed on your hip. This bag can store up to three items, each weighing less than 20 pounds. 
+        As a bonus action, anyone attuned to the bag within 500 feet can summon one of the items to appear in their hands.
+        Only 3 people can be attuned to this bag at a time.`,
+        "img": "https://m.media-amazon.com/images/I/71A--DHlcBL._AC_UY1000_.jpg",
+        "visible": false
+    },
+    {
+        "title": "Sample",
+        "cost": 0,
+        "quantity": 0,
+        "overview": ``,
+        "description": ``,
+        "img": "./images/",
+        "visible": false
+    },
+    {
+        "title": "Sample",
+        "cost": 0,
+        "quantity": 0,
+        "overview": ``,
+        "description": ``,
+        "img": "./images/",
+        "visible": false
+    },
+    {
+        "title": "Sample",
+        "cost": 0,
+        "quantity": 0,
+        "overview": ``,
+        "description": ``,
+        "img": "./images/",
+        "visible": false
+    },
+    {
         "title": "Sample",
         "cost": 0,
         "quantity": 0,
