@@ -291,7 +291,7 @@ data = [
         "quantity": 3,
         "overview": `Beware`,
         "description": `A simple tripwire trap that, once activated, spawns a wild bear.`,
-        "img": "https://static.wikia.nocookie.net/base-raiders/images/f/f5/90.png/revision/latest?cb=20190615111049",
+        "img": "https://static.wikia.nocookie.net/base-raiders/images/f/f5/90.png",
         "visible": true
     },
     {
