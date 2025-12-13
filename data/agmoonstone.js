@@ -60,7 +60,7 @@ data = [
         "overview": "A hammer to help you find what's hidden.",
         "description": "This magic hammer, when lightly struck against a surface, will produce a soft&nbsp;<i>tap</i>&nbsp;sound that rings differently depending on the material it's being struck against and the thickness of the material. For the first 3 feet of the material, the user can infer the material type, including open air if the surface being struck is less than 3 feet. For each additional foot after that, the bearer of the hammer must make an Intelligence (Arcana) check of DC 10 + the number of feet greater than 3 to determine what material is there and whether there is an opening. For example, 4 feet would have a DC of 11, 5 feet a DC of 12, and so on. Until they fail this check, they can continue trying to discern the material farther and farther, one foot at a time.</p><p>This hammer has a limited number of uses equal to 1d4 per day.",
         "img": "./images/hammer.jpg",
-        "visible": false
+        "visible": true
     },
     {
         "title": "Shield of Faith",
@@ -114,7 +114,7 @@ data = [
         "overview": "Become a spider-man",
         "description": "<i>Requires Attunement</i><br>Once per day, the bracelet bestows <i><a href='https://dnd5e.wikidot.com/spell:spider-climb'>Spider Climb</a></i> on the wearer for ten minutes. Additionally, the wearer's movement while climbing is completely silent and gives them advantage on stealth checks while the effect is active.",
         "img": "./images/tarantulabracelet.jpg",
-        "visible": true
+        "visible": false
     },
     {
         "title": "Grammarian's Ring",
@@ -132,7 +132,7 @@ data = [
         "overview": "",
         "description": "<i>Requires Attunement</i><br>Once per day, the wearer of this ring can cast <i><a href='https://dnd5e.wikidot.com/spell:misty-step'>Misty Step</a></i>.",
         "img": "./images/silver-ring.avif",
-        "visible": false
+        "visible": true
     },
     {
         "title": "Ring of Movement",
@@ -186,7 +186,7 @@ data = [
         "overview": "Do not steal.",
         "description": "Drinking a bottle from this 4-pack gives you the ability to float around. For the next 1 minute, you have a flying speed of 10 ft.",
         "img": "https://wicked-good.co/cdn/shop/products/FizzyLiftingDrink-WillyWonkaScent.png?v=1759356407&width=1080",
-        "visible": true
+        "visible": false
     },
     {
         "title": "Anti-Gravity Sphere",
@@ -213,7 +213,7 @@ data = [
         "overview": "100 Ducks, That's Our Promise",
         "description": "Each handcrafted, ornate, glass bottle of Gray Duck Vodka contains 100 ducks, that's our promise. <br> <p style='text-align: center;'>Do Not Ingest.</p>",
         "img": "https://tug-nut.github.io/OPEN-Enterprises/images/Gray%20Duck.jpg",
-        "visible": false
+        "visible": true
     },
     {
         "title": "Jester's Hat",
@@ -274,7 +274,7 @@ data = [
         "overview": `Strap in`,
         "description": `Once per long rest, you can move the straps on these versatile footwear to behind your heels, setting them to sport mode. For the next 10 minutes, you can move across water surfaces without sinking. However, you must be running to gain this benefit. If you stop or slow to a walking pace, you sink into the water as normal.`,
         "img": "https://m.media-amazon.com/images/I/715O-+0xHcL._AC_UY900_.jpg",
-        "visible": false
+        "visible": true
     },
     {
         "title": "Assassin's Cloak",
@@ -292,7 +292,7 @@ data = [
         "overview": `Beware`,
         "description": `A simple tripwire trap that, once activated, spawns a wild bear.`,
         "img": "https://static.wikia.nocookie.net/base-raiders/images/f/f5/90.png/revision/latest?cb=20190615111049",
-        "visible": false
+        "visible": true
     },
     {
         "title": "Huntsman's Bow",
@@ -301,7 +301,7 @@ data = [
         "overview": ``,
         "description": `This bow functions as a longbow, and counts as a magical weapon. Once per short rest, on a successful ranged attack, you may cast <a href='https://dnd5e.wikidot.com/spell:hunters-mark'>Hunter's Mark</a> on the target of the attack.`,
         "img": "https://wiki.guildwars.com/images/5/54/Half_Moon.jpg",
-        "visible": false
+        "visible": true
     },
     {
         "title": "Slippery Slippers",
