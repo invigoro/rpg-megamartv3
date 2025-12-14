@@ -325,12 +325,13 @@ data = [
         "visible": false
     },
     {
-        "title": "Sample",
-        "cost": 0,
-        "quantity": 0,
-        "overview": ``,
-        "description": ``,
-        "img": "./images/",
+        "title": "Messenger Arrow",
+        "cost": 20,
+        "quantity": 10,
+        "overview": `A magically enchanted arrow`,
+        "description": `When fired from a bow, the arrow seeks the creature whose name, description, and location are written on a message attached to the arrow,
+         so long as there is an unobstructed path to the target. The arrow flies for 150 miles and delivers its 25 word message within the hour. It deals no damage.`,
+        "img": "https://i.pinimg.com/474x/16/6b/b2/166bb2eda1d35f2d1002b8fefefaa73b.jpg",
         "visible": false
     },
     {
@@ -359,5 +360,86 @@ data = [
         "description": ``,
         "img": "./images/",
         "visible": false
-    }            
+    },
+    {
+        "title": "Sample",
+        "cost": 0,
+        "quantity": 0,
+        "overview": ``,
+        "description": ``,
+        "img": "./images/",
+        "visible": false
+    }  ,
+    {
+        "title": "Sample",
+        "cost": 0,
+        "quantity": 0,
+        "overview": ``,
+        "description": ``,
+        "img": "./images/",
+        "visible": false
+    }  ,
+    {
+        "title": "Sample",
+        "cost": 0,
+        "quantity": 0,
+        "overview": ``,
+        "description": ``,
+        "img": "./images/",
+        "visible": false
+    }  ,
+    {
+        "title": "Sample",
+        "cost": 0,
+        "quantity": 0,
+        "overview": ``,
+        "description": ``,
+        "img": "./images/",
+        "visible": false
+    }  ,
+    {
+        "title": "Sample",
+        "cost": 0,
+        "quantity": 0,
+        "overview": ``,
+        "description": ``,
+        "img": "./images/",
+        "visible": false
+    }  ,
+    {
+        "title": "Sample",
+        "cost": 0,
+        "quantity": 0,
+        "overview": ``,
+        "description": ``,
+        "img": "./images/",
+        "visible": false
+    }  ,
+    {
+        "title": "Sample",
+        "cost": 0,
+        "quantity": 0,
+        "overview": ``,
+        "description": ``,
+        "img": "./images/",
+        "visible": false
+    }  ,
+    {
+        "title": "Sample",
+        "cost": 0,
+        "quantity": 0,
+        "overview": ``,
+        "description": ``,
+        "img": "./images/",
+        "visible": false
+    }  ,
+    {
+        "title": "Sample",
+        "cost": 0,
+        "quantity": 0,
+        "overview": ``,
+        "description": ``,
+        "img": "./images/",
+        "visible": false
+    }              
 ]
