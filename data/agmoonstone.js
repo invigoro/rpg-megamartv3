@@ -247,7 +247,7 @@ data = [
         "cost": 250,
         "quantity": 0,
         "overview": "Lets you read the room",
-        "description": `<i>Requires attunement</i><br>These tinted glasses allow you insight into the current vibes. As an action, you can use them to ask the DM one of the following, to which they will respond with a one-word answer (good, bad, strange, etc.): 
+        "description": `<i>Requires Attunement</i><br>These tinted glasses allow you insight into the current vibes. As an action, you can use them to ask the DM one of the following, to which they will respond with a one-word answer (good, bad, strange, etc.): 
         <ul>
         <li>What the current vibe in the room is</li>
         <li>What the vibe is from a particular person present</li>
@@ -281,7 +281,7 @@ data = [
         "cost": 600,
         "quantity": 1,
         "overview": ``,
-        "description": `<i>Requires attunement</i><br>Once per short rest, when you kill a creature, you can choose to cast <a href='https://roll20.net/compendium/dnd5e/Invisibility#content'>Invisibility</a> on yourself.`,
+        "description": `<i>Requires Attunement</i><br>Once per short rest, when you kill a creature, you can choose to cast <a href='https://roll20.net/compendium/dnd5e/Invisibility#content'>Invisibility</a> on yourself.`,
         "img": "https://m.media-amazon.com/images/I/31ytxnhsZeL._AC_UY1000_.jpg",
         "visible": false
     },
@@ -335,12 +335,14 @@ data = [
         "visible": false
     },
     {
-        "title": "Sample",
-        "cost": 0,
-        "quantity": 0,
-        "overview": ``,
-        "description": ``,
-        "img": "./images/",
+        "title": "Imperfect Teleportation Amulet",
+        "cost": 250,
+        "quantity": 1,
+        "overview": `Usually teleports you where you want to go`,
+        "description": `<i>Requires Attunement</i><br>
+        This amulet allows the wearer to cast <i><a href='https://dnd5e.wikidot.com/spell:misty-step'>Misty Step</a></i> at will as a bonus action. 
+        However, when casting it, roll a d20. On a 1, the spell instead teleports the wearer to the least desireable location within range (surrounded by enemies, in a hazardous zone, in some restricted area, etc.).`,
+        "img": "https://static.wikia.nocookie.net/feral/images/3/33/Magic_amulet.png/",
         "visible": false
     },
     {
