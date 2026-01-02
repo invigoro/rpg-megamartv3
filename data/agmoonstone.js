@@ -346,12 +346,12 @@ data = [
         "visible": false
     },
     {
-        "title": "Sample",
-        "cost": 0,
-        "quantity": 0,
-        "overview": ``,
-        "description": ``,
-        "img": "./images/",
+        "title": "Serious String",
+        "cost": 150,
+        "quantity": 3,
+        "overview": `The sequel to Silly String`,
+        "description": `This single-use can of serious string can do some serious damage. As an attack (proficiency with any crossbow applies), you can spray a target within 30 ft. with this string, stunning the target for one turn and dealing 4d6 force damage.`,
+        "img": "https://i.ebayimg.com/images/g/UuoAAOSwLAVgagbA/s-l1200.jpg",
         "visible": false
     },
     {
