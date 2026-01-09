@@ -341,7 +341,7 @@ data = [
         "overview": `Usually teleports you where you want to go`,
         "description": `<i>Requires Attunement</i><br>
         This amulet allows the wearer to cast <i><a href='https://dnd5e.wikidot.com/spell:misty-step'>Misty Step</a></i> at will as a bonus action. 
-        However, when casting it, roll a d10. On a 1, the spell instead teleports the wearer to the least desireable location within range (surrounded by enemies, in a hazardous zone, in some restricted area, etc.).`,
+        However, when casting it, roll a d6. On a 1, the spell instead teleports the wearer to the least desireable location within range (surrounded by enemies, in a hazardous zone, in some restricted area, etc.).`,
         "img": "https://static.wikia.nocookie.net/feral/images/3/33/Magic_amulet.png/",
         "visible": false
     },
