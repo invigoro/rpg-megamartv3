@@ -168,7 +168,7 @@ data = [
         "overview": "",
         "description": "When pointed at a creature of similar size (no more than one size category smaller or larger than you) within 120 ft., the holder will switch places with that target, if the target is willing. If the target is unwilling, it must succeed a DC 13 Constitution save to resist. One charge per long rest.",
         "img": "https://5e.tools/img/items/DMG/Wand%20of%20Polymorph.webp",
-        "visible": true
+        "visible": false
     },
     {
         "title": "Gauntlets of Healing",
@@ -190,12 +190,12 @@ data = [
     },
     {
         "title": "Anti-Gravity Sphere",
-        "cost": 500,
+        "cost": 150,
         "quantity": 1,
         "overview": "A fist-sized ball of glass.",
-        "description": "This small orb is filled with silvery smoke. When the orb is destroyed, it disables the effect of gravity for everything within a 30 ft. radius.",
+        "description": "This small orb is filled with silvery smoke. When the orb is destroyed, it disables the effect of gravity for everything within a 30 ft. radius for 1 minute.",
         "img": "https://www.shutterstock.com/shutterstock/videos/1070332816/thumb/1.jpg?ip=x480",
-        "visible": false
+        "visible": true
     }, 
     {
         "title": "All-or-Nothing Coin",
@@ -231,7 +231,7 @@ data = [
         "overview": "Green-and-blue speckled minty sticks",
         "description": "A five-pack of chewing gum. Upon chewing one of these sticks, you're able to perfectly emulate another person's voice for up to an hour.",
         "img": "https://www.longmontcompletedentistry.com/blog/wp-content/uploads/2023/04/AdobeStock_43878704__1680914959_50471.jpg",
-        "visible": true
+        "visible": false
     },
     {
         "title": "Spellkeeper Cards",
@@ -283,7 +283,7 @@ data = [
         "overview": ``,
         "description": `<i>Requires Attunement</i><br>Once per short rest, when you kill a creature, you can choose to cast <a href='https://roll20.net/compendium/dnd5e/Invisibility#content'>Invisibility</a> on yourself.`,
         "img": "https://m.media-amazon.com/images/I/31ytxnhsZeL._AC_UY1000_.jpg",
-        "visible": false
+        "visible": true
     },
     {
         "title": "Reverse Bear Trap",
@@ -322,7 +322,7 @@ data = [
         As a bonus action, anyone attuned to the bag within 500 feet can summon one of the items to appear in their hands.
         Only 3 people can be attuned to this bag at a time.`,
         "img": "https://m.media-amazon.com/images/I/71A--DHlcBL._AC_UY1000_.jpg",
-        "visible": false
+        "visible": true
     },
     {
         "title": "Messenger Arrow",
