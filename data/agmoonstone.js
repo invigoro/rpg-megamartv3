@@ -347,7 +347,7 @@ data = [
     },
     {
         "title": "Serious String",
-        "cost": 150,
+        "cost": 100,
         "quantity": 3,
         "overview": `The sequel to Silly String`,
         "description": `This single-use can of serious string can do some serious damage. As an attack (proficiency with any crossbow applies), you can spray a target within 30 ft. with this string, stunning the target for one turn and dealing 4d6 force damage.`,
@@ -355,12 +355,13 @@ data = [
         "visible": false
     },
     {
-        "title": "Sample",
-        "cost": 0,
-        "quantity": 0,
-        "overview": ``,
-        "description": ``,
-        "img": "./images/",
+        "title": "Snake-or-Sword",
+        "cost": 100,
+        "quantity": 1,
+        "overview": `Which will it be?`,
+        "description": `This sword's power comes from an enchantment on the sheath. When drawing the sword, flip a coin. On a heads, the sword becomes a +3 longsword that also deals an additional 1d8 fire damage. On a tails, the sword becomes a hostile snake, biting you (or any other character within reach) on its turn, which is immediately after your turn (+4 to hit, 1d6 piercing + 1d6 poison damage).
+        <br>However, the enchantment only lasts for a minute, after which it reverts to a normal longsword until it is returned to its sheath and redrawn. When it is in the snake form, a DC 20 animal handling check is required to force the animal back into the sheath.`,
+        "img": "https://m.media-amazon.com/images/I/51vc+SMNdlL.jpg",
         "visible": false
     },
     {
