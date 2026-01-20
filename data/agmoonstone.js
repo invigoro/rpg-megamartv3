@@ -359,37 +359,48 @@ data = [
         "cost": 100,
         "quantity": 1,
         "overview": `Which will it be?`,
-        "description": `This sword's power comes from an enchantment on the sheath. When drawing the sword, flip a coin. On a heads, the sword becomes a +3 longsword that also deals an additional 1d8 fire damage. On a tails, the sword becomes a hostile snake, biting you (or any other character within reach) on its turn, which is immediately after your turn (+4 to hit, 1d6 piercing + 1d6 poison damage).
-        <br>However, the enchantment only lasts for a minute, after which it reverts to a normal longsword until it is returned to its sheath and redrawn. When it is in the snake form, a DC 20 animal handling check is required to force the animal back into the sheath.`,
+        "description": `This sword's power comes from an enchantment on the sheath. When drawing the sword, flip a coin. On a heads, the sword becomes a +3 version of the its sword type (see below options) that also deals an additional 1d8 fire damage. On a tails, the sword becomes a hostile snake, biting you (or any other character within reach) on its turn, which is immediately after your turn (+4 to hit, 1d6 piercing + 1d6 poison damage).
+        <br>However, the enchantment only lasts for a minute, after which it reverts to a normal sword until it is returned to its sheath and redrawn. When it is in the snake form, a DC 20 animal handling check is required to force the animal back into the sheath.
+        <br><br>This sword comes in five varieties: longsword, shortsword, rapier, greatsword, scimitar.`,
         "img": "https://m.media-amazon.com/images/I/51vc+SMNdlL.jpg",
         "visible": false
     },
     {
-        "title": "Sample",
-        "cost": 0,
-        "quantity": 0,
+        "title": "Elemental Ukulele",
+        "cost": 350,
+        "quantity": 1,
         "overview": ``,
-        "description": ``,
-        "img": "./images/",
+        "description": `<i>Requires attunement</i><br>
+        This ukulele can be used to cast various elemental cantrips. As an action, you can play a little ditty on this instrument, making a <b>DC 13 Performance</b> check to determine its effectiveness. On a success, you can cast the cantrip the ukulele is currently tuned to.
+        <br>The ukulele can be tuned to a single elemental cantrip at a time, choosing from the list below. On a short rest, the owner of this instrument can tune it to change the cantrip.
+        <br>Available cantrips: <ul>
+        <li><i><a href='https://dnd5e.wikidot.com/spell:fire-bolt'>Firebolt</a></i></li>
+        <li><i><a href='https://dnd5e.wikidot.com/spell:ray-of-frost'>Ray of Frost</a></i></li>
+        <li><i><a href='https://dnd5e.wikidot.com/spell:thunderclap'>Thunderclap</a></i></li>
+        <li><i><a href='https://dnd5e.wikidot.com/spell:acid-splash'>Acid Splash</a></i></li>
+        <li><i><a href='https://dnd5e.wikidot.com/spell:lightning-lure'>Lightning Lure</a></i></li>
+        <li><i><a href='https://dnd5e.wikidot.com/spell:poison-spray'>Poison Spray</a></i></li>`,
+        "img": "https://static.wikia.nocookie.net/forgottenrealms/images/f/f2/Doss_lute-5e.jpg/",
+        "visible": false
+    },
+    {
+        "title": "Returning Pike",
+        "cost": 600,
+        "quantity": 1,
+        "overview": `Keep that mfing thang on you`,
+        "description": `<i>Requires attunement</i><br>
+        This pike functions as a +1 pike. However, when attuned, the owner of this pike can use a bonus action to summon it to their hand, as long as they and the pike are on the same plane of existence.`,
+        "img": "https://static.wikia.nocookie.net/forgottenrealms/images/4/4f/Returning_Pike.png",
         "visible": false
     }  ,
     {
-        "title": "Sample",
-        "cost": 0,
-        "quantity": 0,
+        "title": "Snake Arrow",
+        "cost": 30,
+        "quantity": 8,
         "overview": ``,
-        "description": ``,
-        "img": "./images/",
-        "visible": false
-    }  ,
-    {
-        "title": "Sample",
-        "cost": 0,
-        "quantity": 0,
-        "overview": ``,
-        "description": ``,
-        "img": "./images/",
-        "visible": false
+        "description": `These strange arrows function as normal arrows when shot from a bow, except that upon impact, they immediately transform into snakes. If the target that they hit is a creature, they immediately latch onto that creature, dealing 1d4 poison damage every turn until removed, which can be done with a successful <b>DC 12 Animal Handling</b> check.`,
+        "img": "https://static.wikia.nocookie.net/conanexiles_gamepedia/images/5/53/Icon_snake_arrow.png/",
+        "visible": true
     }  ,
     {
         "title": "Sample",
