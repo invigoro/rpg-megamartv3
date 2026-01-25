@@ -60,7 +60,7 @@ data = [
         "overview": "A hammer to help you find what's hidden.",
         "description": "This magic hammer, when lightly struck against a surface, will produce a soft&nbsp;<i>tap</i>&nbsp;sound that rings differently depending on the material it's being struck against and the thickness of the material. For the first 3 feet of the material, the user can infer the material type, including open air if the surface being struck is less than 3 feet. For each additional foot after that, the bearer of the hammer must make an Intelligence (Arcana) check of DC 10 + the number of feet greater than 3 to determine what material is there and whether there is an opening. For example, 4 feet would have a DC of 11, 5 feet a DC of 12, and so on. Until they fail this check, they can continue trying to discern the material farther and farther, one foot at a time.</p><p>This hammer has a limited number of uses equal to 1d4 per day.",
         "img": "./images/hammer.jpg",
-        "visible": true
+        "visible": false
     },
     {
         "title": "Shield of Faith",
@@ -213,7 +213,7 @@ data = [
         "overview": "100 Ducks, That's Our Promise",
         "description": "Each handcrafted, ornate, glass bottle of Gray Duck Vodka contains 100 ducks, that's our promise. <br> <p style='text-align: center;'>Do Not Ingest.</p>",
         "img": "https://tug-nut.github.io/OPEN-Enterprises/images/Gray%20Duck.jpg",
-        "visible": true
+        "visible": false
     },
     {
         "title": "Jester's Hat",
@@ -236,7 +236,7 @@ data = [
     {
         "title": "Spellkeeper Cards",
         "cost": 275,
-        "quantity": 1,
+        "quantity": 0,
         "overview": "A strange deck with no face cards",
         "description": "This deck of cards has a magical enchantment that permits you to sometimes restore a spell slot. Once per day, as an action you may draw a card from this deck. Choose the level of spell slot you'd like to restore, then roll a d10 to determine the value of the card. If the spell slot's level is lower than the card value, the slot is restored.",
         "img": "https://rareplayingcards.com/cdn/shop/products/ultimatedeck_a2071195-b8d5-4cf0-b11c-21643d0ae368.jpg?v=1675864853",
@@ -297,7 +297,7 @@ data = [
     {
         "title": "Huntsman's Bow",
         "cost": 150,
-        "quantity": 2,
+        "quantity": 1,
         "overview": ``,
         "description": `This bow functions as a longbow, and counts as a magical weapon. Once per short rest, on a successful ranged attack, you may cast <a href='https://dnd5e.wikidot.com/spell:hunters-mark'>Hunter's Mark</a> on the target of the attack.`,
         "img": "https://wiki.guildwars.com/images/5/54/Half_Moon.jpg",
@@ -352,7 +352,7 @@ data = [
         "overview": `The sequel to Silly String`,
         "description": `This single-use can of serious string can do some serious damage. As an attack (proficiency with any crossbow applies), you can spray a target within 30 ft. with this string, stunning the target for one turn and dealing 4d6 force damage.`,
         "img": "https://i.ebayimg.com/images/g/UuoAAOSwLAVgagbA/s-l1200.jpg",
-        "visible": false
+        "visible": true
     },
     {
         "title": "Snake-or-Sword",
@@ -381,7 +381,7 @@ data = [
         <li><i><a href='https://dnd5e.wikidot.com/spell:lightning-lure'>Lightning Lure</a></i></li>
         <li><i><a href='https://dnd5e.wikidot.com/spell:poison-spray'>Poison Spray</a></i></li>`,
         "img": "https://static.wikia.nocookie.net/forgottenrealms/images/f/f2/Doss_lute-5e.jpg/",
-        "visible": false
+        "visible": true
     },
     {
         "title": "Returning Pike",
@@ -391,12 +391,12 @@ data = [
         "description": `<i>Requires attunement</i><br>
         This pike functions as a +1 pike. However, when attuned, the owner of this pike can use a bonus action to summon it to their hand, as long as they and the pike are on the same plane of existence.`,
         "img": "https://static.wikia.nocookie.net/forgottenrealms/images/4/4f/Returning_Pike.png",
-        "visible": false
+        "visible": true
     }  ,
     {
         "title": "Snake Arrow",
         "cost": 30,
-        "quantity": 8,
+        "quantity": 4,
         "overview": ``,
         "description": `These strange arrows function as normal arrows when shot from a bow, except that upon impact, they immediately transform into snakes. If the target that they hit is a creature, they immediately latch onto that creature, dealing 1d4 poison damage every turn until removed, which can be done with a successful <b>DC 12 Animal Handling</b> check.`,
         "img": "https://static.wikia.nocookie.net/conanexiles_gamepedia/images/5/53/Icon_snake_arrow.png/",
