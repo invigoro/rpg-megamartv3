@@ -367,7 +367,7 @@ data = [
     },
     {
         "title": "Elemental Ukulele",
-        "cost": 350,
+        "cost": 450,
         "quantity": 1,
         "overview": ``,
         "description": `<i>Requires attunement</i><br>
