@@ -279,7 +279,7 @@ data = [
     {
         "title": "Assassin's Cloak",
         "cost": 600,
-        "quantity": 1,
+        "quantity": 0,
         "overview": ``,
         "description": `<i>Requires Attunement</i><br>Once per short rest, when you kill a creature, you can choose to cast <a href='https://roll20.net/compendium/dnd5e/Invisibility#content'>Invisibility</a> on yourself.`,
         "img": "https://m.media-amazon.com/images/I/31ytxnhsZeL._AC_UY1000_.jpg",
@@ -343,7 +343,7 @@ data = [
         This amulet allows the wearer to cast <i><a href='https://dnd5e.wikidot.com/spell:misty-step'>Misty Step</a></i> at will as a bonus action. 
         However, when casting it, roll a d6. On a 1, the spell instead teleports the wearer to the least desireable location within range (surrounded by enemies, in a hazardous zone, in some restricted area, etc.).`,
         "img": "https://static.wikia.nocookie.net/feral/images/3/33/Magic_amulet.png/",
-        "visible": false
+        "visible": true
     },
     {
         "title": "Serious String",
@@ -368,7 +368,7 @@ data = [
     {
         "title": "Elemental Ukulele",
         "cost": 450,
-        "quantity": 1,
+        "quantity": 0,
         "overview": ``,
         "description": `<i>Requires attunement</i><br>
         This ukulele can be used to cast various elemental cantrips. As an action, you can play a little ditty on this instrument, making a <b>DC 13 Performance</b> check to determine its effectiveness. On a success, you can cast the cantrip the ukulele is currently tuned to.
@@ -386,7 +386,7 @@ data = [
     {
         "title": "Returning Pike",
         "cost": 600,
-        "quantity": 1,
+        "quantity": 0,
         "overview": `Keep that mfing thang on you`,
         "description": `<i>Requires attunement</i><br>
         This pike functions as a +1 pike. However, when attuned, the owner of this pike can use a bonus action to summon it to their hand, as long as they and the pike are on the same plane of existence. <br><br>Additionally, this weapon has the <a href='https://roll20.net/compendium/dnd5e/Weapons#content'><i>thrown</i></a> property.`,
