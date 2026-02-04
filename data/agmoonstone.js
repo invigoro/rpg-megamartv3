@@ -389,7 +389,7 @@ data = [
         "quantity": 1,
         "overview": `Keep that mfing thang on you`,
         "description": `<i>Requires attunement</i><br>
-        This pike functions as a +1 pike. However, when attuned, the owner of this pike can use a bonus action to summon it to their hand, as long as they and the pike are on the same plane of existence.`,
+        This pike functions as a +1 pike. However, when attuned, the owner of this pike can use a bonus action to summon it to their hand, as long as they and the pike are on the same plane of existence. <br><br>Additionally, this weapon has the <a href='https://roll20.net/compendium/dnd5e/Weapons#content'><i>thrown</i></a> property.`,
         "img": "https://static.wikia.nocookie.net/forgottenrealms/images/4/4f/Returning_Pike.png",
         "visible": true
     }  ,
