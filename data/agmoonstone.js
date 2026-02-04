@@ -47,11 +47,11 @@ data = [
     {
         "title": "Spectacles of Truthsight",
         "cost": 200,
-        "quantity": 0,
+        "quantity": 1,
         "overview": "The easiest way to see through the bullshit.",
         "description": "When wearing these dichromatic spectacles, you can visually separate the truth or falsehood of anyone's speech by color. Truth appears to you as green; lies appear to you as red, and partial truths appear somewhere in between. They can be used for up to 10 minutes; afterwards, roll 1d6. On a 1, the glasses fracture beyond repair.",
         "img": "./images/spectaclesrg.gif",
-        "visible": false
+        "visible": true
     },
     {
         "title": "Hammer of Surmise Sturdiness",
@@ -265,7 +265,7 @@ data = [
         "overview": `You should always wear protection`,
         "description": `This thin, paper-light armor can be worn underneath any other standard set of armor. When you are hit for damage that would drop you to zero health, the armor absorbs the hit instead, nullifying the damage dealt. However, this cracks the armor, making it ineffective and unrepairable.`,
         "img": "https://dl2.myminifactory.com/object-assets/644ff9f46b1e86.87395864/images/720X720-screenshot-1421.jpg",
-        "visible": true
+        "visible": false
     },
     {
         "title": "Sport Mode Crocs",
@@ -274,7 +274,7 @@ data = [
         "overview": `Strap in`,
         "description": `Once per long rest, you can move the straps on these versatile footwear to behind your heels, setting them to sport mode. For the next 10 minutes, you can move across water surfaces without sinking. However, you must be running to gain this benefit. If you stop or slow to a walking pace, you sink into the water as normal.`,
         "img": "https://m.media-amazon.com/images/I/715O-+0xHcL._AC_UY900_.jpg",
-        "visible": true
+        "visible": false
     },
     {
         "title": "Assassin's Cloak",
@@ -297,7 +297,7 @@ data = [
     {
         "title": "Huntsman's Bow",
         "cost": 150,
-        "quantity": 1,
+        "quantity": 0,
         "overview": ``,
         "description": `This bow functions as a longbow, and counts as a magical weapon. Once per short rest, on a successful ranged attack, you may cast <a href='https://dnd5e.wikidot.com/spell:hunters-mark'>Hunter's Mark</a> on the target of the attack.`,
         "img": "https://wiki.guildwars.com/images/5/54/Half_Moon.jpg",
@@ -310,7 +310,7 @@ data = [
         "overview": ``,
         "description": `While wearing these silly slippers, you are immune to the effects of the <a href='https://dnd5e.wikidot.com/spell:grease'>Grease</a> spell. Additionally, once per day you can cast <i>Grease</i> centered on yourself.`,
         "img": "https://m.media-amazon.com/images/I/51nsmaD0k+L._AC_UY1000_.jpg",
-        "visible": false
+        "visible": true
     },
     {
         "title": "Communal Bag",
@@ -327,12 +327,12 @@ data = [
     {
         "title": "Messenger Arrow",
         "cost": 20,
-        "quantity": 10,
+        "quantity": 11,
         "overview": `A magically enchanted arrow`,
         "description": `When fired from a bow, the arrow seeks the creature whose name, description, and location are written on a message attached to the arrow,
          so long as there is an unobstructed path to the target. The arrow flies for 150 miles and delivers its 25 word message within the hour. It deals no damage.`,
         "img": "https://i.pinimg.com/474x/16/6b/b2/166bb2eda1d35f2d1002b8fefefaa73b.jpg",
-        "visible": false
+        "visible": true
     },
     {
         "title": "Imperfect Teleportation Amulet",
@@ -367,7 +367,7 @@ data = [
     },
     {
         "title": "Elemental Ukulele",
-        "cost": 350,
+        "cost": 450,
         "quantity": 1,
         "overview": ``,
         "description": `<i>Requires attunement</i><br>
