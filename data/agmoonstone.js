@@ -403,12 +403,13 @@ data = [
         "visible": true
     }  ,
     {
-        "title": "Sample",
-        "cost": 0,
-        "quantity": 0,
+        "title": "Gloving Gloves",
+        "cost": 150,
+        "quantity": 1,
         "overview": ``,
-        "description": ``,
-        "img": "./images/",
+        "description": `These showman's gloves can be used to supplement your magic. 
+        When casting a spell that requires a verbal component, you can use these gloves to do some performative tricks with your fingers by making a <b>DC 12 Performance (DEX)</b> check. On a success, this casting of your spell does not require a verbal component.`,
+        "img": "https://the-rave-cave.com/cdn/shop/products/10lightpremierassortedgloves.png?v=1585653784",
         "visible": false
     }  ,
     {
