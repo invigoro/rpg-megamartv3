@@ -422,30 +422,30 @@ data = [
         "visible": false
     }  ,
     {
-        "title": "Sample",
-        "cost": 0,
-        "quantity": 0,
-        "overview": ``,
-        "description": ``,
-        "img": "./images/",
+        "title": "Cupholder",
+        "cost": 50,
+        "quantity": 2,
+        "overview": `Keeps your drinks handy`,
+        "description": `This cupholder can conviently store one tasty beverage of your choice at your waist. As a bonus action, you can drink any potion stored in it and gain the full effects as if using an action. `,
+        "img": "https://m.media-amazon.com/images/I/71RDsYJiJTL.jpg",
         "visible": false
     }  ,
     {
-        "title": "Sample",
-        "cost": 0,
-        "quantity": 0,
+        "title": "Siren Hat",
+        "cost": 175,
+        "quantity": 1,
         "overview": ``,
-        "description": ``,
-        "img": "./images/",
+        "description": `A hat that can be turned on or off as an action or bonus action. When on, it acts like an ambulance siren with bright, flashing lights and a loud, blaring sound. Each time the hat is activated, roll a d100. On a 1, the hat unintentionally summons 2d8 hostile <a href='https://www.5esrd.com/database/creature/siren/'>Sirens</a> to an unoccupied space next to you.`,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStAl9jjyJaBYNdGoy7AZlFG59cCDfMZwx51g&s",
         "visible": false
     }  ,
     {
-        "title": "Sample",
-        "cost": 0,
-        "quantity": 0,
-        "overview": ``,
-        "description": ``,
-        "img": "./images/",
+        "title": "Spiked Lemonade",
+        "cost": 25,
+        "quantity": 5,
+        "overview": `Is it worth the risk?`,
+        "description": `This energy-infused lemonade can be used to keep you going. when drinking it, you must make a <b>DC 8 Constitution</b> saving throw. On a success, you remove one level of exhaustion. On a failure, you collapse, dropping to 0 health and remaining unconscious for 1d8 + 1 hours.`,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5U0iQs9eLHeMK7W9nHQZU_y6t3ov4iyC9Bg&s",
         "visible": false
     }  ,
     {
