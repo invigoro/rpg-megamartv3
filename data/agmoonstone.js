@@ -417,7 +417,8 @@ data = [
         "cost": 150,
         "quantity": 1,
         "overview": `A boomerang that doesn't come back`,
-        "description": ``,
+        "description": `When this boomerang is thrown as an action, it just continues in the direction it's thrown, never returning. It stops when it hits any solid object. 
+        <br><br>The owner of this boomerang can spend a short rest doing its re-summoning ritual, after which it magically returns to their hand, as long as they are both on the same plane of existence.`,
         "img": "https://cdn.britannica.com/91/136491-050-AAACC3A5/Boomerang.jpg",
         "visible": false
     }  ,
