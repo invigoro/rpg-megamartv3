@@ -419,7 +419,7 @@ data = [
         "overview": `A boomerang that doesn't come back`,
         "description": ``,
         "img": "https://cdn.britannica.com/91/136491-050-AAACC3A5/Boomerang.jpg",
-        "visible": true
+        "visible": false
     }  ,
     {
         "title": "Cupholder",
