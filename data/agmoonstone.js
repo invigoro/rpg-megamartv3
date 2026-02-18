@@ -392,7 +392,7 @@ data = [
         This pike functions as a +1 pike. However, when attuned, the owner of this pike can use a bonus action to summon it to their hand, as long as they and the pike are on the same plane of existence. <br><br>Additionally, this weapon has the <a href='https://roll20.net/compendium/dnd5e/Weapons#content'><i>thrown</i></a> property.`,
         "img": "https://static.wikia.nocookie.net/forgottenrealms/images/4/4f/Returning_Pike.png",
         "visible": true
-    }  ,
+    },
     {
         "title": "Snake Arrow",
         "cost": 30,
@@ -401,7 +401,7 @@ data = [
         "description": `These strange arrows function as normal arrows when shot from a bow, except that upon impact, they immediately transform into snakes. If the target that they hit is a creature, they immediately latch onto that creature, dealing 1d4 poison damage every turn until removed, which can be done with a successful <b>DC 12 Animal Handling</b> check.`,
         "img": "https://static.wikia.nocookie.net/conanexiles_gamepedia/images/5/53/Icon_snake_arrow.png/",
         "visible": true
-    }  ,
+    },
     {
         "title": "Gloving Gloves",
         "cost": 150,
@@ -411,15 +411,15 @@ data = [
         When casting a spell that requires a verbal component, you can use these gloves to do some performative tricks with your fingers by making a <b>DC 12 Performance (DEX)</b> check. On a success, this casting of your spell does not require a verbal component.`,
         "img": "https://the-rave-cave.com/cdn/shop/products/10lightpremierassortedgloves.png?v=1585653784",
         "visible": false
-    }  ,
+    },
     {
-        "title": "Sample",
-        "cost": 0,
-        "quantity": 0,
-        "overview": ``,
+        "title": "Non-stop Boomerang",
+        "cost": 150,
+        "quantity": 1,
+        "overview": `A boomerang that doesn't come back`,
         "description": ``,
-        "img": "./images/",
-        "visible": false
+        "img": "https://cdn.britannica.com/91/136491-050-AAACC3A5/Boomerang.jpg",
+        "visible": true
     }  ,
     {
         "title": "Cupholder",
