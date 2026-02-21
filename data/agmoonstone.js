@@ -421,7 +421,7 @@ data = [
         <br><br>The owner of this boomerang can spend a short rest doing its re-summoning ritual, after which it magically returns to their hand, as long as they are both on the same plane of existence.`,
         "img": "https://cdn.britannica.com/91/136491-050-AAACC3A5/Boomerang.jpg",
         "visible": false
-    }  ,
+    },
     {
         "title": "Cupholder",
         "cost": 50,
@@ -430,7 +430,7 @@ data = [
         "description": `This cupholder can conviently store one tasty beverage of your choice at your waist. As a bonus action, you can drink any potion stored in it and gain the full effects as if using an action. `,
         "img": "https://m.media-amazon.com/images/I/71RDsYJiJTL.jpg",
         "visible": false
-    }  ,
+    },
     {
         "title": "Siren Hat",
         "cost": 175,
@@ -439,7 +439,7 @@ data = [
         "description": `A hat that can be turned on or off as an action or bonus action. When on, it acts like an ambulance siren with bright, flashing lights and a loud, blaring sound. Each time the hat is activated, roll a d100. On a 1, the hat unintentionally summons 2d8 hostile <a href='https://www.5esrd.com/database/creature/siren/'>Sirens</a> to an unoccupied space next to you.`,
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStAl9jjyJaBYNdGoy7AZlFG59cCDfMZwx51g&s",
         "visible": false
-    }  ,
+    },
     {
         "title": "Spiked Lemonade",
         "cost": 25,
@@ -448,7 +448,117 @@ data = [
         "description": `This energy-infused lemonade can be used to keep you going. when drinking it, you must make a <b>DC 8 Constitution</b> saving throw. On a success, you remove one level of exhaustion. On a failure, you collapse, dropping to 0 health and remaining unconscious for 1d8 + 1 hours.`,
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5U0iQs9eLHeMK7W9nHQZU_y6t3ov4iyC9Bg&s",
         "visible": false
-    }  ,
+    },
+    {
+        "title": "Buffet Voucher",
+        "cost": 50,
+        "quantity": 1,
+        "overview": `Refill voucher at Inamaris Restaurants`,
+        "description": `Provides unlimited refills of any item upon purchase.
+        <br><br>
+        <p style='font-size: .5rem; font-style: italic'>Valid at participating locations of Inamaris Restaurants, Inc. Not valid with any other offers or discounts. Grimy's&trade; Grimy Loaded Nachos, Dragon's Den&trade; Dragon Stout, and The Spectator's&trade; Ice Cream not included. Voucher valid for one purchase only. Terms and conditions apply.</p>`,
+        "img": "https://portal.gifted.ph/storage/uploads/news/17001166474JKBywXEgbKSjQIF0OZZV34EYvvTiUYHIuHrx9E6.png",
+        "visible": false
+    },
+    {
+        "title": "Sample",
+        "cost": 0,
+        "quantity": 0,
+        "overview": ``,
+        "description": ``,
+        "img": "./images/",
+        "visible": false
+    },
+    {
+        "title": "Sample",
+        "cost": 0,
+        "quantity": 0,
+        "overview": ``,
+        "description": ``,
+        "img": "./images/",
+        "visible": false
+    },
+    {
+        "title": "Sample",
+        "cost": 0,
+        "quantity": 0,
+        "overview": ``,
+        "description": ``,
+        "img": "./images/",
+        "visible": false
+    },
+    {
+        "title": "Sample",
+        "cost": 0,
+        "quantity": 0,
+        "overview": ``,
+        "description": ``,
+        "img": "./images/",
+        "visible": false
+    },
+    {
+        "title": "Sample",
+        "cost": 0,
+        "quantity": 0,
+        "overview": ``,
+        "description": ``,
+        "img": "./images/",
+        "visible": false
+    },
+    {
+        "title": "Sample",
+        "cost": 0,
+        "quantity": 0,
+        "overview": ``,
+        "description": ``,
+        "img": "./images/",
+        "visible": false
+    },
+    {
+        "title": "Sample",
+        "cost": 0,
+        "quantity": 0,
+        "overview": ``,
+        "description": ``,
+        "img": "./images/",
+        "visible": false
+    },
+    {
+        "title": "Sample",
+        "cost": 0,
+        "quantity": 0,
+        "overview": ``,
+        "description": ``,
+        "img": "./images/",
+        "visible": false
+    },
+    {
+        "title": "Sample",
+        "cost": 0,
+        "quantity": 0,
+        "overview": ``,
+        "description": ``,
+        "img": "./images/",
+        "visible": false
+    },
+    {
+        "title": "Sample",
+        "cost": 0,
+        "quantity": 0,
+        "overview": ``,
+        "description": ``,
+        "img": "./images/",
+        "visible": false
+    },
+    {
+        "title": "Sample",
+        "cost": 0,
+        "quantity": 0,
+        "overview": ``,
+        "description": ``,
+        "img": "./images/",
+        "visible": false
+    },
     {
         "title": "Sample",
         "cost": 0,
