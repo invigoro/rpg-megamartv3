@@ -443,7 +443,7 @@ data = [
     {
         "title": "Spiked Lemonade",
         "cost": 25,
-        "quantity": 5,
+        "quantity": 11,
         "overview": `Is it worth the risk?`,
         "description": `This energy-infused lemonade can be used to keep you going. when drinking it, you must make a <b>DC 8 Constitution</b> saving throw. On a success, you remove one level of exhaustion. On a failure, you collapse, dropping to 0 health and remaining unconscious for 1d8 + 1 hours.`,
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5U0iQs9eLHeMK7W9nHQZU_y6t3ov4iyC9Bg&s",
