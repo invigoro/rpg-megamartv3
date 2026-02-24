@@ -47,11 +47,11 @@ data = [
     {
         "title": "Spectacles of Truthsight",
         "cost": 200,
-        "quantity": 0,
+        "quantity": 1,
         "overview": "The easiest way to see through the bullshit.",
         "description": "When wearing these dichromatic spectacles, you can visually separate the truth or falsehood of anyone's speech by color. Truth appears to you as green; lies appear to you as red, and partial truths appear somewhere in between. They can be used for up to 10 minutes; afterwards, roll 1d6. On a 1, the glasses fracture beyond repair.",
         "img": "./images/spectaclesrg.gif",
-        "visible": false
+        "visible": true
     },
     {
         "title": "Hammer of Surmise Sturdiness",
@@ -83,7 +83,7 @@ data = [
     {
         "title": "Bocce Ball Set",
         "cost": 125,
-        "quantity": 1,
+        "quantity": 0,
         "overview": "For the Italian in all of us",
         "description": "A bag containing 4 sets of 2 heavy balls of varying colors. To activate, throw the first ball of a set to a desired location. From there, two effects will be available to the thrower.</p><p><br></p><p>1. The exact distance between the 2 balls is known to the thrower.</p><p>2. The holder of the second ball has the option to teleport to the thrown ball. However, teleporting from one ball to the other expends that set of bocce balls.",
         "img": "./images/bocceballs.jpg",
@@ -114,7 +114,7 @@ data = [
         "overview": "Become a spider-man",
         "description": "<i>Requires Attunement</i><br>Once per day, the bracelet bestows <i><a href='https://dnd5e.wikidot.com/spell:spider-climb'>Spider Climb</a></i> on the wearer for ten minutes. Additionally, the wearer's movement while climbing is completely silent and gives them advantage on stealth checks while the effect is active.",
         "img": "./images/tarantulabracelet.jpg",
-        "visible": true
+        "visible": false
     },
     {
         "title": "Grammarian's Ring",
@@ -132,7 +132,7 @@ data = [
         "overview": "",
         "description": "<i>Requires Attunement</i><br>Once per day, the wearer of this ring can cast <i><a href='https://dnd5e.wikidot.com/spell:misty-step'>Misty Step</a></i>.",
         "img": "./images/silver-ring.avif",
-        "visible": false
+        "visible": true
     },
     {
         "title": "Ring of Movement",
@@ -168,7 +168,7 @@ data = [
         "overview": "",
         "description": "When pointed at a creature of similar size (no more than one size category smaller or larger than you) within 120 ft., the holder will switch places with that target, if the target is willing. If the target is unwilling, it must succeed a DC 13 Constitution save to resist. One charge per long rest.",
         "img": "https://5e.tools/img/items/DMG/Wand%20of%20Polymorph.webp",
-        "visible": true
+        "visible": false
     },
     {
         "title": "Gauntlets of Healing",
@@ -186,21 +186,21 @@ data = [
         "overview": "Do not steal.",
         "description": "Drinking a bottle from this 4-pack gives you the ability to float around. For the next 1 minute, you have a flying speed of 10 ft.",
         "img": "https://wicked-good.co/cdn/shop/products/FizzyLiftingDrink-WillyWonkaScent.png?v=1759356407&width=1080",
-        "visible": true
+        "visible": false
     },
     {
         "title": "Anti-Gravity Sphere",
-        "cost": 500,
+        "cost": 150,
         "quantity": 1,
         "overview": "A fist-sized ball of glass.",
-        "description": "This small orb is filled with silvery smoke. When the orb is destroyed, it disables the effect of gravity for everything within a 30 ft. radius.",
+        "description": "This small orb is filled with silvery smoke. When the orb is destroyed, it disables the effect of gravity for everything within a 30 ft. radius for 1 minute.",
         "img": "https://www.shutterstock.com/shutterstock/videos/1070332816/thumb/1.jpg?ip=x480",
-        "visible": false
+        "visible": true
     }, 
     {
         "title": "All-or-Nothing Coin",
         "cost": 100,
-        "quantity": 1,
+        "quantity": 0,
         "overview": "Risk it for the biscuit",
         "description": "Once per long rest, instead of rolling a d20 on an attack roll or skill check, you can flip a coin. A heads is a critical hit; a tails is a critical fail.",
         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/ATTICA%2C_Athens._Circa_545-525-15_BC.jpg/250px-ATTICA%2C_Athens._Circa_545-525-15_BC.jpg",
@@ -218,7 +218,7 @@ data = [
     {
         "title": "Jester's Hat",
         "cost": 475,
-        "quantity": 1,
+        "quantity": 0,
         "overview": "A silly cap",
         "description": "<i>Requires Attunement</i><br>A bard wearing this hat has one additional use of bardic inspiration. Additionally, when giving bardic inspiration to an ally, as soon as that ally expends that inspiration, both the ally and the wearer are healed for 1d4 health.",
         "img": "https://images.halloweencostumes.com/products/69125/2-1-161454/court-jester-multicolor-soft-hat-alt-1-update.jpg",
@@ -231,12 +231,12 @@ data = [
         "overview": "Green-and-blue speckled minty sticks",
         "description": "A five-pack of chewing gum. Upon chewing one of these sticks, you're able to perfectly emulate another person's voice for up to an hour.",
         "img": "https://www.longmontcompletedentistry.com/blog/wp-content/uploads/2023/04/AdobeStock_43878704__1680914959_50471.jpg",
-        "visible": true
+        "visible": false
     },
     {
         "title": "Spellkeeper Cards",
         "cost": 275,
-        "quantity": 1,
+        "quantity": 0,
         "overview": "A strange deck with no face cards",
         "description": "This deck of cards has a magical enchantment that permits you to sometimes restore a spell slot. Once per day, as an action you may draw a card from this deck. Choose the level of spell slot you'd like to restore, then roll a d10 to determine the value of the card. If the spell slot's level is lower than the card value, the slot is restored.",
         "img": "https://rareplayingcards.com/cdn/shop/products/ultimatedeck_a2071195-b8d5-4cf0-b11c-21643d0ae368.jpg?v=1675864853",
@@ -245,9 +245,9 @@ data = [
     {
         "title": "Vibe Check Glasses",
         "cost": 250,
-        "quantity": 1,
+        "quantity": 0,
         "overview": "Lets you read the room",
-        "description": `<i>Requires attunement</i><br>These tinted glasses allow you insight into the current vibes. As an action, you can use them to ask the DM one of the following, to which they will respond with a one-word answer (good, bad, strange, etc.): 
+        "description": `<i>Requires Attunement</i><br>These tinted glasses allow you insight into the current vibes. As an action, you can use them to ask the DM one of the following, to which they will respond with a one-word answer (good, bad, strange, etc.): 
         <ul>
         <li>What the current vibe in the room is</li>
         <li>What the vibe is from a particular person present</li>
@@ -265,7 +265,7 @@ data = [
         "overview": `You should always wear protection`,
         "description": `This thin, paper-light armor can be worn underneath any other standard set of armor. When you are hit for damage that would drop you to zero health, the armor absorbs the hit instead, nullifying the damage dealt. However, this cracks the armor, making it ineffective and unrepairable.`,
         "img": "https://dl2.myminifactory.com/object-assets/644ff9f46b1e86.87395864/images/720X720-screenshot-1421.jpg",
-        "visible": true
+        "visible": false
     },
     {
         "title": "Sport Mode Crocs",
@@ -279,11 +279,11 @@ data = [
     {
         "title": "Assassin's Cloak",
         "cost": 600,
-        "quantity": 1,
+        "quantity": 0,
         "overview": ``,
-        "description": `<i>Requires attunement</i><br>Once per short rest, when you kill a creature, you can choose to cast <a href='https://roll20.net/compendium/dnd5e/Invisibility#content'>Invisibility</a> on yourself.`,
+        "description": `<i>Requires Attunement</i><br>Once per short rest, when you kill a creature, you can choose to cast <a href='https://roll20.net/compendium/dnd5e/Invisibility#content'>Invisibility</a> on yourself.`,
         "img": "https://m.media-amazon.com/images/I/31ytxnhsZeL._AC_UY1000_.jpg",
-        "visible": false
+        "visible": true
     },
     {
         "title": "Reverse Bear Trap",
@@ -291,7 +291,173 @@ data = [
         "quantity": 3,
         "overview": `Beware`,
         "description": `A simple tripwire trap that, once activated, spawns a wild bear.`,
-        "img": "https://static.wikia.nocookie.net/base-raiders/images/f/f5/90.png/revision/latest?cb=20190615111049",
+        "img": "https://static.wikia.nocookie.net/base-raiders/images/f/f5/90.png",
+        "visible": true
+    },
+    {
+        "title": "Huntsman's Bow",
+        "cost": 150,
+        "quantity": 0,
+        "overview": ``,
+        "description": `This bow functions as a longbow, and counts as a magical weapon. Once per short rest, on a successful ranged attack, you may cast <a href='https://dnd5e.wikidot.com/spell:hunters-mark'>Hunter's Mark</a> on the target of the attack.`,
+        "img": "https://wiki.guildwars.com/images/5/54/Half_Moon.jpg",
+        "visible": true
+    },
+    {
+        "title": "Slippery Slippers",
+        "cost": 175,
+        "quantity": 1,
+        "overview": ``,
+        "description": `While wearing these silly slippers, you are immune to the effects of the <a href='https://dnd5e.wikidot.com/spell:grease'>Grease</a> spell. Additionally, once per day you can cast <i>Grease</i> centered on yourself.`,
+        "img": "https://m.media-amazon.com/images/I/51nsmaD0k+L._AC_UY1000_.jpg",
+        "visible": true
+    },
+    {
+        "title": "Communal Bag",
+        "cost": 300,
+        "quantity": 1,
+        "overview": `A strange bag to share your items`,
+        "description": `<i>Requires Attunement</i><br>
+        A modified bag of holding, which can be worn on your hip. This bag can store up to three items, each weighing less than 20 pounds. 
+        As a bonus action, anyone attuned to the bag within 500 feet can summon one of the items to appear in their hands.
+        Only 3 people can be attuned to this bag at a time.`,
+        "img": "https://m.media-amazon.com/images/I/71A--DHlcBL._AC_UY1000_.jpg",
+        "visible": true
+    },
+    {
+        "title": "Messenger Arrow",
+        "cost": 20,
+        "quantity": 11,
+        "overview": `A magically enchanted arrow`,
+        "description": `When fired from a bow, the arrow seeks the creature whose name, description, and location are written on a message attached to the arrow,
+         so long as there is an unobstructed path to the target. The arrow flies for 150 miles and delivers its 25 word message within the hour. It deals no damage.`,
+        "img": "https://i.pinimg.com/474x/16/6b/b2/166bb2eda1d35f2d1002b8fefefaa73b.jpg",
+        "visible": true
+    },
+    {
+        "title": "Imperfect Teleportation Amulet",
+        "cost": 250,
+        "quantity": 1,
+        "overview": `Usually teleports you where you want to go`,
+        "description": `<i>Requires Attunement</i><br>
+        This amulet allows the wearer to cast <i><a href='https://dnd5e.wikidot.com/spell:misty-step'>Misty Step</a></i> at will as a bonus action. 
+        However, when casting it, roll a d6. On a 1, the spell instead teleports the wearer to the least desireable location within range (surrounded by enemies, in a hazardous zone, in some restricted area, etc.).`,
+        "img": "https://static.wikia.nocookie.net/feral/images/3/33/Magic_amulet.png/",
+        "visible": true
+    },
+    {
+        "title": "Serious String",
+        "cost": 100,
+        "quantity": 3,
+        "overview": `The sequel to Silly String`,
+        "description": `This single-use can of serious string can do some serious damage. As an attack (proficiency with any crossbow applies), you can spray a target within 30 ft. with this string, stunning the target for one turn and dealing 4d6 force damage.`,
+        "img": "https://i.ebayimg.com/images/g/UuoAAOSwLAVgagbA/s-l1200.jpg",
+        "visible": true
+    },
+    {
+        "title": "Snake-or-Sword",
+        "cost": 100,
+        "quantity": 1,
+        "overview": `Which will it be?`,
+        "description": `This sword's power comes from an enchantment on the sheath. When drawing the sword, flip a coin. On a heads, the sword becomes a +3 version of the its sword type (see below options) that also deals an additional 1d8 fire damage. On a tails, the sword becomes a hostile snake, biting you (or any other character within reach) on its turn, which is immediately after your turn (+4 to hit, 1d6 piercing + 1d6 poison damage).
+        <br>However, the enchantment only lasts for a minute, after which it reverts to a normal sword until it is returned to its sheath and redrawn. When it is in the snake form, a DC 20 animal handling check is required to force the animal back into the sheath.
+        <br><br>This sword comes in five varieties: longsword, shortsword, rapier, greatsword, scimitar.`,
+        "img": "https://m.media-amazon.com/images/I/51vc+SMNdlL.jpg",
+        "visible": false
+    },
+    {
+        "title": "Elemental Ukulele",
+        "cost": 450,
+        "quantity": 0,
+        "overview": ``,
+        "description": `<i>Requires attunement</i><br>
+        This ukulele can be used to cast various elemental cantrips. As an action, you can play a little ditty on this instrument, making a <b>DC 13 Performance</b> check to determine its effectiveness. On a success, you can cast the cantrip the ukulele is currently tuned to.
+        <br>The ukulele can be tuned to a single elemental cantrip at a time, choosing from the list below. On a short rest, the owner of this instrument can tune it to change the cantrip.
+        <br>Available cantrips: <ul>
+        <li><i><a href='https://dnd5e.wikidot.com/spell:fire-bolt'>Firebolt</a></i></li>
+        <li><i><a href='https://dnd5e.wikidot.com/spell:ray-of-frost'>Ray of Frost</a></i></li>
+        <li><i><a href='https://dnd5e.wikidot.com/spell:thunderclap'>Thunderclap</a></i></li>
+        <li><i><a href='https://dnd5e.wikidot.com/spell:acid-splash'>Acid Splash</a></i></li>
+        <li><i><a href='https://dnd5e.wikidot.com/spell:lightning-lure'>Lightning Lure</a></i></li>
+        <li><i><a href='https://dnd5e.wikidot.com/spell:poison-spray'>Poison Spray</a></i></li>`,
+        "img": "https://static.wikia.nocookie.net/forgottenrealms/images/f/f2/Doss_lute-5e.jpg/",
+        "visible": true
+    },
+    {
+        "title": "Returning Pike",
+        "cost": 600,
+        "quantity": 0,
+        "overview": `Keep that mfing thang on you`,
+        "description": `<i>Requires attunement</i><br>
+        This pike functions as a +1 pike. However, when attuned, the owner of this pike can use a bonus action to summon it to their hand, as long as they and the pike are on the same plane of existence. <br><br>Additionally, this weapon has the <a href='https://roll20.net/compendium/dnd5e/Weapons#content'><i>thrown</i></a> property.`,
+        "img": "https://static.wikia.nocookie.net/forgottenrealms/images/4/4f/Returning_Pike.png",
+        "visible": true
+    },
+    {
+        "title": "Snake Arrow",
+        "cost": 30,
+        "quantity": 4,
+        "overview": ``,
+        "description": `These strange arrows function as normal arrows when shot from a bow, except that upon impact, they immediately transform into snakes. If the target that they hit is a creature, they immediately latch onto that creature, dealing 1d4 poison damage every turn until removed, which can be done with a successful <b>DC 12 Animal Handling</b> check.`,
+        "img": "https://static.wikia.nocookie.net/conanexiles_gamepedia/images/5/53/Icon_snake_arrow.png/",
+        "visible": true
+    },
+    {
+        "title": "Gloving Gloves",
+        "cost": 150,
+        "quantity": 1,
+        "overview": ``,
+        "description": `These showman's gloves can be used to supplement your magic. 
+        When casting a spell that requires a verbal component, you can use these gloves to do some performative tricks with your fingers by making a <b>DC 12 Performance (DEX)</b> check. On a success, this casting of your spell does not require a verbal component.`,
+        "img": "https://the-rave-cave.com/cdn/shop/products/10lightpremierassortedgloves.png?v=1585653784",
+        "visible": false
+    },
+    {
+        "title": "Non-stop Boomerang",
+        "cost": 150,
+        "quantity": 1,
+        "overview": `A boomerang that doesn't come back`,
+        "description": `When this boomerang is thrown as an action, it just continues in the direction it's thrown, never returning. It stops when it hits any solid object. 
+        <br><br>The owner of this boomerang can spend a short rest doing its re-summoning ritual, after which it magically returns to their hand, as long as they are both on the same plane of existence.`,
+        "img": "https://cdn.britannica.com/91/136491-050-AAACC3A5/Boomerang.jpg",
+        "visible": false
+    },
+    {
+        "title": "Cupholder",
+        "cost": 50,
+        "quantity": 2,
+        "overview": `Keeps your drinks handy`,
+        "description": `This cupholder can conviently store one tasty beverage of your choice at your waist. As a bonus action, you can drink any potion stored in it and gain the full effects as if using an action. `,
+        "img": "https://m.media-amazon.com/images/I/71RDsYJiJTL.jpg",
+        "visible": false
+    },
+    {
+        "title": "Siren Hat",
+        "cost": 175,
+        "quantity": 1,
+        "overview": ``,
+        "description": `A hat that can be turned on or off as an action or bonus action. When on, it acts like an ambulance siren with bright, flashing lights and a loud, blaring sound. Each time the hat is activated, roll a d100. On a 1, the hat unintentionally summons 2d8 hostile <a href='https://www.5esrd.com/database/creature/siren/'>Sirens</a> to an unoccupied space next to you.`,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStAl9jjyJaBYNdGoy7AZlFG59cCDfMZwx51g&s",
+        "visible": false
+    },
+    {
+        "title": "Spiked Lemonade",
+        "cost": 25,
+        "quantity": 11,
+        "overview": `Is it worth the risk?`,
+        "description": `This energy-infused lemonade can be used to keep you going. when drinking it, you must make a <b>DC 8 Constitution</b> saving throw. On a success, you remove one level of exhaustion. On a failure, you collapse, dropping to 0 health and remaining unconscious for 1d8 + 1 hours.`,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5U0iQs9eLHeMK7W9nHQZU_y6t3ov4iyC9Bg&s",
+        "visible": false
+    },
+    {
+        "title": "Buffet Voucher",
+        "cost": 50,
+        "quantity": 1,
+        "overview": `Refill voucher at Inamaris Restaurants`,
+        "description": `Provides unlimited refills of any item upon purchase.
+        <br><br>
+        <p style='font-size: .5rem; font-style: italic'>Valid at participating locations of Inamaris Restaurants, Inc. Not valid with any other offers or discounts. Grimy's&trade; Grimy Loaded Nachos, Dragon's Den&trade; Dragon Stout, and The Spectator's&trade; Ice Cream not included. Voucher valid for one purchase only. Terms and conditions apply.</p>`,
+        "img": "https://portal.gifted.ph/storage/uploads/news/17001166474JKBywXEgbKSjQIF0OZZV34EYvvTiUYHIuHrx9E6.png",
         "visible": false
     },
     {
@@ -302,5 +468,104 @@ data = [
         "description": ``,
         "img": "./images/",
         "visible": false
-    }            
+    },
+    {
+        "title": "Sample",
+        "cost": 0,
+        "quantity": 0,
+        "overview": ``,
+        "description": ``,
+        "img": "./images/",
+        "visible": false
+    },
+    {
+        "title": "Sample",
+        "cost": 0,
+        "quantity": 0,
+        "overview": ``,
+        "description": ``,
+        "img": "./images/",
+        "visible": false
+    },
+    {
+        "title": "Sample",
+        "cost": 0,
+        "quantity": 0,
+        "overview": ``,
+        "description": ``,
+        "img": "./images/",
+        "visible": false
+    },
+    {
+        "title": "Sample",
+        "cost": 0,
+        "quantity": 0,
+        "overview": ``,
+        "description": ``,
+        "img": "./images/",
+        "visible": false
+    },
+    {
+        "title": "Sample",
+        "cost": 0,
+        "quantity": 0,
+        "overview": ``,
+        "description": ``,
+        "img": "./images/",
+        "visible": false
+    },
+    {
+        "title": "Sample",
+        "cost": 0,
+        "quantity": 0,
+        "overview": ``,
+        "description": ``,
+        "img": "./images/",
+        "visible": false
+    },
+    {
+        "title": "Sample",
+        "cost": 0,
+        "quantity": 0,
+        "overview": ``,
+        "description": ``,
+        "img": "./images/",
+        "visible": false
+    },
+    {
+        "title": "Sample",
+        "cost": 0,
+        "quantity": 0,
+        "overview": ``,
+        "description": ``,
+        "img": "./images/",
+        "visible": false
+    },
+    {
+        "title": "Sample",
+        "cost": 0,
+        "quantity": 0,
+        "overview": ``,
+        "description": ``,
+        "img": "./images/",
+        "visible": false
+    },
+    {
+        "title": "Sample",
+        "cost": 0,
+        "quantity": 0,
+        "overview": ``,
+        "description": ``,
+        "img": "./images/",
+        "visible": false
+    },
+    {
+        "title": "Sample",
+        "cost": 0,
+        "quantity": 0,
+        "overview": ``,
+        "description": ``,
+        "img": "./images/",
+        "visible": false
+    }              
 ]
