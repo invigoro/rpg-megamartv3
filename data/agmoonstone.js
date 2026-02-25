@@ -1,12 +1,12 @@
 data = [
     {
         "title": "Eldritch Spinner",
-        "cost": 200,
-        "quantity": 0,
+        "cost": 275,
+        "quantity": 1,
         "overview": "An arcane artifact to keep you focused.",
         "description": "When you spin the Eldritch Spinner as a bonus action, you can continue to concentrate on a spell for an additional turn when your concentration would have otherwise ended. It can be used a number of times equal to your spellcasting ability modifier, with its uses restoring during a long rest.</p><p>The Eldritch Spinner also serves as an arcane focus.<br>",
         "img": "./images/spinner.jpg",
-        "visible": false
+        "visible": true
     },
     {
         "title": "Parental Lock",
@@ -51,7 +51,7 @@ data = [
         "overview": "The easiest way to see through the bullshit.",
         "description": "When wearing these dichromatic spectacles, you can visually separate the truth or falsehood of anyone's speech by color. Truth appears to you as green; lies appear to you as red, and partial truths appear somewhere in between. They can be used for up to 10 minutes; afterwards, roll 1d6. On a 1, the glasses fracture beyond repair.",
         "img": "./images/spectaclesrg.gif",
-        "visible": true
+        "visible": false
     },
     {
         "title": "Hammer of Surmise Sturdiness",
@@ -132,7 +132,7 @@ data = [
         "overview": "",
         "description": "<i>Requires Attunement</i><br>Once per day, the wearer of this ring can cast <i><a href='https://dnd5e.wikidot.com/spell:misty-step'>Misty Step</a></i>.",
         "img": "./images/silver-ring.avif",
-        "visible": true
+        "visible": false
     },
     {
         "title": "Ring of Movement",
@@ -195,7 +195,7 @@ data = [
         "overview": "A fist-sized ball of glass.",
         "description": "This small orb is filled with silvery smoke. When the orb is destroyed, it disables the effect of gravity for everything within a 30 ft. radius for 1 minute.",
         "img": "https://www.shutterstock.com/shutterstock/videos/1070332816/thumb/1.jpg?ip=x480",
-        "visible": true
+        "visible": false
     }, 
     {
         "title": "All-or-Nothing Coin",
@@ -322,7 +322,7 @@ data = [
         As a bonus action, anyone attuned to the bag within 500 feet can summon one of the items to appear in their hands.
         Only 3 people can be attuned to this bag at a time.`,
         "img": "https://m.media-amazon.com/images/I/71A--DHlcBL._AC_UY1000_.jpg",
-        "visible": true
+        "visible": false
     },
     {
         "title": "Messenger Arrow",
@@ -410,7 +410,7 @@ data = [
         "description": `These showman's gloves can be used to supplement your magic. 
         When casting a spell that requires a verbal component, you can use these gloves to do some performative tricks with your fingers by making a <b>DC 12 Performance (DEX)</b> check. On a success, this casting of your spell does not require a verbal component.`,
         "img": "https://the-rave-cave.com/cdn/shop/products/10lightpremierassortedgloves.png?v=1585653784",
-        "visible": false
+        "visible": true
     },
     {
         "title": "Non-stop Boomerang",
@@ -427,9 +427,9 @@ data = [
         "cost": 50,
         "quantity": 2,
         "overview": `Keeps your drinks handy`,
-        "description": `This cupholder can conviently store one tasty beverage of your choice at your waist. As a bonus action, you can drink any potion stored in it and gain the full effects as if using an action. `,
+        "description": `This cupholder can conviently store one tasty beverage of your choice at your waist. As a bonus action, you can drink any potion stored in it and gain its full effects as if using an action. `,
         "img": "https://m.media-amazon.com/images/I/71RDsYJiJTL.jpg",
-        "visible": false
+        "visible": true
     },
     {
         "title": "Siren Hat",
@@ -438,7 +438,7 @@ data = [
         "overview": ``,
         "description": `A hat that can be turned on or off as an action or bonus action. When on, it acts like an ambulance siren with bright, flashing lights and a loud, blaring sound. Each time the hat is activated, roll a d100. On a 1, the hat unintentionally summons 2d8 hostile <a href='https://www.5esrd.com/database/creature/siren/'>Sirens</a> to an unoccupied space next to you.`,
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStAl9jjyJaBYNdGoy7AZlFG59cCDfMZwx51g&s",
-        "visible": false
+        "visible": true
     },
     {
         "title": "Spiked Lemonade",
@@ -447,7 +447,7 @@ data = [
         "overview": `Is it worth the risk?`,
         "description": `This energy-infused lemonade can be used to keep you going. when drinking it, you must make a <b>DC 8 Constitution</b> saving throw. On a success, you remove one level of exhaustion. On a failure, you collapse, dropping to 0 health and remaining unconscious for 1d8 + 1 hours.`,
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5U0iQs9eLHeMK7W9nHQZU_y6t3ov4iyC9Bg&s",
-        "visible": false
+        "visible": true
     },
     {
         "title": "Buffet Voucher",
