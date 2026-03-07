@@ -414,7 +414,7 @@ data = [
     },
     {
         "title": "Non-stop Boomerang",
-        "cost": 150,
+        "cost": 125,
         "quantity": 1,
         "overview": `A boomerang that doesn't come back`,
         "description": `When this boomerang is thrown as an action, it just continues in the direction it's thrown, never returning. It stops when it hits any solid object. 
