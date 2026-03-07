@@ -288,7 +288,7 @@ data = [
     {
         "title": "Reverse Bear Trap",
         "cost": 225,
-        "quantity": 3,
+        "quantity": 2,
         "overview": `Beware`,
         "description": `A simple tripwire trap that, once activated, spawns a wild bear.`,
         "img": "https://static.wikia.nocookie.net/base-raiders/images/f/f5/90.png",
@@ -352,18 +352,18 @@ data = [
         "overview": `The sequel to Silly String`,
         "description": `This single-use can of serious string can do some serious damage. As an attack (proficiency with any crossbow applies), you can spray a target within 30 ft. with this string, stunning the target for one turn and dealing 4d6 force damage.`,
         "img": "https://i.ebayimg.com/images/g/UuoAAOSwLAVgagbA/s-l1200.jpg",
-        "visible": true
+        "visible": false
     },
     {
         "title": "Snake-or-Sword",
         "cost": 100,
         "quantity": 1,
         "overview": `Which will it be?`,
-        "description": `This sword's power comes from an enchantment on the sheath. When drawing the sword, flip a coin. On a heads, the sword becomes a +3 version of the its sword type (see below options) that also deals an additional 1d8 fire damage. On a tails, the sword becomes a hostile snake, biting you (or any other character within reach) on its turn, which is immediately after your turn (+4 to hit, 1d6 piercing + 1d6 poison damage).
+        "description": `This sword's power comes from an enchantment on the sheath. When drawing the sword, flip a coin. On a heads, the sword becomes a +3 version of its sword type (see below options) that also deals an additional 1d8 fire damage. On a tails, the sword becomes a hostile snake, biting you (or any other character within reach) on its turn, which is immediately after your turn (+4 to hit, 1d6 piercing + 1d6 poison damage).
         <br>However, the enchantment only lasts for a minute, after which it reverts to a normal sword until it is returned to its sheath and redrawn. When it is in the snake form, a DC 20 animal handling check is required to force the animal back into the sheath.
         <br><br>This sword comes in five varieties: longsword, shortsword, rapier, greatsword, scimitar.`,
         "img": "https://m.media-amazon.com/images/I/51vc+SMNdlL.jpg",
-        "visible": false
+        "visible": true
     },
     {
         "title": "Elemental Ukulele",
@@ -420,12 +420,12 @@ data = [
         "description": `When this boomerang is thrown as an action, it just continues in the direction it's thrown, never returning. It stops when it hits any solid object. 
         <br><br>The owner of this boomerang can spend a short rest doing its re-summoning ritual, after which it magically returns to their hand, as long as they are both on the same plane of existence.`,
         "img": "https://cdn.britannica.com/91/136491-050-AAACC3A5/Boomerang.jpg",
-        "visible": false
+        "visible": true
     },
     {
         "title": "Cupholder",
         "cost": 50,
-        "quantity": 2,
+        "quantity": 0,
         "overview": `Keeps your drinks handy`,
         "description": `This cupholder can conviently store one tasty beverage of your choice at your waist. As a bonus action, you can drink any potion stored in it and gain its full effects as if using an action. `,
         "img": "https://m.media-amazon.com/images/I/71RDsYJiJTL.jpg",
@@ -458,7 +458,7 @@ data = [
         <br><br>
         <p style='font-size: .5rem; font-style: italic'>Valid at participating locations of Inamaris Restaurants, Inc. Not valid with any other offers or discounts. Grimy's&trade; Grimy Loaded Nachos, Dragon's Den&trade; Dragon Stout, and The Spectator's&trade; Ice Cream not included. Voucher valid for one purchase only. Terms and conditions apply.</p>`,
         "img": "https://portal.gifted.ph/storage/uploads/news/17001166474JKBywXEgbKSjQIF0OZZV34EYvvTiUYHIuHrx9E6.png",
-        "visible": false
+        "visible": true
     },
     {
         "title": "Sample",
