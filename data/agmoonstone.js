@@ -461,21 +461,28 @@ data = [
         "visible": true
     },
     {
-        "title": "Sample",
-        "cost": 0,
-        "quantity": 0,
-        "overview": ``,
-        "description": ``,
-        "img": "./images/",
+        "title": "PA System",
+        "cost": 150,
+        "quantity": 1,
+        "overview": `A (usually) clear method of communication`,
+        "description": `A system composed of 1 microphone and 3 receivers. To tune into the microphone's signal, a receiver must be installed onto some fixed surface.
+        As an action, a creature can use a microphone to speak a message up to 50 words to any or all of the receivers, which relay the message at the original volume.
+        If the receiver is within 100 feet of the microphone, the message is guaranteed to be played. 
+        However, greater range increases the chance of the message either never being received or being too muddled to be understood. Each additional 100 feet increases this chance by 5%.
+        <br>Each day the system has 1d4+1 uses.`,
+        "img": "https://cdn.shopify.com/s/files/1/1135/1806/t/12/assets/24fda0b69433--paging-sound-system-pgss-s10ma120btptt1-square-edcfc4.jpg",
         "visible": false
     },
     {
-        "title": "Sample",
-        "cost": 0,
-        "quantity": 0,
-        "overview": ``,
-        "description": ``,
-        "img": "./images/",
+        "title": "Pulled Punch Punch",
+        "cost": 30,
+        "quantity": 5,
+        "overview": `Another excellent prank item`,
+        "description": `This drink softens blows, and can easily be mixed into any beverage. 
+        When a creature ingests it, they become unable to hit hard. 
+        All damage dealt by the creature is halved for one hour.
+        Spells and potions that remove or negate negative poisons of effects, such as <i>Lesser Restoration</i>, will remove this effect.`,
+        "img": "https://countryrecipebook.com/wp-content/uploads/2020/08/fruit-punch.jpg",
         "visible": false
     },
     {
