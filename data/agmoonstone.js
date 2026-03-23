@@ -112,9 +112,9 @@ data = [
         "cost": 500,
         "quantity": 1,
         "overview": "Become a spider-man",
-        "description": "<i>Requires Attunement</i><br>Once per day, the bracelet bestows <i><a href='https://dnd5e.wikidot.com/spell:spider-climb'>Spider Climb</a></i> on the wearer for ten minutes. Additionally, the wearer's movement while climbing is completely silent and gives them advantage on stealth checks while the effect is active.",
+        "description": "<br>Once per day, the bracelet bestows <i><a href='https://dnd5e.wikidot.com/spell:spider-climb'>Spider Climb</a></i> on the wearer for ten minutes. Additionally, the wearer's movement while climbing is completely silent and gives them advantage on stealth checks while the effect is active.",
         "img": "./images/tarantulabracelet.jpg",
-        "visible": false
+        "visible": true
     },
     {
         "title": "Grammarian's Ring",
@@ -288,7 +288,7 @@ data = [
     {
         "title": "Reverse Bear Trap",
         "cost": 225,
-        "quantity": 2,
+        "quantity": 0,
         "overview": `Beware`,
         "description": `A simple tripwire trap that, once activated, spawns a wild bear.`,
         "img": "https://static.wikia.nocookie.net/base-raiders/images/f/f5/90.png",
@@ -396,7 +396,7 @@ data = [
     {
         "title": "Snake Arrow",
         "cost": 30,
-        "quantity": 4,
+        "quantity": 0,
         "overview": ``,
         "description": `These strange arrows function as normal arrows when shot from a bow, except that upon impact, they immediately transform into snakes. If the target that they hit is a creature, they immediately latch onto that creature, dealing 1d4 poison damage every turn until removed, which can be done with a successful <b>DC 12 Animal Handling</b> check.`,
         "img": "https://static.wikia.nocookie.net/conanexiles_gamepedia/images/5/53/Icon_snake_arrow.png/",
@@ -405,7 +405,7 @@ data = [
     {
         "title": "Gloving Gloves",
         "cost": 150,
-        "quantity": 1,
+        "quantity": 0,
         "overview": ``,
         "description": `These showman's gloves can be used to supplement your magic. 
         When casting a spell that requires a verbal component, you can use these gloves to do some performative tricks with your fingers by making a <b>DC 12 Performance (DEX)</b> check. On a success, this casting of your spell does not require a verbal component.`,
@@ -443,7 +443,7 @@ data = [
     {
         "title": "Spiked Lemonade",
         "cost": 25,
-        "quantity": 11,
+        "quantity": 9,
         "overview": `Is it worth the risk?`,
         "description": `This energy-infused lemonade can be used to keep you going. when drinking it, you must make a <b>DC 8 Constitution</b> saving throw. On a success, you remove one level of exhaustion. On a failure, you collapse, dropping to 0 health and remaining unconscious for 1d8 + 1 hours.`,
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5U0iQs9eLHeMK7W9nHQZU_y6t3ov4iyC9Bg&s",
@@ -481,18 +481,20 @@ data = [
         "description": `This drink softens blows, and can easily be mixed into any beverage. 
         When a creature ingests it, they become unable to hit hard. 
         All damage dealt by the creature is halved for one hour.
-        Spells and potions that remove or negate negative poisons of effects, such as <i>Lesser Restoration</i>, will remove this effect.`,
+        Spells and potions that remove or negate negative poisons or effects, such as <i><a href='https://roll20.net/compendium/dnd5e/Lesser%20Restoration#content'>Lesser Restoration</a></i>, will remove this effect.`,
         "img": "https://countryrecipebook.com/wp-content/uploads/2020/08/fruit-punch.jpg",
-        "visible": false
+        "visible": true
     },
     {
-        "title": "Sample",
-        "cost": 0,
-        "quantity": 0,
+        "title": "Conch Shell of the Damned",
+        "cost": 400,
+        "quantity": 1,
         "overview": ``,
-        "description": ``,
-        "img": "./images/",
-        "visible": false
+        "description": `Once per day, you can activate this shell by speaking its command word into it. 
+        <br><br>When activated, you can speak a question into it, then hold the conch shell up to the ear of a deceased creature. The creature must have died in the last three days and must be able to understand you.
+        <br><br>If the creature is willing, it will answer your question. It will answer the question honestly and to the best of its ability unless hostile to you or your companions. Each activation allows for three questions.`,
+        "img": "https://m.media-amazon.com/images/I/51vWiuMN9hL._AC_UF894,1000_QL80_.jpg",
+        "visible": true
     },
     {
         "title": "Sample",
