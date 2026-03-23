@@ -196,7 +196,7 @@ data = [
         "description": "This small orb is filled with silvery smoke. When the orb is destroyed, it disables the effect of gravity for everything within a 30 ft. radius for 1 minute.",
         "img": "https://www.shutterstock.com/shutterstock/videos/1070332816/thumb/1.jpg?ip=x480",
         "visible": false
-    }, 
+    },
     {
         "title": "All-or-Nothing Coin",
         "cost": 100,
@@ -497,12 +497,279 @@ data = [
         "visible": true
     },
     {
-        "title": "Sample",
-        "cost": 0,
-        "quantity": 0,
+        "title": "Mystery Powder",
+        "cost": 125,
+        "quantity": 3,
+        "overview": `What will it do?`,
+        "description": `As an action, you can throw the powder from this bag onto yourself or another creature within 5 feet. 
+        Once this is done, the target creature must roll 1d100 and gain an effect from the <a href='https://dnd5e.wikidot.com/sorcerer:wild-magic'>Sorcerer's Wild Magic Surge table</a>. 
+        <br><br>Each bag has enough powder for three uses.`,
+        "img": "https://908devices.com/wp-content/uploads/2024/08/Pink-Powder-1.jpg",
+        "visible": false
+    },
+    {
+        "title": "Plastic Sheriff's Badge",
+        "cost": 250,
+        "quantity": 1,
         "overview": ``,
-        "description": ``,
-        "img": "./images/",
+        "description": `Adds +3 to <b>Deception</b> checks when impersonating a person of authority.`,
+        "img": "https://i5.walmartimages.com/asr/fdde174d-9eb7-421c-aa2a-d70d92699647.afb7d801b2af70cbb023b6f33a60848e.jpeg",
+        "visible": false
+    },
+    {
+        "title": "Invisi-Cream",
+        "cost": 275,
+        "quantity": 1,
+        "overview": ``,
+        "description": `This cream can be applied to a creature to gain invisibility as if casting the <i><a href=''>Greater Invisibility</a></i> spell (no concentration). 
+        Applying takes one minute, and does not affect clothes or items worn by the creature, so the creature must be naked to be fully invisible.
+        <br><br>This bottle has enough cream for a single use.`,
+        "img": "https://p.turbosquid.com/ts-thumb/4c/I7i6dB/qC/0000/jpg/1671469894/1920x1080/turn_fit_q99/7063f5c53c4c987bf275cc8000273ed9899e82e6/0000-1.jpg",
+        "visible": false
+    },
+    {
+        "title": "Hat of Faces",
+        "cost": 225,
+        "quantity": 1,
+        "overview": "Get yourself a new look",
+        "description": `<i>Requires Attunement</i><br>
+
+As an action, you may pull the brim of this hat down to change your facial features, 
+as per <i>Disguise Self</i> (face only).
+
+The illusion lasts for 1 hour or until dismissed.
+
+Once used, this ability cannot be used again until a short rest.`,
+        "img": "https://greatpretenderseu.com/cdn/shop/files/5_5ca1cd92-2c1a-4c47-b18f-fee22d096599.png?v=1748009018&width=1600",
+        "visible": false
+    },
+    {
+        "title": "Compass of Mild Certainty",
+        "cost": 100,
+        "quantity": 1,
+        "overview": "It's... probably that way.",
+        "description": `This compass points roughly toward a location you name, provided it is within 10 miles.
+
+The direction is never perfectly accurate and may be off by up to 30 degrees.
+
+Once per day, you may ask the compass a yes/no question about direction; 
+it answers correctly 75% of the time.`,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/8/8e/2016_Busola.JPG",
+        "visible": false
+    },
+    {
+        "title": "Gloves of Overcommitment",
+        "cost": 180,
+        "quantity": 1,
+        "overview": "All gas, no brakes",
+        "description": `When you hit a creature with a melee attack, you may choose to deal an additional <b>1d8</b> damage.
+
+If you do, you must use your reaction (if available) to make another attack against the same target.
+
+This effect can be used once per turn.`,
+        "img": "./images/overcommit-gloves.jpg",
+        "visible": false
+    },
+    {
+        "title": "Boots of the Backpedaler",
+        "cost": 225,
+        "quantity": 1,
+        "overview": "For tactical retreats",
+        "description": `While wearing these boots, moving backward does not provoke opportunity attacks.
+
+Additionally, once per short rest, when a creature misses you with a melee attack, 
+you may use your reaction to move up to 15 ft. directly away from it without 
+provoking opportunity attacks.`,
+        "img": "https://fashionhistory.fitnyc.edu/wp-content/uploads/2017/10/SC23382-1280x640.jpg",
+        "visible": false
+    },
+    {
+        "title": "Coin of Delayed Consequences",
+        "cost": 100,
+        "quantity": 1,
+        "overview": "That's a problem for later.",
+        "description": `As a reaction when you take damage, you may flip this coin.
+<br><br>
+On heads, you take no damage immediately, but instead take half damage 
+at the end of your next turn.
+<br><br>
+On tails, the damage is doubled and applied immediately.
+<br><br>
+Once used, this coin cannot be used again until a long rest.`,
+        "img": "https://www.wildwinds.com/coins/byz/justinian_I/GB_122cf.jpg",
+        "visible": false
+    },
+    {
+        "title": "Polearm of the Tempest Lineage",
+        "cost": 1200,
+        "quantity": 1,
+        "overview": "A weapon that crackles with draconic storm energy",
+        "description": `<i>Requires Attunement</i><br>
+
+This weapon functions as a <b>+1 pike, halberd, or glaive</b> (chosen on purchase).
+
+Once per turn when you hit a creature, you may deal an additional <b>1d6 lightning damage</b>.
+
+Additionally, when you reduce a creature to 0 HP, lightning arcs to another creature 
+within 15 ft., forcing it to make a <b>DC 14 Dexterity saving throw</b>, taking <b>2d6 lightning damage</b> 
+on a failure, or half on success.
+
+Once per long rest, you may cast <i>Lightning Bolt</i> (DC = 8 + proficiency + STR modifier).`,
+        "img": "https://static.wikia.nocookie.net/forgottenrealms/images/6/6e/Lightning_weapon.jpg",
+        "visible": false
+    },
+    {
+        "title": "Bandolier of Opportunistic Strikes",
+        "cost": 850,
+        "quantity": 1,
+        "overview": "Punish movement. Reward positioning.",
+        "description": `<i>Requires Attunement</i><br>
+
+While wearing this bandolier, your opportunity attacks deal an additional <b>1d6 damage</b>.
+
+If you hit a creature with an opportunity attack, its speed becomes <b>0</b> for the rest of the turn.
+
+Additionally, once per turn when an ally hits a creature within your reach, 
+you may use your reaction to make a melee attack against that creature.`,
+        "img": "https://i.pinimg.com/736x/7c/3c/5b/7c3c5b4e5d6a7f9c6b9c2f45e6c9d2a3.jpg",
+        "visible": false
+    },
+    {
+        "title": "Encore Locket",
+        "cost": 700,
+        "quantity": 1,
+        "overview": "Because once is never enough",
+        "description": `<i>Requires Attunement (Bard)</i><br>
+
+When a creature expends one of your Bardic Inspiration dice, you may use your reaction 
+to allow them to roll it again and take the higher result.
+
+Additionally, once per long rest, when a creature fails a roll using your Bardic Inspiration, 
+you can choose to not expend the die.`,
+        "img": "https://cdn.pixabay.com/photo/2017/01/31/21/23/locket-2029110_1280.png",
+        "visible": false
+    },
+    {
+        "title": "Dagger of the First Mistake",
+        "cost": 650,
+        "quantity": 1,
+        "overview": "Capitalize on weakness",
+        "description": `<i>Requires Attunement</i><br>
+
+This dagger is a <b>+1 weapon</b>.
+
+When you hit a creature that has not yet taken a turn in combat, 
+the attack deals an additional <b>2d6 damage</b>.
+
+Additionally, once per turn, when you attack a creature with advantage, 
+you may reroll one of the dice.`,
+        "img": "https://cdn.pixabay.com/photo/2016/03/31/19/56/dagger-1295996_1280.png",
+        "visible": false
+    },
+    {
+        "title": "Cape of the Spotlight",
+        "cost": 600,
+        "quantity": 1,
+        "overview": "All eyes on you",
+        "description": `<i>Requires Attunement</i><br>
+
+As a bonus action, you may draw attention to yourself for 1 minute.
+
+During this time:
+<ul>
+<li>Creatures have disadvantage on attacks against your allies while within 15 ft. of you</li>
+<li>You have advantage on Charisma (Performance) checks</li>
+<li>When a creature misses you, you gain temporary HP equal to your proficiency bonus</li>
+</ul>
+
+This ability can be used once per long rest.`,
+        "img": "https://cdn.pixabay.com/photo/2016/11/29/09/32/cape-1867412_1280.jpg",
+        "visible": false
+    },
+    {
+        "title": "Boots of Sudden Flanking",
+        "cost": 750,
+        "quantity": 1,
+        "overview": "Right place, right time",
+        "description": `<i>Requires Attunement</i><br>
+
+As a bonus action, you may teleport up to 15 ft. to an unoccupied space 
+adjacent to a creature that is within 5 ft. of one of your allies.
+
+After teleporting this way, your next attack before the end of the turn 
+has advantage.
+
+This ability can be used a number of times equal to your proficiency bonus per long rest.`,
+        "img": "https://cdn.pixabay.com/photo/2014/04/03/10/32/boots-310587_1280.png",
+        "visible": false
+    },
+    {
+        "title": "Gloves of the Chain Reaction",
+        "cost": 900,
+        "quantity": 1,
+        "overview": "One hit leads to another",
+        "description": `<i>Requires Attunement</i><br>
+
+Once per turn, when you deal damage to a creature, you may deal 
+<b>1d6 force damage</b> to a different creature within 10 ft. of it.
+
+If that second creature is also hit by an ally before the start of your next turn, 
+it takes an additional <b>1d6 damage</b>.
+
+Encourages coordinated attacks.`,
+        "img": "https://cdn.pixabay.com/photo/2017/01/31/13/14/gloves-2022736_1280.png",
+        "visible": false
+    },
+    {
+        "title": "Amulet of Shared Momentum",
+        "cost": 800,
+        "quantity": 1,
+        "overview": "Keep the combo going",
+        "description": `<i>Requires Attunement</i><br>
+
+When you hit a creature, you may grant an ally within 30 ft. 
++10 ft. movement and advantage on their next attack before the end of their turn.
+
+If that attack hits, you gain advantage on your next attack.
+
+This effect can occur once per turn.`,
+        "img": "https://cdn.pixabay.com/photo/2016/11/29/03/53/necklace-1868714_1280.png",
+        "visible": false
+    },
+    {
+        "title": "Ring of Tactical Hesitation",
+        "cost": 650,
+        "quantity": 1,
+        "overview": "Second thoughts save lives",
+        "description": `<i>Requires Attunement</i><br>
+
+When a creature you can see makes an attack roll, you may use your reaction 
+to impose disadvantage.
+
+If the attack still hits, you gain resistance to that damage.
+
+This ability can be used twice per long rest.`,
+        "img": "https://cdn.pixabay.com/photo/2014/04/03/10/32/ring-310580_1280.png",
+        "visible": false
+    },
+    {
+        "title": "Drum of Relentless Tempo",
+        "cost": 950,
+        "quantity": 1,
+        "overview": "Control the rhythm of battle",
+        "description": `<i>Requires Attunement</i><br>
+
+As an action, you may begin a rhythmic beat lasting 1 minute (concentration).
+
+While active:
+<ul>
+<li>Allies within 30 ft. gain +10 ft. movement</li>
+<li>Once per turn, an ally may add <b>1d4</b> to an attack roll</li>
+<li>If you are incapacitated, the effect ends</li>
+</ul>
+
+Once used, this ability cannot be used again until a long rest.`,
+        "img": "https://cdn.pixabay.com/photo/2017/01/31/21/23/drum-2029112_1280.png",
         "visible": false
     },
     {
@@ -558,23 +825,5 @@ data = [
         "description": ``,
         "img": "./images/",
         "visible": false
-    },
-    {
-        "title": "Sample",
-        "cost": 0,
-        "quantity": 0,
-        "overview": ``,
-        "description": ``,
-        "img": "./images/",
-        "visible": false
-    },
-    {
-        "title": "Sample",
-        "cost": 0,
-        "quantity": 0,
-        "overview": ``,
-        "description": ``,
-        "img": "./images/",
-        "visible": false
-    }              
+    }
 ]
