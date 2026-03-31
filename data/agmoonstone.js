@@ -486,7 +486,7 @@ data = [
         "visible": true
     },
     {
-        "title": "Conch Shell of the Damned",
+        "title": "Conch Shell of the Recently Deceased",
         "cost": 400,
         "quantity": 1,
         "overview": ``,
