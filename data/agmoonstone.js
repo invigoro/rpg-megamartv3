@@ -130,7 +130,7 @@ data = [
         "cost": 425,
         "quantity": 1,
         "overview": "",
-        "description": "<i>Requires Attunement</i><br>Once per day, the wearer of this ring can cast <i><a href='https://dnd5e.wikidot.com/spell:misty-step'>Misty Step</a></i>.",
+        "description": "<i>Requires Attunement</i><br>Once per short rest, the wearer of this ring can cast <i><a href='https://dnd5e.wikidot.com/spell:misty-step'>Misty Step</a></i>.",
         "img": "./images/silver-ring.avif",
         "visible": false
     },
@@ -310,7 +310,7 @@ data = [
         "overview": ``,
         "description": `While wearing these silly slippers, you are immune to the effects of the <a href='https://dnd5e.wikidot.com/spell:grease'>Grease</a> spell. Additionally, once per day you can cast <i>Grease</i> centered on yourself.`,
         "img": "https://m.media-amazon.com/images/I/51nsmaD0k+L._AC_UY1000_.jpg",
-        "visible": true
+        "visible": false
     },
     {
         "title": "Communal Bag",
@@ -332,7 +332,7 @@ data = [
         "description": `When fired from a bow, the arrow seeks the creature whose name, description, and location are written on a message attached to the arrow,
          so long as there is an unobstructed path to the target. The arrow flies for 150 miles and delivers its 25 word message within the hour. It deals no damage.`,
         "img": "https://i.pinimg.com/474x/16/6b/b2/166bb2eda1d35f2d1002b8fefefaa73b.jpg",
-        "visible": true
+        "visible":false
     },
     {
         "title": "Imperfect Teleportation Amulet",
@@ -343,7 +343,7 @@ data = [
         This amulet allows the wearer to cast <i><a href='https://dnd5e.wikidot.com/spell:misty-step'>Misty Step</a></i> at will as a bonus action. 
         However, when casting it, roll a d6. On a 1, the spell instead teleports the wearer to the least desireable location within range (surrounded by enemies, in a hazardous zone, in some restricted area, etc.).`,
         "img": "https://static.wikia.nocookie.net/feral/images/3/33/Magic_amulet.png/",
-        "visible": true
+        "visible": false
     },
     {
         "title": "Serious String",
@@ -471,7 +471,7 @@ data = [
         However, greater range increases the chance of the message either never being received or being too muddled to be understood. Each additional 100 feet increases this chance by 5%.
         <br>Each day the system has 1d4+1 uses.`,
         "img": "https://cdn.shopify.com/s/files/1/1135/1806/t/12/assets/24fda0b69433--paging-sound-system-pgss-s10ma120btptt1-square-edcfc4.jpg",
-        "visible": false
+        "visible": true
     },
     {
         "title": "Pulled Punch Punch",
@@ -511,10 +511,10 @@ data = [
         "title": "Plastic Sheriff's Badge",
         "cost": 250,
         "quantity": 1,
-        "overview": ``,
-        "description": `Adds +3 to <b>Deception</b> checks when impersonating a person of authority.`,
+        "overview": `There's a new sheriff in town`,
+        "description": `Adds your proficiency bonus to <b>Deception</b> checks when impersonating a person of authority. Will still add this bonus even if you're already proficient or have expertise in Deception.`,
         "img": "https://i5.walmartimages.com/asr/fdde174d-9eb7-421c-aa2a-d70d92699647.afb7d801b2af70cbb023b6f33a60848e.jpeg",
-        "visible": false
+        "visible": true
     },
     {
         "title": "Invisi-Cream",
@@ -529,23 +529,21 @@ data = [
     },
     {
         "title": "Hat of Faces",
-        "cost": 225,
+        "cost": 400,
         "quantity": 1,
         "overview": "Get yourself a new look",
-        "description": `<i>Requires Attunement</i><br>
-
-As an action, you may pull the brim of this hat down to change your facial features, 
+        "description": `As an action, you may pull the brim of this hat down to change your facial features, 
 as per <i>Disguise Self</i> (face only).
 
 The illusion lasts for 1 hour or until dismissed.
 
 Once used, this ability cannot be used again until a short rest.`,
         "img": "https://greatpretenderseu.com/cdn/shop/files/5_5ca1cd92-2c1a-4c47-b18f-fee22d096599.png?v=1748009018&width=1600",
-        "visible": false
+        "visible": true
     },
     {
         "title": "Compass of Mild Certainty",
-        "cost": 100,
+        "cost": 75,
         "quantity": 1,
         "overview": "It's... probably that way.",
         "description": `This compass points roughly toward a location you name, provided it is within 10 miles.
@@ -575,7 +573,7 @@ This effect can be used once per turn.`,
         "cost": 225,
         "quantity": 1,
         "overview": "For tactical retreats",
-        "description": `While wearing these boots, moving backward does not provoke opportunity attacks.
+        "description": `While wearing these boots, you do not provoke opportunity attacks (as long as you're moving backwards).
 
 Additionally, once per short rest, when a creature misses you with a melee attack, 
 you may use your reaction to move up to 15 ft. directly away from it without 
@@ -585,7 +583,7 @@ provoking opportunity attacks.`,
     },
     {
         "title": "Coin of Delayed Consequences",
-        "cost": 100,
+        "cost": 50,
         "quantity": 1,
         "overview": "That's a problem for later.",
         "description": `As a reaction when you take damage, you may flip this coin.
@@ -668,12 +666,10 @@ you may reroll one of the dice.`,
     },
     {
         "title": "Cape of the Spotlight",
-        "cost": 600,
+        "cost": 400,
         "quantity": 1,
         "overview": "All eyes on you",
-        "description": `<i>Requires Attunement</i><br>
-
-As a bonus action, you may draw attention to yourself for 1 minute.
+        "description": `As a bonus action, you may draw attention to yourself for 1 minute.
 
 During this time:
 <ul>
