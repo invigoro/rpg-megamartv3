@@ -110,9 +110,9 @@ data = [
     {
         "title": "Tarantula Bracelet",
         "cost": 500,
-        "quantity": 1,
+        "quantity": 0,
         "overview": "Become a spider-man",
-        "description": "<br>Once per day, the bracelet bestows <i><a href='https://dnd5e.wikidot.com/spell:spider-climb'>Spider Climb</a></i> on the wearer for ten minutes. Additionally, the wearer's movement while climbing is completely silent and gives them advantage on stealth checks while the effect is active.",
+        "description": "<br>Thrice per day, the bracelet bestows <i><a href='https://dnd5e.wikidot.com/spell:spider-climb'>Spider Climb</a></i> on the wearer for ten minutes. Additionally, the wearer's movement while climbing is completely silent and gives them advantage on stealth checks while the effect is active.",
         "img": "./images/tarantulabracelet.jpg",
         "visible": true
     },
@@ -452,7 +452,7 @@ data = [
     {
         "title": "Buffet Voucher",
         "cost": 50,
-        "quantity": 1,
+        "quantity": 0,
         "overview": `Refill voucher at Inamaris Restaurants`,
         "description": `Provides unlimited refills of any item upon purchase.
         <br><br>
@@ -476,7 +476,7 @@ data = [
     {
         "title": "Pulled Punch Punch",
         "cost": 30,
-        "quantity": 5,
+        "quantity": 3,
         "overview": `Another excellent prank item`,
         "description": `This drink softens blows, and can easily be mixed into any beverage. 
         When a creature ingests it, they become unable to hit hard. 
@@ -488,7 +488,7 @@ data = [
     {
         "title": "Conch Shell of the Damned",
         "cost": 400,
-        "quantity": 1,
+        "quantity": 0,
         "overview": ``,
         "description": `Once per day, you can activate this shell by speaking its command word into it. 
         <br><br>When activated, you can speak a question into it, then hold the conch shell up to the ear of a deceased creature. The creature must have died in the last three days and must be able to understand you.
