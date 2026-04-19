@@ -505,7 +505,7 @@ data = [
         Once this is done, the target creature must roll 1d100 and gain an effect from the <a href='https://dnd5e.wikidot.com/sorcerer:wild-magic'>Sorcerer's Wild Magic Surge table</a>. 
         <br><br>Each bag has enough powder for three uses.`,
         "img": "https://908devices.com/wp-content/uploads/2024/08/Pink-Powder-1.jpg",
-        "visible": false
+        "visible": true
     },
     {
         "title": "Plastic Sheriff's Badge",
@@ -525,7 +525,7 @@ data = [
         Applying takes one minute, and does not affect clothes or items worn by the creature, so the creature must be naked to be fully invisible.
         <br><br>This bottle has enough cream for a single use.`,
         "img": "https://p.turbosquid.com/ts-thumb/4c/I7i6dB/qC/0000/jpg/1671469894/1920x1080/turn_fit_q99/7063f5c53c4c987bf275cc8000273ed9899e82e6/0000-1.jpg",
-        "visible": false
+        "visible": true
     },
     {
         "title": "Hat of Faces",
@@ -595,7 +595,7 @@ On tails, the damage is doubled and applied immediately.
 <br><br>
 Once used, this coin cannot be used again until a long rest.`,
         "img": "https://www.wildwinds.com/coins/byz/justinian_I/GB_122cf.jpg",
-        "visible": false
+        "visible": true
     },
     {
         "title": "Polearm of the Tempest Lineage",
