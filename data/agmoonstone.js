@@ -769,10 +769,10 @@ Once used, this ability cannot be used again until a long rest.`,
         "visible": false
     },
     {
-        "title": "Sample",
+        "title": "Mage Glove",
         "cost": 0,
         "quantity": 0,
-        "overview": ``,
+        "overview": `Just like mage hand`,
         "description": ``,
         "img": "./images/",
         "visible": false
