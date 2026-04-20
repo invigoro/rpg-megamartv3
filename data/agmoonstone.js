@@ -769,12 +769,16 @@ Once used, this ability cannot be used again until a long rest.`,
         "visible": false
     },
     {
-        "title": "Mage Glove",
-        "cost": 0,
-        "quantity": 0,
+        "title": "Mage Gloves",
+        "cost": 250,
+        "quantity": 1,
         "overview": `Just like mage hand`,
-        "description": ``,
-        "img": "./images/",
+        "description": `<i>Requires attunement</i><br><br>
+        These gloves are enchanted to behave in a way similar to you casting the <i><a href='https://roll20.net/compendium/dnd5e/Mage%20Hand#content'>Mage Hand</a></i> spell.
+        As an action, you can activate one or both of them, resulting in them flying from your hands and awaiting instructions. You can use your action to control one or both gloves.<br><br>
+        You can use the gloves to manipulate an object, open an unlocked door or container, stow or retrieve an item from an open contrainer, or pour the contents out of a vial. You can move each of the gloves 30 feet each time you use them. <br><br>
+        The gloves can't attack, activate magic items, or carry more than 5 pounds each. If a glove is ever more than 30 feet away from you, it drops to the ground inert and must be reactivated with an action to use it again.`,
+        "img": "https://static.wikia.nocookie.net/forgottenrealms/images/9/94/Nimblefinger_gloves_5e.png",
         "visible": false
     },
     {
