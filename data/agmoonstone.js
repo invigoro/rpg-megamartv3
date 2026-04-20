@@ -110,9 +110,9 @@ data = [
     {
         "title": "Tarantula Bracelet",
         "cost": 500,
-        "quantity": 1,
+        "quantity": 0,
         "overview": "Become a spider-man",
-        "description": "<br>Once per day, the bracelet bestows <i><a href='https://dnd5e.wikidot.com/spell:spider-climb'>Spider Climb</a></i> on the wearer for ten minutes. Additionally, the wearer's movement while climbing is completely silent and gives them advantage on stealth checks while the effect is active.",
+        "description": "<br>Thrice per day, the bracelet bestows <i><a href='https://dnd5e.wikidot.com/spell:spider-climb'>Spider Climb</a></i> on the wearer for ten minutes. Additionally, the wearer's movement while climbing is completely silent and gives them advantage on stealth checks while the effect is active.",
         "img": "./images/tarantulabracelet.jpg",
         "visible": true
     },
@@ -452,7 +452,7 @@ data = [
     {
         "title": "Buffet Voucher",
         "cost": 50,
-        "quantity": 1,
+        "quantity": 0,
         "overview": `Refill voucher at Inamaris Restaurants`,
         "description": `Provides unlimited refills of any item upon purchase.
         <br><br>
@@ -476,7 +476,7 @@ data = [
     {
         "title": "Pulled Punch Punch",
         "cost": 30,
-        "quantity": 5,
+        "quantity": 3,
         "overview": `Another excellent prank item`,
         "description": `This drink softens blows, and can easily be mixed into any beverage. 
         When a creature ingests it, they become unable to hit hard. 
@@ -488,7 +488,7 @@ data = [
     {
         "title": "Conch Shell of the Recently Deceased",
         "cost": 400,
-        "quantity": 1,
+        "quantity": 0,
         "overview": ``,
         "description": `Once per day, you can activate this shell by speaking its command word into it. 
         <br><br>When activated, you can speak a question into it, then hold the conch shell up to the ear of a deceased creature. The creature must have died in the last three days and must be able to understand you.
@@ -505,7 +505,7 @@ data = [
         Once this is done, the target creature must roll 1d100 and gain an effect from the <a href='https://dnd5e.wikidot.com/sorcerer:wild-magic'>Sorcerer's Wild Magic Surge table</a>. 
         <br><br>Each bag has enough powder for three uses.`,
         "img": "https://908devices.com/wp-content/uploads/2024/08/Pink-Powder-1.jpg",
-        "visible": false
+        "visible": true
     },
     {
         "title": "Plastic Sheriff's Badge",
@@ -525,7 +525,7 @@ data = [
         Applying takes one minute, and does not affect clothes or items worn by the creature, so the creature must be naked to be fully invisible.
         <br><br>This bottle has enough cream for a single use.`,
         "img": "https://p.turbosquid.com/ts-thumb/4c/I7i6dB/qC/0000/jpg/1671469894/1920x1080/turn_fit_q99/7063f5c53c4c987bf275cc8000273ed9899e82e6/0000-1.jpg",
-        "visible": false
+        "visible": true
     },
     {
         "title": "Hat of Faces",
@@ -595,7 +595,7 @@ On tails, the damage is doubled and applied immediately.
 <br><br>
 Once used, this coin cannot be used again until a long rest.`,
         "img": "https://www.wildwinds.com/coins/byz/justinian_I/GB_122cf.jpg",
-        "visible": false
+        "visible": true
     },
     {
         "title": "Polearm of the Tempest Lineage",
