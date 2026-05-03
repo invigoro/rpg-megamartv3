@@ -710,20 +710,18 @@ Once per turn, when you deal damage to a creature, you may deal
 <b>1d6 force damage</b> to a different creature within 10 ft. of it.
 
 If that second creature is also hit by an ally before the start of your next turn, 
-it takes an additional <b>1d6 damage</b>.
-
-Encourages coordinated attacks.`,
+it takes an additional <b>1d6 damage</`,
         "img": "https://cdn.pixabay.com/photo/2017/01/31/13/14/gloves-2022736_1280.png",
         "visible": false
     },
     {
         "title": "Amulet of Shared Momentum",
-        "cost": 800,
+        "cost": 250,
         "quantity": 1,
-        "overview": "Keep the combo going",
+        "overview": "",
         "description": `<i>Requires Attunement</i><br>
 
-When you hit a creature, you may grant an ally within 30 ft. 
+When you hit a creature, you can grant an ally within 30 ft. 
 +10 ft. movement and advantage on their next attack before the end of their turn.
 
 If that attack hits, you gain advantage on your next attack.
@@ -734,38 +732,37 @@ This effect can occur once per turn.`,
     },
     {
         "title": "Ring of Tactical Hesitation",
-        "cost": 650,
+        "cost": 225,
         "quantity": 1,
-        "overview": "Second thoughts save lives",
+        "overview": "",
         "description": `<i>Requires Attunement</i><br>
 
-When a creature you can see makes an attack roll, you may use your reaction 
+When a creature you can see makes an attack roll against you, you can use your reaction 
 to impose disadvantage.
 
 If the attack still hits, you gain resistance to that damage.
 
 This ability can be used twice per long rest.`,
-        "img": "https://cdn.pixabay.com/photo/2014/04/03/10/32/ring-310580_1280.png",
+        "img": "https://m.media-amazon.com/images/I/71DPXqFilIL.jpg",
         "visible": false
     },
     {
         "title": "Drum of Relentless Tempo",
-        "cost": 950,
+        "cost": 250,
         "quantity": 1,
         "overview": "Control the rhythm of battle",
-        "description": `<i>Requires Attunement</i><br>
+        "description": `<br>
 
 As an action, you may begin a rhythmic beat lasting 1 minute (concentration).
-
-While active:
+<br>
+While active, Allies within 120 ft. gain the following benefits:
 <ul>
-<li>Allies within 30 ft. gain +10 ft. movement</li>
-<li>Once per turn, an ally may add <b>1d4</b> to an attack roll</li>
-<li>If you are incapacitated, the effect ends</li>
+<li>+10 ft. movement</li>
+<li>Your proficiency bonus is added to their attack rolls</li>
+<li>Advantage on Strength and Constitution saving throws</li>
 </ul>
-
 Once used, this ability cannot be used again until a long rest.`,
-        "img": "https://cdn.pixabay.com/photo/2017/01/31/21/23/drum-2029112_1280.png",
+        "img": "https://static.wikia.nocookie.net/forgottenrealms/images/3/37/Drum_bg3.png",
         "visible": false
     },
     {
