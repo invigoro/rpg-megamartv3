@@ -562,7 +562,7 @@ it answers correctly 75% of the time.`,
         "overview": "All gas, no brakes",
         "description": `When you hit a creature with a melee attack, you may choose to deal an additional <b>1d8</b> force damage.
 
-If you do, you must use your reaction (if available) to make another attack against the same target, even if the target is already dead.
+If you do, you must use your reaction (if available) to make another attack against the same target, even if the target is already downed.
 
 This effect can be used once per turn.`,
         "img": "https://actuallyitsaxel.com/cdn/shop/products/image_e86c9ca5-4d10-4cf0-9896-7935703b1b6a.jpg",
@@ -612,7 +612,7 @@ Additionally, when you reduce a creature to 0 HP, lightning arcs to another crea
 within 30 ft., forcing it to make a <b>DC 14 Dexterity saving throw</b>, taking <b>2d6 lightning damage</b> 
 on a failure, or half on success.
 <br><br>
-Once per long rest, you may cast <i>Lightning Bolt</i> as an action.`,
+Once per long rest, you may cast <i><a href='https://roll20.net/compendium/dnd5e/Lightning%20Bolt#content'>Lightning Bolt</a></i> as an action.`,
         "img": "https://www.dndbeyond.com/avatars/thumbnails/7/275/1000/1000/636284746259121503.jpeg",
         "visible": true
     },
@@ -628,7 +628,9 @@ While wearing this bandolier, your opportunity attacks deal an additional <b>2d8
 If you hit a creature with an opportunity attack, its speed becomes <b>0</b> for the rest of the turn.
 
 Additionally, once per turn when an ally hits a creature within your reach, 
-you can use your reaction to make a melee attack against that creature.`,
+you can use your reaction to make a melee attack against that creature.
+<br><br>
+Once per long rest, you may cast <i><a href='https://dnd5e.wikidot.com/spell:thunder-step'>Thunder Step</a></i> as an action.`,
         "img": "https://ravenswoodleather.com/wp-content/uploads/2023/04/pirate-belt-3-732x1024.webp",
         "visible": true
     },
@@ -642,7 +644,9 @@ you can use your reaction to make a melee attack against that creature.`,
 When a creature expends one of your Bardic Inspiration dice, you can allow them to roll it again and take the higher result. This can be used once per turn (resetting at the start of your next turn).
 
 Additionally, once per short rest, when a creature fails a roll using your Bardic Inspiration, 
-you can choose to not expend the die.`,
+you can choose to not expend the die.
+<br><br>
+Once per long rest, you may cast <i><a href='https://roll20.net/compendium/dnd5e/Hypnotic%20Pattern#content'>Hypnotic Pattern</a></i> as an action.`,
         "img": "https://www.unicornjewelry.com/cdn/shop/products/fp6706_b6e160ea-ade3-4de9-8bd4-e784c87ba1b4_1024x1024.jpg",
         "visible": true
     },
