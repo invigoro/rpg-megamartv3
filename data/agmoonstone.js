@@ -779,12 +779,15 @@ Once used, this ability cannot be used again until a long rest.`,
         "visible": false
     },
     {
-        "title": "Sample",
-        "cost": 0,
-        "quantity": 0,
-        "overview": ``,
-        "description": ``,
-        "img": "./images/",
+        "title": "Trickster's Pen",
+        "cost": 175,
+        "quantity": 2,
+        "overview": `A two-colored pen`,
+        "description": `This red-and-black pen allows you to show different messages to different creatures. 
+        When writing with it on any surface, choose a group of creatures or a single creature as the target (this can be as general or as specific as you like). 
+        Whatever message you write with the red end will only be visible to the target creature(s). Whatever message you write with the black end will be visible to everyone, but the target creatures will only see it as a faint outline.
+        <br><br>If the surface the ink is written onto is targeted by <i>Dispel Magic</i> or a similar effect, the ink of both colors disappears without revealing the message.`,
+        "img": "https://www.acepens.com/cdn/shop/products/pic-two-in-one-pen-650px_1200x1200.jpg",
         "visible": false
     },
     {
