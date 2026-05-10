@@ -606,10 +606,10 @@ Once used, this coin cannot be used again until a long rest.`,
 
 This weapon functions as a <b>+1 pike, halberd, or glaive</b> (chosen on purchase).
 
-Once per turn when you hit a creature, you may deal an additional <b>1d6 lightning damage</b>.
+Once per turn when you hit a creature, you may deal an additional <b>1d10 lightning damage</b>.
 
 Additionally, when you reduce a creature to 0 HP, lightning arcs to another creature 
-within 30 ft., forcing it to make a <b>DC 14 Dexterity saving throw</b>, taking <b>2d6 lightning damage</b> 
+within 30 ft., forcing it to make a <b>DC 14 Dexterity saving throw</b>, taking <b>2d10 lightning damage</b> 
 on a failure, or half on success.
 <br><br>
 Once per long rest, you may cast <i><a href='https://roll20.net/compendium/dnd5e/Lightning%20Bolt#content'>Lightning Bolt</a></i> as an action.`,
@@ -625,7 +625,7 @@ Once per long rest, you may cast <i><a href='https://roll20.net/compendium/dnd5e
 
 While wearing this bandolier, your opportunity attacks deal an additional <b>2d8 damage</b> (same damage type as your weapon).
 
-If you hit a creature with an opportunity attack, its speed becomes <b>0</b> for the rest of the turn.
+If you hit a creature with an opportunity attack, its speed becomes <b>0</b> until the start of its next turn.
 
 Additionally, once per turn when an ally hits a creature within your reach, 
 you can use your reaction to make a melee attack against that creature.
