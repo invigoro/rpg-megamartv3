@@ -791,30 +791,36 @@ Once used, this ability cannot be used again until a long rest.`,
         "visible": false
     },
     {
-        "title": "Sample",
-        "cost": 0,
-        "quantity": 0,
+        "title": "Rogue's Totem",
+        "cost": 150,
+        "quantity": 1,
         "overview": ``,
-        "description": ``,
-        "img": "./images/",
+        "description": `<i>Requires Attunement</i><br><br>
+        You can activate this totem when you use your <i>Sneak Attack</i> feature. 
+        When you do so, your sneak attack damage for this attack is the maximum damage possible. 
+        This ability can be used once per long rest.`,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIv2DeXDWU1lTP-wJpJkqmaBil6aiWZ4OAyw&s",
         "visible": false
     },
     {
-        "title": "Sample",
-        "cost": 0,
-        "quantity": 0,
+        "title": "Quickscope",
+        "cost": 700,
+        "quantity": 1,
         "overview": ``,
-        "description": ``,
-        "img": "./images/",
+        "description": `<i>Requires <b>DEX 18</b> or higher</i><br><br>
+        Affixing this eyepiece to a bow or crossbow grants the following benefit when using it: 
+        when attacking, you can either choose to make an attack as a bonus action or to ignore disadvantage imposed by long range.`,
+        "img": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQujth1JKiRNO2lrEu6LIX8XhrH9C0lu-c7r70tSmvSLOSVyoT8RfBfLHKsliM6DfakxoiG0AEAGo25Kbov6alXFgJg7gUgi9IOcAaYMmkLCNLagilU7cW-",
         "visible": false
     },
     {
-        "title": "Sample",
-        "cost": 0,
-        "quantity": 0,
+        "title": "Polearm Grip",
+        "cost": 475,
+        "quantity": 2,
         "overview": ``,
-        "description": ``,
-        "img": "./images/",
+        "description": `Affixing this grip to any melee weapon with the <i>reach</i> property allows you to spin it more rapidly than normal. 
+        When any enemy is within your reach with this weapon, it counts as difficult terrain for them.`,
+        "img": "https://www.alltiresupply.com/cdn/shop/files/aa-black-rubber-grip-for-bead-lifting-tools-67-181354-g-tire-changer-692_large.webp",
         "visible": false
     },
     {
