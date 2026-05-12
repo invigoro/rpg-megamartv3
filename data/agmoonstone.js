@@ -824,6 +824,35 @@ Once used, this ability cannot be used again until a long rest.`,
         "visible": false
     },
     {
+        "title": "Ring of Unrestricted Inspiration",
+        "cost": 600,
+        "quantity": 1,
+        "overview": ``,
+        "description": `<i>Requires attunement</i><br><br>
+        While wearing this ring, your bardic inspiration dice can be used to add to <i>any</i> dice roll (damage rolls, wild magic rolls, etc.)
+        Additionally, you can expend your unused bardic inspiration dice on yourself.`,
+        "img": "https://i.ebayimg.com/images/g/yG0AAOSwfHViTRbH/s-l1200.jpg",
+        "visible": false
+    },
+    {
+        "title": "Sample",
+        "cost": 0,
+        "quantity": 0,
+        "overview": ``,
+        "description": ``,
+        "img": "./images/",
+        "visible": false
+    },
+    {
+        "title": "Sample",
+        "cost": 0,
+        "quantity": 0,
+        "overview": ``,
+        "description": ``,
+        "img": "./images/",
+        "visible": false
+    },
+    {
         "title": "Sample",
         "cost": 0,
         "quantity": 0,
