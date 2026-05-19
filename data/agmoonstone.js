@@ -814,11 +814,11 @@ Once used, this ability cannot be used again until a long rest.`,
         "visible": false
     },
     {
-        "title": "Polearm Grip",
+        "title": "Death Grips",
         "cost": 475,
         "quantity": 2,
-        "overview": ``,
-        "description": `Affixing this grip to any melee weapon with the <i>reach</i> property allows you to spin it more rapidly than normal. 
+        "overview": `It goes it goes`,
+        "description": `Affixing these grips to any melee weapon with the <i>reach</i> property allows you to spin it more rapidly than normal. 
         When any enemy is within your reach with this weapon, it counts as difficult terrain for them.`,
         "img": "https://www.alltiresupply.com/cdn/shop/files/aa-black-rubber-grip-for-bead-lifting-tools-67-181354-g-tire-changer-692_large.webp",
         "visible": false
