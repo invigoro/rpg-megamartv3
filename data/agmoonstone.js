@@ -363,7 +363,7 @@ data = [
         <br>However, the enchantment only lasts for a minute, after which it reverts to a normal sword until it is returned to its sheath and redrawn. When it is in the snake form, a DC 20 animal handling check is required to force the animal back into the sheath.
         <br><br>This sword comes in five varieties: longsword, shortsword, rapier, greatsword, scimitar.`,
         "img": "https://m.media-amazon.com/images/I/51vc+SMNdlL.jpg",
-        "visible": true
+        "visible": false
     },
     {
         "title": "Elemental Ukulele",
@@ -438,7 +438,7 @@ data = [
         "overview": ``,
         "description": `A hat that can be turned on or off as an action or bonus action. When on, it acts like an ambulance siren with bright, flashing lights and a loud, blaring sound. Each time the hat is activated, roll a d100. On a 1, the hat unintentionally summons 2d8 hostile <a href='https://www.5esrd.com/database/creature/siren/'>Sirens</a> to an unoccupied space next to you.`,
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStAl9jjyJaBYNdGoy7AZlFG59cCDfMZwx51g&s",
-        "visible": true
+        "visible": false
     },
     {
         "title": "Spiked Lemonade",
@@ -447,7 +447,7 @@ data = [
         "overview": `Is it worth the risk?`,
         "description": `This energy-infused lemonade can be used to keep you going. when drinking it, you must make a <b>DC 8 Constitution</b> saving throw. On a success, you remove one level of exhaustion. On a failure, you collapse, dropping to 0 health and remaining unconscious for 1d8 + 1 hours.`,
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5U0iQs9eLHeMK7W9nHQZU_y6t3ov4iyC9Bg&s",
-        "visible": true
+        "visible": false
     },
     {
         "title": "Buffet Voucher",
@@ -471,7 +471,7 @@ data = [
         However, greater range increases the chance of the message either never being received or being too muddled to be understood. Each additional 100 feet increases this chance by 5%.
         <br>Each day the system has 1d4+1 uses.`,
         "img": "https://cdn.shopify.com/s/files/1/1135/1806/t/12/assets/24fda0b69433--paging-sound-system-pgss-s10ma120btptt1-square-edcfc4.jpg",
-        "visible": true
+        "visible": false
     },
     {
         "title": "Pulled Punch Punch",
@@ -579,7 +579,7 @@ Additionally, once per short rest, when a creature misses you with a melee attac
 you may use your reaction to move up to 15 ft. directly away from it without 
 provoking opportunity attacks.`,
         "img": "https://fashionhistory.fitnyc.edu/wp-content/uploads/2017/10/SC23382-1280x640.jpg",
-        "visible": false
+        "visible": true
     },
     {
         "title": "Coin of Delayed Consequences",
@@ -788,11 +788,11 @@ Once used, this ability cannot be used again until a long rest.`,
         Whatever message you write with the red end will only be visible to the target creature(s). Whatever message you write with the black end will be visible to everyone, but the target creatures will only see it as a faint outline.
         <br><br>If the surface the ink is written onto is targeted by <i>Dispel Magic</i> or a similar effect, the ink of both colors disappears without revealing the message.`,
         "img": "https://www.acepens.com/cdn/shop/products/pic-two-in-one-pen-650px_1200x1200.jpg",
-        "visible": false
+        "visible": true
     },
     {
         "title": "Rogue's Totem",
-        "cost": 150,
+        "cost": 200,
         "quantity": 1,
         "overview": ``,
         "description": `<i>Requires Attunement</i><br><br>
@@ -800,7 +800,7 @@ Once used, this ability cannot be used again until a long rest.`,
         When you do so, your sneak attack damage for this attack is the maximum damage possible. 
         This ability can be used once per long rest.`,
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIv2DeXDWU1lTP-wJpJkqmaBil6aiWZ4OAyw&s",
-        "visible": false
+        "visible": true
     },
     {
         "title": "Quickscope",
@@ -815,13 +815,13 @@ Once used, this ability cannot be used again until a long rest.`,
     },
     {
         "title": "Death Grips",
-        "cost": 475,
+        "cost": 600,
         "quantity": 2,
         "overview": `It goes it goes`,
         "description": `Affixing these grips to any melee weapon with the <i>reach</i> property allows you to spin it more rapidly than normal. 
         When any enemy is within your reach with this weapon, it counts as difficult terrain for them.`,
         "img": "https://www.alltiresupply.com/cdn/shop/files/aa-black-rubber-grip-for-bead-lifting-tools-67-181354-g-tire-changer-692_large.webp",
-        "visible": false
+        "visible": true
     },
     {
         "title": "Ring of Unrestricted Inspiration",
