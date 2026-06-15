@@ -420,7 +420,7 @@ data = [
         "description": `When this boomerang is thrown as an action, it just continues in the direction it's thrown, never returning. It stops when it hits any solid object. 
         <br><br>The owner of this boomerang can spend a short rest doing its re-summoning ritual, after which it magically returns to their hand, as long as they are both on the same plane of existence.`,
         "img": "https://cdn.britannica.com/91/136491-050-AAACC3A5/Boomerang.jpg",
-        "visible": true
+        "visible": false
     },
     {
         "title": "Cupholder",
@@ -525,7 +525,7 @@ data = [
         Applying takes one minute, and does not affect clothes or items worn by the creature, so the creature must be naked to be fully invisible.
         <br><br>This bottle has enough cream for a single use.`,
         "img": "https://p.turbosquid.com/ts-thumb/4c/I7i6dB/qC/0000/jpg/1671469894/1920x1080/turn_fit_q99/7063f5c53c4c987bf275cc8000273ed9899e82e6/0000-1.jpg",
-        "visible": true
+        "visible": false
     },
     {
         "title": "Hat of Faces",
@@ -808,10 +808,10 @@ Once used, this ability cannot be used again until a long rest.`,
         "quantity": 1,
         "overview": ``,
         "description": `<i>Requires <b>DEX 18</b> or higher</i><br><br>
-        Affixing this eyepiece to a bow or crossbow grants the following benefit when using it: 
-        when attacking, you can either choose to make an attack as a bonus action or to ignore disadvantage imposed by long range.`,
+        Affixing this eyepiece to a bow or crossbow grants one of the following benefits when making an attack with it: either the attack can be done as a bonus action, or the attack can ignore disadvantage imposed by long range. 
+        <br><br>Only one of these effects can be active at a time. A short rest is required to recalibrate the scope to switch effects.`,
         "img": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQujth1JKiRNO2lrEu6LIX8XhrH9C0lu-c7r70tSmvSLOSVyoT8RfBfLHKsliM6DfakxoiG0AEAGo25Kbov6alXFgJg7gUgi9IOcAaYMmkLCNLagilU7cW-",
-        "visible": false
+        "visible": true
     },
     {
         "title": "Death Grips",
@@ -832,7 +832,7 @@ Once used, this ability cannot be used again until a long rest.`,
         While wearing this ring, your bardic inspiration dice can be used to add to <i>any</i> dice roll (damage rolls, wild magic rolls, etc.)
         Additionally, you can expend your unused bardic inspiration dice on yourself.`,
         "img": "https://i.ebayimg.com/images/g/yG0AAOSwfHViTRbH/s-l1200.jpg",
-        "visible": false
+        "visible": true
     },
     {
         "title": "Sample",
