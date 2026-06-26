@@ -835,12 +835,15 @@ Once used, this ability cannot be used again until a long rest.`,
         "visible": true
     },
     {
-        "title": "Sample",
-        "cost": 0,
-        "quantity": 0,
+        "title": "Sharp Tongue",
+        "cost": 150,
+        "quantity": 1,
         "overview": ``,
-        "description": ``,
-        "img": "./images/",
+        "description": `<i>Requires attunement by a bard</i><br><br>
+        You're proficient with this magic rapier while you're attuned to it, and you deal an extra 1d4 psychic damage to any creature you hit with it. 
+        If the creature has been been targeted by the <i>Vicious Mockery</i> spell since the start of your last turn, the psychic damage is increased to 1d6. 
+        <br><br>In addition, while holding the weapon, your spell save DC for any <i>Vicious Mockery</i> spell you cast is increased by 1, and you can cast the spell as a reaction when a creature that you can see misses you with a melee attack or provokes an opportunity attack from you (rather than making the attack), targeting that creature with the spell.`,
+        "img": "./images/sharp_tongue.jpg",
         "visible": false
     },
     {
