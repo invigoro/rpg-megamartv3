@@ -2,7 +2,7 @@ data = [
     {
         "title": "Eldritch Spinner",
         "cost": 275,
-        "quantity": 1,
+        "quantity": 0,
         "overview": "An arcane artifact to keep you focused.",
         "description": "When you spin the Eldritch Spinner as a bonus action, you can continue to concentrate on a spell for an additional turn when your concentration would have otherwise ended. It can be used a number of times equal to your spellcasting ability modifier, with its uses restoring during a long rest.</p><p>The Eldritch Spinner also serves as an arcane focus.<br>",
         "img": "./images/spinner.jpg",
@@ -150,7 +150,7 @@ data = [
         "overview": "A very creepy doll",
         "description": "If the owner of this doll ever fails a third death save, the doll will take the hit, and will die in place of its owner.",
         "img": "https://images.squarespace-cdn.com/content/v1/59b4328f49fc2b50d08701fb/1542239970729-KL7M3DYIICCCYSM0UCCU/creepy_baby_dolls",
-        "visible": false
+        "visible": true
     },
     {
         "title": "Fists of Fury",
@@ -425,7 +425,7 @@ data = [
     {
         "title": "Cupholder",
         "cost": 50,
-        "quantity": 0,
+        "quantity": 1,
         "overview": `Keeps your drinks handy`,
         "description": `This cupholder can conviently store one tasty beverage of your choice at your waist. As a bonus action, you can drink any potion stored in it and gain its full effects as if using an action. `,
         "img": "https://m.media-amazon.com/images/I/71RDsYJiJTL.jpg",
@@ -499,7 +499,7 @@ data = [
     {
         "title": "Mystery Powder",
         "cost": 125,
-        "quantity": 3,
+        "quantity": 1,
         "overview": `What will it do?`,
         "description": `As an action, you can throw the powder from this bag onto yourself or another creature within 5 feet. 
         Once this is done, the target creature must roll 1d100 and gain an effect from the <a href='https://dnd5e.wikidot.com/sorcerer:wild-magic'>Sorcerer's Wild Magic Surge table</a>. 
@@ -781,7 +781,7 @@ Once used, this ability cannot be used again until a long rest.`,
     {
         "title": "Trickster's Pen",
         "cost": 175,
-        "quantity": 2,
+        "quantity": 1,
         "overview": `A two-colored pen`,
         "description": `This red-and-black pen allows you to show different messages to different creatures. 
         When writing with it on any surface, choose a group of creatures or a single creature as the target (this can be as general or as specific as you like). 
@@ -793,7 +793,7 @@ Once used, this ability cannot be used again until a long rest.`,
     {
         "title": "Rogue's Totem",
         "cost": 200,
-        "quantity": 1,
+        "quantity": 0,
         "overview": ``,
         "description": `<i>Requires Attunement</i><br><br>
         You can activate this totem when you use your <i>Sneak Attack</i> feature. 
@@ -805,7 +805,7 @@ Once used, this ability cannot be used again until a long rest.`,
     {
         "title": "Quickscope",
         "cost": 700,
-        "quantity": 1,
+        "quantity": 0,
         "overview": ``,
         "description": `<i>Requires <b>DEX 18</b> or higher</i><br><br>
         Affixing this eyepiece to a bow or crossbow grants one of the following benefits when making an attack with it: either the attack can be done as a bonus action, or the attack can ignore disadvantage imposed by long range. 
@@ -816,7 +816,7 @@ Once used, this ability cannot be used again until a long rest.`,
     {
         "title": "Death Grips",
         "cost": 600,
-        "quantity": 2,
+        "quantity": 1,
         "overview": `It goes it goes`,
         "description": `Affixing these grips to any melee weapon with the <i>reach</i> property allows you to spin it more rapidly than normal. 
         When any enemy is within your reach with this weapon, it counts as difficult terrain for them.`,
@@ -844,7 +844,7 @@ Once used, this ability cannot be used again until a long rest.`,
         If the creature has been been targeted by the <i>Vicious Mockery</i> spell since the start of your last turn, the psychic damage is increased to 1d6. 
         <br><br>In addition, while holding the weapon, your spell save DC for any <i>Vicious Mockery</i> spell you cast is increased by 1, and you can cast the spell as a reaction when a creature that you can see misses you with a melee attack or provokes an opportunity attack from you (rather than making the attack), targeting that creature with the spell.`,
         "img": "./images/sharp_tongue.jpg",
-        "visible": false
+        "visible": true
     },
     {
         "title": "Sample",
