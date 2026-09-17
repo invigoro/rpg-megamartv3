@@ -1,6 +1,7 @@
 Available Stores
 - [Mooonstone AG Store](https://invigoro.github.io/rpg-megamartv3/agmoonstone.html)
 - [Embermark Company Store](https://invigoro.github.io/rpg-megamartv3/embermark.html)
+- [James Roberts's Country Store](https://invigoro.github.io/rpg-megamartv3/jroberts.html)
 
 To set up your own store on GitHub:
 - Fork the repository
