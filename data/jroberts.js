@@ -150,7 +150,7 @@ data = [
         "overview": "A very creepy doll",
         "description": "If the owner of this doll would ever die from an instance of taking damage, the doll will take the hit, and will die in place of its owner.",
         "img": "https://images.squarespace-cdn.com/content/v1/59b4328f49fc2b50d08701fb/1542239970729-KL7M3DYIICCCYSM0UCCU/creepy_baby_dolls",
-        "visible": true
+        "visible": false
     },
     {
         "title": "Fists of Fury",
@@ -260,12 +260,12 @@ data = [
     },
     {
         "title": "Plot Armor",
-        "cost": 150,
+        "cost": 75,
         "quantity": 3,
         "overview": `You should always wear protection`,
         "description": `This thin, paper-light armor can be worn underneath any other standard set of armor. When you are hit for damage that would drop you to zero health, the armor absorbs the hit instead, nullifying the damage dealt. However, this cracks the armor, making it ineffective and unrepairable.`,
         "img": "https://dl2.myminifactory.com/object-assets/644ff9f46b1e86.87395864/images/720X720-screenshot-1421.jpg",
-        "visible": false
+        "visible": true
     },
     {
         "title": "Sport Mode Crocs",
