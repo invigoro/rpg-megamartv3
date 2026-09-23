@@ -786,13 +786,13 @@ Once used, this ability cannot be used again until a long rest.`,
         "visible": false
     },
     {
-        "title": "Sample",
-        "cost": 0,
+        "title": "Snake Stick",
+        "cost": 20,
         "quantity": 0,
-        "overview": ``,
-        "description": ``,
-        "img": "./images/",
-        "visible": false
+        "overview": `A simple stick... or is it?`,
+        "description": `This wooden stick transforms instantly into a venomous snake once the stick is broken. Use with caution.`,
+        "img": "https://www.museumofplay.org/app/uploads/2021/08/stick_0.png",
+        "visible": true
     },
     {
         "title": "Sample",
