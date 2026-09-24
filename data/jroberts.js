@@ -501,18 +501,18 @@ data = [
         "cost": 250,
         "quantity": 1,
         "overview": `There's a new sheriff in town`,
-        "description": `Adds your proficiency bonus to <b>Deception</b> checks when impersonating a person of authority. Will still add this bonus even if you're already proficient or have expertise in Deception.`,
+        "description": `You have proficiency in checks involving impersonating a person of authority.`,
         "img": "https://i5.walmartimages.com/asr/fdde174d-9eb7-421c-aa2a-d70d92699647.afb7d801b2af70cbb023b6f33a60848e.jpeg",
         "visible": false
     },
     {
         "title": "Invisi-Cream",
-        "cost": 275,
-        "quantity": 1,
+        "cost": 115,
+        "quantity": 2,
         "overview": ``,
-        "description": `This cream can be applied to a creature to gain invisibility as if casting the <i><a href=''>Greater Invisibility</a></i> spell (no concentration, and duration 1 hour). 
+        "description": `This cream can be applied to a creature to gain invisibility as if by casting a spell. However, if the creature attacks or casts any spell, the invisibility ends immediately. 
         Applying takes one minute, and does not affect clothes or items worn by the creature, so the creature must be naked to be fully invisible.
-        <br><br>This bottle has enough cream for a single use.`,
+        <br><br>This bottle has enough cream for three uses.`,
         "img": "https://p.turbosquid.com/ts-thumb/4c/I7i6dB/qC/0000/jpg/1671469894/1920x1080/turn_fit_q99/7063f5c53c4c987bf275cc8000273ed9899e82e6/0000-1.jpg",
         "visible": false
     },
@@ -757,8 +757,8 @@ Once used, this ability cannot be used again until a long rest.`,
         "cost": 600,
         "quantity": 1,
         "overview": `It goes it goes`,
-        "description": `Affixing these grips to any melee weapon with the <i>reach</i> property allows you to spin it more rapidly than normal. 
-        When any enemy is within your reach with this weapon, it counts as difficult terrain for them.`,
+        "description": `Affixing these grips to any polarm allows you to spin it more rapidly than normal. 
+        When any enemy is within your reach with this weapon, it counts as difficult terrain for them, meaning their movement is halved. Additionally, they must make a Coordination check to move through this area, being forced to a halt on a failure.`,
         "img": "https://www.alltiresupply.com/cdn/shop/files/aa-black-rubber-grip-for-bead-lifting-tools-67-181354-g-tire-changer-692_large.webp",
         "visible": false
     },
