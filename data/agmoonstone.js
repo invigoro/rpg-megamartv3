@@ -6,7 +6,7 @@ data = [
         "overview": "An arcane artifact to keep you focused.",
         "description": "When you spin the Eldritch Spinner as a bonus action, you can continue to concentrate on a spell for an additional turn when your concentration would have otherwise ended. It can be used a number of times equal to your spellcasting ability modifier, with its uses restoring during a long rest.</p><p>The Eldritch Spinner also serves as an arcane focus.<br>",
         "img": "./images/spinner.jpg",
-        "visible": true
+        "visible": false
     },
     {
         "title": "Parental Lock",
@@ -213,7 +213,7 @@ data = [
         "overview": "100 Ducks, That's Our Promise",
         "description": "Each handcrafted, ornate, glass bottle of Gray Duck Vodka contains 100 ducks, that's our promise. <br> <p style='text-align: center;'>Do Not Ingest.</p>",
         "img": "https://tug-nut.github.io/OPEN-Enterprises/images/Gray%20Duck.jpg",
-        "visible": false
+        "visible": true
     },
     {
         "title": "Jester's Hat",
@@ -265,7 +265,7 @@ data = [
         "overview": `You should always wear protection`,
         "description": `This thin, paper-light armor can be worn underneath any other standard set of armor. When you are hit for damage that would drop you to zero health, the armor absorbs the hit instead, nullifying the damage dealt. However, this cracks the armor, making it ineffective and unrepairable.`,
         "img": "https://dl2.myminifactory.com/object-assets/644ff9f46b1e86.87395864/images/720X720-screenshot-1421.jpg",
-        "visible": false
+        "visible": true
     },
     {
         "title": "Sport Mode Crocs",
@@ -332,7 +332,7 @@ data = [
         "description": `When fired from a bow, the arrow seeks the creature whose name, description, and location are written on a message attached to the arrow,
          so long as there is an unobstructed path to the target. The arrow flies for 150 miles and delivers its 25 word message within the hour. It deals no damage.`,
         "img": "https://i.pinimg.com/474x/16/6b/b2/166bb2eda1d35f2d1002b8fefefaa73b.jpg",
-        "visible":false
+        "visible": true
     },
     {
         "title": "Imperfect Teleportation Amulet",
@@ -476,7 +476,7 @@ data = [
     {
         "title": "Pulled Punch Punch",
         "cost": 30,
-        "quantity": 3,
+        "quantity": 0,
         "overview": `Another excellent prank item`,
         "description": `This drink softens blows, and can easily be mixed into any beverage. 
         When a creature ingests it, they become unable to hit hard. 
@@ -539,7 +539,7 @@ The illusion lasts for 1 hour or until dismissed.
 
 Once used, this ability cannot be used again until a short rest.`,
         "img": "https://greatpretenderseu.com/cdn/shop/files/5_5ca1cd92-2c1a-4c47-b18f-fee22d096599.png?v=1748009018&width=1600",
-        "visible": true
+        "visible": false
     },
     {
         "title": "Compass of Mild Certainty",
@@ -553,7 +553,7 @@ The direction is never perfectly accurate and may be off by up to 30 degrees.
 Once per day, you may ask the compass a yes/no question about direction; 
 it answers correctly 75% of the time.`,
         "img": "https://upload.wikimedia.org/wikipedia/commons/8/8e/2016_Busola.JPG",
-        "visible": false
+        "visible": true
     },
     {
         "title": "Gloves of Overcommitment",
@@ -816,7 +816,7 @@ Once used, this ability cannot be used again until a long rest.`,
     {
         "title": "Death Grips",
         "cost": 600,
-        "quantity": 1,
+        "quantity": 0,
         "overview": `It goes it goes`,
         "description": `Affixing these grips to any melee weapon with the <i>reach</i> property allows you to spin it more rapidly than normal. 
         When any enemy is within your reach with this weapon, it counts as difficult terrain for them.`,
@@ -826,7 +826,7 @@ Once used, this ability cannot be used again until a long rest.`,
     {
         "title": "Ring of Unrestricted Inspiration",
         "cost": 600,
-        "quantity": 1,
+        "quantity": 0,
         "overview": ``,
         "description": `<i>Requires attunement</i><br><br>
         While wearing this ring, your bardic inspiration dice can be used to add to <i>any</i> dice roll (damage rolls, wild magic rolls, etc.)
@@ -837,13 +837,22 @@ Once used, this ability cannot be used again until a long rest.`,
     {
         "title": "Sharp Tongue",
         "cost": 150,
-        "quantity": 1,
+        "quantity": 0,
         "overview": ``,
         "description": `<i>Requires attunement by a bard</i><br><br>
         You're proficient with this magic rapier while you're attuned to it, and you deal an extra 1d4 psychic damage to any creature you hit with it. 
         If the creature has been been targeted by the <i>Vicious Mockery</i> spell since the start of your last turn, the psychic damage is increased to 1d6. 
         <br><br>In addition, while holding the weapon, your spell save DC for any <i>Vicious Mockery</i> spell you cast is increased by 1, and you can cast the spell as a reaction when a creature that you can see misses you with a melee attack or provokes an opportunity attack from you (rather than making the attack), targeting that creature with the spell.`,
         "img": "./images/sharp_tongue.jpg",
+        "visible": true
+    },
+    {
+        "title": "Snake Stick",
+        "cost": 40,
+        "quantity": 7,
+        "overview": `A simple stick... or is it?`,
+        "description": `This wooden stick transforms instantly into a venomous snake once the stick is broken. Use with caution.`,
+        "img": "https://www.museumofplay.org/app/uploads/2021/08/stick_0.png",
         "visible": true
     },
     {

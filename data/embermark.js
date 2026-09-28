@@ -647,7 +647,7 @@ Additionally, once per short rest, when a creature fails a roll using your Bardi
 you can choose to not expend the die.
 <br><br>
 Once per long rest, you may cast <i><a href='https://roll20.net/compendium/dnd5e/Hypnotic%20Pattern#content'>Hypnotic Pattern</a></i> as an action.`,
-        "img": "https://www.unicornjewelry.com/cdn/shop/products/fp6706_b6e160ea-ade3-4de9-8bd4-e784c87ba1b4_1024x1024.jpg",
+        "img": "./images/bardnecklace.png",
         "visible": true
     },
     {
@@ -689,7 +689,7 @@ This ability can be used once per short rest.`,
         "title": "Boots of Sudden Flanking",
         "cost": 350,
         "quantity": 1,
-        "overview": "",
+        "overview": "Nothing personnel, kid",
         "description": `<i>Requires Attunement</i><br>
 
 As a bonus action, you can teleport up to 30 ft. to an unoccupied space 
