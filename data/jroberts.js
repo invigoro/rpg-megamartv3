@@ -385,13 +385,12 @@ data = [
     },
     {
         "title": "Returning Pike",
-        "cost": 600,
-        "quantity": 0,
+        "cost": 225,
+        "quantity": 1,
         "overview": `Keep that mfing thang on you`,
-        "description": `<i>Requires attunement</i><br>
-        This pike functions as a +1 pike. However, when attuned, the owner of this pike can use a bonus action to summon it to their hand, as long as they and the pike are on the same plane of existence. <br><br>Additionally, this weapon has the <a href='https://roll20.net/compendium/dnd5e/Weapons#content'><i>thrown</i></a> property.`,
+        "description": `This pike functions as a normal pike. However, at the end of its owner's turn, they can summon this pike instantly to their hand if not already carrying it, so long as the pike is within 1 mile.`,
         "img": "https://static.wikia.nocookie.net/forgottenrealms/images/4/4f/Returning_Pike.png",
-        "visible": false
+        "visible": true
     },
     {
         "title": "Snake Arrow",
@@ -445,13 +444,13 @@ data = [
         "cost": 25,
         "quantity": 9,
         "overview": `Is it worth the risk?`,
-        "description": `This energy-infused lemonade can be used to keep you going. when drinking it, you must make a <b>DC 8 Constitution</b> saving throw. On a success, you remove one level of exhaustion. On a failure, you collapse, dropping to 0 health and remaining unconscious for 1d8 + 1 hours.`,
+        "description": `This energy-infused lemonade can be used to keep you going. when drinking it, you must make an Endurance check. On a success, you remove one level of exhaustion. Otherwise, you collapse, dropping to 0 health and remaining unconscious for 1d8 + 1 hours.`,
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5U0iQs9eLHeMK7W9nHQZU_y6t3ov4iyC9Bg&s",
-        "visible": false
+        "visible": true
     },
     {
         "title": "PA System",
-        "cost": 150,
+        "cost": 130,
         "quantity": 1,
         "overview": `A (usually) clear method of communication`,
         "description": `A system composed of 1 microphone and 3 receivers. To tune into the microphone's signal, a receiver must be installed onto some fixed surface.
@@ -460,7 +459,7 @@ data = [
         However, greater range increases the chance of the message either never being received or being too muddled to be understood. Each additional 100 feet increases this chance by 5%.
         <br>Each day the system has 1d4+1 uses.`,
         "img": "https://cdn.shopify.com/s/files/1/1135/1806/t/12/assets/24fda0b69433--paging-sound-system-pgss-s10ma120btptt1-square-edcfc4.jpg",
-        "visible": false
+        "visible": true
     },
     {
         "title": "Pulled Punch Punch",
