@@ -182,7 +182,7 @@ data = [
     {
         "title": "Fizzy Lifting Drinks",
         "cost": 80,
-        "quantity": 1,
+        "quantity": 0,
         "overview": "Do not steal.",
         "description": "Drinking a bottle from this 4-pack gives you the ability to float around. For the next 1 minute, you have a flying speed of 10 ft.",
         "img": "https://wicked-good.co/cdn/shop/products/FizzyLiftingDrink-WillyWonkaScent.png?v=1759356407&width=1080",
@@ -227,7 +227,7 @@ data = [
     {
         "title": "Mockingbird Gum",
         "cost": 100,
-        "quantity": 2,
+        "quantity": 1,
         "overview": "Green-and-blue speckled minty sticks",
         "description": "A five-pack of chewing gum. Upon chewing one of these sticks, you're able to perfectly emulate another person's voice for up to an hour.",
         "img": "https://www.longmontcompletedentistry.com/blog/wp-content/uploads/2023/04/AdobeStock_43878704__1680914959_50471.jpg",
@@ -465,7 +465,7 @@ data = [
     {
         "title": "Pulled Punch Punch",
         "cost": 30,
-        "quantity": 3,
+        "quantity": 2,
         "overview": `Another excellent prank item`,
         "description": `This drink softens blows, and can easily be mixed into any beverage. 
         When a creature ingests it, they become unable to hit hard. 
