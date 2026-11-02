@@ -19,8 +19,8 @@ data = [
     },
     {
         "title": "Horse Hat",
-        "cost": 500,
-        "quantity": 0,
+        "cost": 1000,
+        "quantity": 1,
         "overview": "The easiest way to transport your horse.",
         "description": "This item allows you to store your horse on top of your head without having to make a strength roll. It doesn't conceal the horse; you can still see it if you squint.",
         "img": "./images/horsehat.png",
@@ -49,9 +49,11 @@ data = [
         "cost": 200,
         "quantity": 1,
         "overview": "The easiest way to see through the bullshit.",
-        "description": "When wearing these dichromatic spectacles, you can visually separate the truth or falsehood of anyone's speech by color. Truth appears to you as green; lies appear to you as red, and partial truths appear somewhere in between. They can be used for up to 10 minutes; afterwards, roll 1d6. On a 1, the glasses fracture beyond repair.",
+        "description": `When wearing these dichromatic spectacles, you can visually separate the truth or falsehood of anyone's speech by color. 
+        Truth appears to you as green; lies appear to you as red, and partial truths appear somewhere in between. 
+        They can be used for up to 10 minutes; afterwards, roll 1d6. On a 1, the glasses fracture beyond repair.`,
         "img": "./images/spectaclesrg.gif",
-        "visible": false
+        "visible": true
     },
     {
         "title": "Hammer of Surmise Sturdiness",
@@ -82,8 +84,8 @@ data = [
     },
     {
         "title": "Bocce Ball Set",
-        "cost": 125,
-        "quantity": 0,
+        "cost": 150,
+        "quantity": 1,
         "overview": "For the Italian in all of us",
         "description": "A bag containing 4 sets of 2 heavy balls of varying colors. To activate, throw the first ball of a set to a desired location. From there, two effects will be available to the thrower.</p><p><br></p><p>1. The exact distance between the 2 balls is known to the thrower.</p><p>2. The holder of the second ball has the option to teleport to the thrown ball. However, teleporting from one ball to the other expends that set of bocce balls.",
         "img": "./images/bocceballs.jpg",
@@ -168,7 +170,7 @@ data = [
         "overview": "",
         "description": "When pointed at a creature of similar size (no more than one size category smaller or larger than you) within 120 ft., the holder will switch places with that target, if the target is willing. If the target is unwilling, it must succeed a DC 13 Constitution save to resist. One charge per long rest.",
         "img": "https://5e.tools/img/items/DMG/Wand%20of%20Polymorph.webp",
-        "visible": false
+        "visible": true
     },
     {
         "title": "Gauntlets of Healing",
@@ -514,7 +516,7 @@ data = [
         "overview": `There's a new sheriff in town`,
         "description": `Adds your proficiency bonus to <b>Deception</b> checks when impersonating a person of authority. Will still add this bonus even if you're already proficient or have expertise in Deception.`,
         "img": "https://i5.walmartimages.com/asr/fdde174d-9eb7-421c-aa2a-d70d92699647.afb7d801b2af70cbb023b6f33a60848e.jpeg",
-        "visible": true
+        "visible": false
     },
     {
         "title": "Invisi-Cream",
@@ -595,7 +597,7 @@ On tails, the damage is doubled and applied immediately.
 <br><br>
 Once used, this coin cannot be used again until a long rest.`,
         "img": "https://www.wildwinds.com/coins/byz/justinian_I/GB_122cf.jpg",
-        "visible": true
+        "visible": false
     },
     {
         "title": "Polearm of the Tempest Lineage",
@@ -648,21 +650,21 @@ you can choose to not expend the die.`,
         "visible": false
     },
     {
-        "title": "Dagger of the First Mistake",
-        "cost": 650,
+        "title": "Dagger of the First Strike",
+        "cost": 500,
         "quantity": 1,
-        "overview": "Capitalize on weakness",
+        "overview": "",
         "description": `<i>Requires Attunement</i><br>
 
 This dagger is a <b>+1 weapon</b>.
 
 When you hit a creature that has not yet taken a turn in combat, 
-the attack deals an additional <b>2d6 damage</b>.
+the attack deals an additional <b>3d6 damage</b>.
 
 Additionally, once per turn, when you attack a creature with advantage, 
 you may reroll one of the dice.`,
-        "img": "https://cdn.pixabay.com/photo/2016/03/31/19/56/dagger-1295996_1280.png",
-        "visible": false
+        "img": "https://www.medievalcollectibles.com/wp-content/uploads/2019/04/NP-H-522-1.jpg",
+        "visible": true
     },
     {
         "title": "Cape of the Spotlight",
@@ -854,6 +856,56 @@ Once used, this ability cannot be used again until a long rest.`,
         "description": `This wooden stick transforms instantly into a venomous snake once the stick is broken. Use with caution.`,
         "img": "https://www.museumofplay.org/app/uploads/2021/08/stick_0.png",
         "visible": true
+    },
+    {
+        "title": "Scry-Bye",
+        "cost": 100,
+        "quantity": 2,
+        "overview": `Stop the peeping Toms`,
+        "description": `This small handheld device can be used to disable a scrying sensor. 
+        As an action, you can activated it and throw it in the vicinity of one, whereupon it explodes in a flash of light. 
+        Any scrying sensor within 30 ft. of where it lands will be magically disabled.
+        <br>Each Scry-Bye.`,
+        "img": "https://totowaairsoft.com/cdn/shop/files/ACW-SIM-D-D_1-480x480.jpg",
+        "visible": true
+    },
+    {
+        "title": "Eaves Dropper",
+        "cost": 400,
+        "quantity": 1,
+        "overview": `Does not moisturize eyes`,
+        "description": `This bottle of magic liquid can be used to for spying. As an action, you can use the dopper to place a drop into each of your eyes.
+        The glass bottle then functions as a magical lens, which you can see and hear through for up to 10 minutes per drop, as long as you and the bottle are on the same plane of existence. 
+        Each bottle contains enough for 10 uses.`,
+        "img": "https://cdn11.bigcommerce.com/s-neo29sbo9q/images/stencil/500x659/products/7658/18145/4699B33CLRBLK-WB__75327.1779128310.jpg",
+        "visible": true
+    },
+    {
+        "title": "Sample",
+        "cost": 0,
+        "quantity": 0,
+        "overview": ``,
+        "description": ``,
+        "img": "./images/",
+        "visible": false
+    },
+    {
+        "title": "Sample",
+        "cost": 0,
+        "quantity": 0,
+        "overview": ``,
+        "description": ``,
+        "img": "./images/",
+        "visible": false
+    },
+    {
+        "title": "Sample",
+        "cost": 0,
+        "quantity": 0,
+        "overview": ``,
+        "description": ``,
+        "img": "./images/",
+        "visible": false
     },
     {
         "title": "Sample",
