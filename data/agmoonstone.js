@@ -864,8 +864,7 @@ Once used, this ability cannot be used again until a long rest.`,
         "overview": `Stop the peeping Toms`,
         "description": `This small handheld device can be used to disable a scrying sensor. 
         As an action, you can activated it and throw it in the vicinity of one, whereupon it explodes in a flash of light. 
-        Any scrying sensor within 30 ft. of where it lands will be magically disabled.
-        <br>Each Scry-Bye.`,
+        Any scrying sensor within 30 ft. of where it lands will be magically disabled.`,
         "img": "https://totowaairsoft.com/cdn/shop/files/ACW-SIM-D-D_1-480x480.jpg",
         "visible": true
     },
