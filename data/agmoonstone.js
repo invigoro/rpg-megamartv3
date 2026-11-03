@@ -880,13 +880,14 @@ Once used, this ability cannot be used again until a long rest.`,
         "visible": true
     },
     {
-        "title": "Sample",
-        "cost": 0,
-        "quantity": 0,
-        "overview": ``,
-        "description": ``,
-        "img": "./images/",
-        "visible": false
+        "title": "Powernap Potion",
+        "cost": 500,
+        "quantity": 3,
+        "overview": `Better than melatonin`,
+        "description": `As an action, you can drink this potion, after which you immediately fall into a deep slumber, and are incapacitated for one turn.
+        At the end of your next turn, you awaken having gained the effects of a long rest. If this potion is drunk as a bonus action, the effect gained after waking is only that of a short rest.`,
+        "img": "https://www.gamerguides.com/assets/media/15/17234/item_cons_potion_rare_a_bronze-94b2e207.png",
+        "visible": true
     },
     {
         "title": "Sample",
