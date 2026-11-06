@@ -863,7 +863,7 @@ Once used, this ability cannot be used again until a long rest.`,
         "quantity": 2,
         "overview": `Stop the peeping Toms`,
         "description": `This small handheld device can be used to disable a scrying sensor. 
-        As an action, you can activated it and throw it in the vicinity of one, whereupon it explodes in a flash of light. 
+        As an action, you can activate it and throw it in the vicinity of one, whereupon it explodes in a flash of light. 
         Any scrying sensor within 30 ft. of where it lands will be magically disabled.`,
         "img": "https://totowaairsoft.com/cdn/shop/files/ACW-SIM-D-D_1-480x480.jpg",
         "visible": true
@@ -897,7 +897,7 @@ Once used, this ability cannot be used again until a long rest.`,
         "description": `This DLC for the <a href='https://dnd5e.wikidot.com/spell:snare'><i>Snare</i></a> spell provides a single-use boost to a trap. 
         When casting <i>Snare</i>, you can place this explosive device inside the trap. When the trap is triggered, the device explodes, dealing 
         10d8 force damage to the target on failing <i>Snare</i>'s <b>DEX</b> save, or half as much on a success. Additionally, if the target rolled a 
-        <b>1</b> on the save, one of the target's limbs is severed by the explosion. The target then is then hoisted into the air by the trap as normal.
+        <b>1</b> on the save, one of the target's limbs is severed by the explosion. The target is then hoisted into the air by the trap as normal.
         <br><br>If the device is not detonated before the spell ends, it is not expended, and can be placed again in the same way as before.`,
         "img": "https://upload.wikimedia.org/wikipedia/commons/7/7c/TM-46_AP-mine.JPEG",
         "visible": true
