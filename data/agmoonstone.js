@@ -890,13 +890,17 @@ Once used, this ability cannot be used again until a long rest.`,
         "visible": true
     },
     {
-        "title": "Sample",
-        "cost": 0,
-        "quantity": 0,
-        "overview": ``,
-        "description": ``,
-        "img": "./images/",
-        "visible": false
+        "title": "Snare++",
+        "cost": 200,
+        "quantity": 2,
+        "overview": `Level up your level 1 spell`,
+        "description": `This DLC for the <a href='https://dnd5e.wikidot.com/spell:snare'><i>Snare</i></a> spell provides a single-use boost to a trap. 
+        When casting <i>Snare</i>, you can place this explosive device inside the trap. When the trap is triggered, the device explodes, dealing 
+        10d8 force damage to the target on failing <i>Snare</i>'s <b>DEX</b> save, or half as much on a success. Additionally, if the target rolled a 
+        <b>1</b> on the save, one of the target's limbs is severed by the explosion. The target then is then hoisted into the air by the trap as normal.
+        <br><br>If the device is not detonated before the spell ends, it is not expended, and can be placed again in the same way as before.`,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/7/7c/TM-46_AP-mine.JPEG",
+        "visible": true
     },
     {
         "title": "Sample",
